@@ -70,6 +70,7 @@
     <build>
         <pluginManagement>
             <plugins>
+                
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
@@ -83,6 +84,17 @@
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>3.0.0-M5</version>
                 </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-site-plugin</artifactId>
+                    <version>3.7.1</version>
+                  </plugin>
+                  <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-project-info-reports-plugin</artifactId>
+                    <version>3.0.0</version>
+                  </plugin>
+
                 <!-- Jacoco -->
                 <plugin>
                     <groupId>org.jacoco</groupId>
@@ -105,6 +117,16 @@
                         </execution>
                     </executions>
                 </plugin>
+                <!-- Checkstyle -->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-checkstyle-plugin</artifactId>
+                    <version>3.0.0</version>
+                    <configuration>
+                        <configLocation>checkstyle.xml</configLocation>
+                    </configuration>
+                </plugin>
+                
             </plugins>
     </pluginManagement>
     </build>
