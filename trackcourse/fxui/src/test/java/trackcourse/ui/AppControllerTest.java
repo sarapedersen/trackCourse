@@ -53,8 +53,6 @@ public class AppControllerTest extends ApplicationTest {
     controller = fxmlLoader.getController();
     stage.setScene(new Scene(parent));
     stage.show();
-    // In order not to overwrite the presaved subjects, its saved here and loaded after the tests
-    presaved_subs = controller.getSubjects();
     }
 
     @Test
@@ -75,6 +73,7 @@ public class AppControllerTest extends ApplicationTest {
         Assertions.assertEquals(subjects.size(), 1);
 
     }
+/*
 
     @Test
     public void testReset(){
@@ -95,7 +94,7 @@ public class AppControllerTest extends ApplicationTest {
         Assertions.assertEquals(subjects.size(), 0);
 
     }
-/* Work in prosess
+ Work in prosess
 /* Test save function without overwriting the subjects thats already saved
     @Test
     public void testSave() throws Exception{

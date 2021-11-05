@@ -41,12 +41,7 @@ public class AppController{
     @FXML ListView nameList;
     @FXML ListView averageList;
 
-    public Collection<Subject> getSubjects(){
-        return this.subjects;
-    }
-    public void setSubjects(Collection<Subject> subs){
-        this.subjects = subs;
-    }
+
 
 
     @FXML 
