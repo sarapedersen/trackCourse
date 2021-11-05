@@ -42,12 +42,12 @@ public class FileHandlerApp {
 
 
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {   
-        for (Subject sub : subs) {
-          ObjectMapper objectMapper = new ObjectMapper(); 
-          objectMapper.writeValue(
-            new FileOutputStream(System.getProperty("user.home") + "/json/" + sub.getName() + ".json"), sub);
-            
-          }
+    for (Subject sub : subs) {
+      ObjectMapper objectMapper = new ObjectMapper(); 
+      objectMapper.writeValue(
+        new FileOutputStream("./json/" + sub.getName() + ".json"), sub);
+      }
+
   }
 
 
