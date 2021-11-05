@@ -1,0 +1,29 @@
+@startuml
+
+component core {
+    package trackcourse.core
+}
+
+component fxui {
+    package json
+    package trackcourse.ui
+}
+
+trackcourse.core ..> trackcourse.ui
+
+component jackson {
+
+}
+
+json ..> jackson
+
+component javafx {
+    component fxml {
+
+    }
+}
+
+fxui ..> javafx
+fxui ..> fxml
+
+@enduml

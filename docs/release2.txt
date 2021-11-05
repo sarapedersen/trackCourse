@@ -1,0 +1,5 @@
+Skal kunne lagre til fil, og hente ut igjen ved en senere anledning ved hjelp av JSON
+Appen skal kunne lagre flere ganger uten å krasje
+Man skal kunne teste appens kode ved hjelp av jacoco
+Appen skal ha et ikon
+En skal kunne se appens struktur med PlantUML
