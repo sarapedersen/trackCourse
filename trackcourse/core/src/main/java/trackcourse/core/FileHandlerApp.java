@@ -23,7 +23,7 @@ public class FileHandlerApp {
 
     private Collection<Subject> subjects = new ArrayList<>();
 
-    
+
 
     public FileHandlerApp(Collection<Subject> subs) {
       this.subjects = subs;
@@ -33,12 +33,7 @@ public class FileHandlerApp {
       
     }
 
-    public Collection<Subject> getSubjects() {
-      return this.subjects;
-    }
-    public void setSubjects(Collection<Subject> subs){
-      this.subjects = subs;
-    }
+
 
 
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {   
@@ -64,8 +59,10 @@ public class FileHandlerApp {
           Subject sub = objectMapper.readValue(file, Subject.class); 
           subjects.add(sub);
         }
+ 
+        return subjects;
 
-          return subjects;
+          
 
     }
 
@@ -73,9 +70,15 @@ public class FileHandlerApp {
       File f = new File("./json/");
 		  File filesList[] = f.listFiles();
       for (File file : filesList) {
-        if (!file.isDirectory()) 
-          file.delete(); 
+        if (!file.isDirectory()) {
+        boolean success = file.delete();
+        if (success) {
+          System.out.println("File deleted.");
+        } else {
+          System.out.println("File could not be deleted.");
+        } 
       }
+    }
     }
 
 
