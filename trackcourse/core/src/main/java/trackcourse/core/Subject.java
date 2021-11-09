@@ -1,5 +1,6 @@
 package trackcourse.core;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
@@ -14,8 +15,9 @@ public class Subject {
     private final Collection<Integer> timeconsumption = new ArrayList<>();
     private final Collection<Integer> entertainment = new ArrayList<>();
 
-    public Subject(String courseCode) {
+    public Subject(String courseCode) throws IOException {
         this.courseCode = courseCode;
+        this.fullName = CourseList.getFullName(courseCode);
         ratings.put("difficulty", 0.0);
         ratings.put("timeconsumption", 0.0);
         ratings.put("entertainment", 0.0);

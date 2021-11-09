@@ -91,7 +91,7 @@ public class AppController{
     }
     
     @FXML
-    void submit(){
+    void submit() throws IOException{
         // Checks if the subject already have been submitted or loaded
         Subject sub = null;
         for (Subject subject : subjects) {
