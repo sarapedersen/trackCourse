@@ -10,7 +10,7 @@ public class SubjectTest {
     @Test
     public void testConstructor() {
         Subject sub = new Subject("ITGK");
-        Assertions.assertEquals(sub.getName(), "ITGK");
+        Assertions.assertEquals(sub.getCourseCode(), "ITGK");
         Assertions.assertEquals(sub.getDifficulty(), 0.0);
         Assertions.assertEquals(sub.getEntertainment(), 0.0);
         Assertions.assertEquals(sub.getTimeconsumption(), 0.0);
@@ -23,7 +23,7 @@ public class SubjectTest {
     @Test
     public void testUpdateFunctions() {
     Subject sub = new Subject("Math");
-    Assertions.assertEquals(sub.getName(), "Math");
+    Assertions.assertEquals(sub.getCourseCode(), "Math");
     sub.updateDifficulty(5);
     Assertions.assertEquals(sub.getDifficulty(), 5);
     sub.updateDifficulty(6);
@@ -41,9 +41,9 @@ public class SubjectTest {
     public void testSetName(){
 
         Subject sub = new Subject("Math");
-        sub.setName("ALGDAT");
-        Assertions.assertFalse(sub.getName() == "Math");
-        Assertions.assertEquals(sub.getName(), "ALGDAT");
+        sub.setCourseCode("ALGDAT");
+        Assertions.assertFalse(sub.getCourseCode() == "Math");
+        Assertions.assertEquals(sub.getCourseCode(), "ALGDAT");
         
     }
 

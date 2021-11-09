@@ -95,7 +95,7 @@ public class AppController{
         // Checks if the subject already have been submitted or loaded
         Subject sub = null;
         for (Subject subject : subjects) {
-            if (subject.getName().equals(nameInput.getText())) {
+            if (subject.getCourseCode().equals(nameInput.getText())) {
                 sub = subject;
             }
         }
@@ -137,7 +137,7 @@ public class AppController{
         
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
-            subjectNames.add(subject.getName());
+            subjectNames.add(subject.getCourseCode());
             subjectAverage.add(String.valueOf(df.format(subject.average())));
         }
        
