@@ -8,17 +8,19 @@ import trackcourse.core.Subject;
 
 public class SubjectTest {
     private Subject testSubject;
-    private String testCode = "IT1901";
+    private String testCode = "TDT4105";
+    private String testName = "ITGK";
 
     @BeforeEach
     public void setup() {
         testSubject = new Subject(testCode);
+        testSubject.setFullName(testName);
     }
 
     @Test
     public void testConstructor() {
-        testSubject = new Subject("TDT4106");
-        Assertions.assertEquals(testSubject.getName(), "TDT4106");
+        testSubject = new Subject("TMA4100");
+        Assertions.assertEquals(testSubject.getCourseCode(), "TMA4100");
         Assertions.assertEquals(testSubject.getDifficulty(), 0.0);
         Assertions.assertEquals(testSubject.getEntertainment(), 0.0);
         Assertions.assertEquals(testSubject.getTimeconsumption(), 0.0);
@@ -28,10 +30,18 @@ public class SubjectTest {
     }
     
     @Test
-    public void testSetName(){
-        testSubject.setName("IT2805");
-        Assertions.assertFalse(testSubject.getName() == testCode);
-        Assertions.assertEquals(testSubject.getName(), "IT2805");
+    public void testSetCourseCode(){
+        testSubject.setCourseCode("IT2805");
+        Assertions.assertFalse(testSubject.getCourseCode() == testCode);
+        Assertions.assertEquals(testSubject.getCourseCode(), "IT2805");
+        
+    }
+
+    @Test
+    public void testSetFullName(){
+        testSubject.setFullName("Matematikk 1");
+        Assertions.assertFalse(testSubject.getFullName() == testName);
+        Assertions.assertEquals(testSubject.getFullName(), "Matematikk 1");
         
     }
     
