@@ -74,7 +74,7 @@ public class CourseList {
 
 
 public static void main(String[] args) throws IOException {
-    System.out.println(validate("TDT4100"));
+    System.out.println(getFullName("TDT4100"));
 }
 
 

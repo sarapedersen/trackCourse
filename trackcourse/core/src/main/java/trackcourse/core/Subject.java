@@ -16,8 +16,10 @@ public class Subject {
     private final Collection<Integer> entertainment = new ArrayList<>();
 
     public Subject(String courseCode) throws IOException {
+        System.out.println("hei");
         this.courseCode = courseCode;
         this.fullName = CourseList.getFullName(courseCode);
+        
         ratings.put("difficulty", 0.0);
         ratings.put("timeconsumption", 0.0);
         ratings.put("entertainment", 0.0);
