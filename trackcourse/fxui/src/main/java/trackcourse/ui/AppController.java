@@ -1,7 +1,6 @@
 package trackcourse.ui;
 
 import java.util.Collection;
-import java.util.logging.FileHandler;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 
@@ -13,15 +12,10 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.DecimalFormat;
 
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
+import javafx.scene.control.Dialog;
 import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
-import javafx.scene.control.SplitPane;
 import javafx.scene.control.TextField;
-import javafx.scene.input.InputEvent;
-import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.Pane;
 
 import javafx.fxml.FXML;
 
@@ -44,8 +38,26 @@ public class AppController{
 
     @FXML
     void subjectSelected(){
+        String selected = (String) nameList.getSelectionModel().getSelectedItem();
+        Subject subject = subjectDetails(selected);
+        nameInput.setText(subject.getName());
         /*subjectDetails
         nameInput.setText(nameList.getItems().toString());*/
+    }
+
+    @FXML
+    void onDetails() {
+        String selected = (String) nameList.getSelectionModel().getSelectedItem();
+        Subject subject = subjectDetails(selected);
+
+        Dialog<Void> subjectPopUp = new Dialog<Void>();
+        subjectPopUp.setTitle(subject.getName());
+        subjectPopUp.setContentText("Name: " + subject.getName() + "\n" 
+        + "difficulty ratings: " + subject.getDifficulty() + "\n"
+        + "timeConsumption ratings: " + subject.getTimeconsumption() + "\n"
+        + "entertainment ratings: " + subject.getEntertainment() + "\n"
+        + "Average: " + subject.average());
+        subjectPopUp.showAndWait();
     }
 
     @FXML 
@@ -109,7 +121,7 @@ public class AppController{
 
         // Creating empty FXCollection.obserableArrayLists for the Names and the average score
         ObservableList<String> subjectNames = FXCollections.observableArrayList();
-        ObservableList<String> subjectAverage = FXCollections.observableArrayList(); 
+        ObservableList<String> subjectAverage = FXCollections.observableArrayList();
 
         // Sorts the existing subjects by highest score.
         

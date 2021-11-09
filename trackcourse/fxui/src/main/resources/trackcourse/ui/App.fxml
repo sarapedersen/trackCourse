@@ -30,6 +30,7 @@
             <Button fx:id="submitButton" layoutX="44.0" layoutY="323.0" mnemonicParsing="false" onMouseClicked="#submit" prefHeight="39.0" prefWidth="106.0" style="-fx-background-color: e7f1f3; -fx-background-radius: 20;" styleClass="shadow" stylesheets="@style.css" text="Submit" />
             <Button fx:id="saveButton" layoutX="105.0" layoutY="385.0" mnemonicParsing="false" onMouseClicked="#onSave" style="-fx-background-color: e7f1f3; -fx-background-radius: 20;" styleClass="shadow" text="Save" />
             <Button fx:id="loadButton" layoutX="44.0" layoutY="385.0" mnemonicParsing="false" onMouseClicked="#onLoad" style="-fx-background-color: e7f1f3; -fx-background-radius: 20;" styleClass="shadow" text="Load" />
+            <Button fx:id="detailsButton" layoutX="64.0" layoutY="425.0" mnemonicParsing="false" onMouseClicked="#onDetails" style="-fx-background-color: e7f1f3; -fx-background-radius: 20;" styleClass="shadow" text="details" />
          </children>
       </Pane>
       <Pane layoutX="42.0" layoutY="102.0" prefHeight="360.0" prefWidth="180.0">
