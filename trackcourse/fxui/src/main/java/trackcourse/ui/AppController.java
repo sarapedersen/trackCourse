@@ -1,6 +1,7 @@
 package trackcourse.ui;
 
 import java.util.Collection;
+import java.util.List;
 import java.util.logging.FileHandler;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -56,6 +57,7 @@ public class AppController{
     void onLoad() throws FileNotFoundException, IOException {
         FileHandlerApp loader = new FileHandlerApp();
         subjects = loader.readFromJson();
+        sortSubjects();
         updateLists();
         System.out.println(subjects);
            
@@ -66,6 +68,26 @@ public class AppController{
 
         subjects.clear();
         updateLists();    
+    }
+
+    public void sortSubjects() {
+        ArrayList<Subject> sortedList = new ArrayList<>();
+        for (Subject subject : subjects) {
+            if (sortedList.isEmpty()) {
+                sortedList.add(subject);
+            } else {
+                int i = 0;
+                for (Subject sub : sortedList) {
+                    if (sub.average() >= subject.average()) {
+                        i++;
+                    } else {
+                        break;
+                    }
+                }
+                sortedList.add(i, subject);
+            }
+        }
+        this.subjects = sortedList;
     }
     
     @FXML
@@ -84,12 +106,16 @@ public class AppController{
             subjects.add(sub);
         }
 
+        
+
     
         // Updates the parameters
         sub.updateDifficulty((int) diffSlider.getValue());
         sub.updateEntertainment((int) happySlider.getValue());
         sub.updateTimeconsumption((int) timeSlider.getValue());
 
+        sortSubjects();
+        
         // Updates the list views
         updateLists();
         System.out.println(subjects);
@@ -106,6 +132,8 @@ public class AppController{
         // Creating empty FXCollection.obserableArrayLists for the Names and the average score
         ObservableList<String> subjectNames = FXCollections.observableArrayList();
         ObservableList<String> subjectAverage = FXCollections.observableArrayList(); 
+
+        // Sorts the existing subjects by highest score.
         
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
