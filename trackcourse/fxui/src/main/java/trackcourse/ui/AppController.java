@@ -42,7 +42,11 @@ public class AppController{
     @FXML ListView averageList;
 
 
-
+    @FXML
+    void subjectSelected(){
+        /*subjectDetails
+        nameInput.setText(nameList.getItems().toString());*/
+    }
 
     @FXML 
     void onSave() throws JsonProcessingException, IOException {
@@ -106,6 +110,8 @@ public class AppController{
         // Creating empty FXCollection.obserableArrayLists for the Names and the average score
         ObservableList<String> subjectNames = FXCollections.observableArrayList();
         ObservableList<String> subjectAverage = FXCollections.observableArrayList(); 
+
+        // Sorts the existing subjects by highest score.
         
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
@@ -119,6 +125,21 @@ public class AppController{
         // Addomg the average score to the list view
         averageList.setItems(subjectAverage);
 
+
+
+      
+
     }
+
+    public Subject subjectDetails(String name) {
+        Subject subject = null;
+        for (Subject sub : subjects) {
+            if (sub.getName().equals(name)) {
+                subject = sub;
+                break;
+            }
+        }
+        return subject;
+    } 
 
 }
