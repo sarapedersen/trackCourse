@@ -1,4 +1,0 @@
-module springserver {
-
-opens springserver;
-}

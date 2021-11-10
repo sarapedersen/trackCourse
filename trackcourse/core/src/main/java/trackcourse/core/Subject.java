@@ -25,44 +25,45 @@ public class Subject {
     }
 
     public Subject() {
-        
+
     }
 
     public String getName() {
         return this.name;
     }
-    public void setName(String name){
+
+    public void setName(String name) {
         this.name = name;
     }
-
 
     public double getDifficulty() {
         return ratings.get("difficulty");
     }
-    public void setDifficulty(double diff){
+
+    public void setDifficulty(double diff) {
         ratings.put("difficulty", diff);
     }
-
 
     public double getTimeconsumption() {
         return ratings.get("timeconsumption");
     }
-    public void setTimeconsumption(double time){
+
+    public void setTimeconsumption(double time) {
         ratings.put("timeconsumption", time);
     }
-
 
     public double getEntertainment() {
         return ratings.get("entertainment");
     }
+
     public void setEntertainment(double entertainment) {
         ratings.put("entertainment", entertainment);
     }
-    
 
     public double getNumDifficulty() {
         return ratings.get("numDifficulty");
     }
+
     public void setNumDifficulty(double numDiff) {
         ratings.put("numDifficulty", numDiff);
     }
@@ -70,6 +71,7 @@ public class Subject {
     public double getNumTimeconsumption() {
         return ratings.get("numTimeconsumption");
     }
+
     public void setNumTimeconsumption(double numTime) {
         ratings.put("numTimeconsumption", numTime);
     }
@@ -77,6 +79,7 @@ public class Subject {
     public double getNumEntertainment() {
         return ratings.get("numEntertainment");
     }
+
     public void setNumEntertainment(double numEntertainment) {
         ratings.put("numEntertainment", numEntertainment);
     }
@@ -123,7 +126,7 @@ public class Subject {
         double diff = getDifficulty();
         double num = getNumDifficulty();
         ratings.put("difficulty", ((diff * num) + grade) / (num + 1));
-        ratings.put("numDifficulty", num+1);
+        ratings.put("numDifficulty", num + 1);
     }
 
     public void updateTimeconsumption(int grade) {
@@ -134,7 +137,7 @@ public class Subject {
         double time = getTimeconsumption();
         double num = getNumTimeconsumption();
         ratings.put("timeconsumption", ((time * num) + grade) / (num + 1));
-        ratings.put("numTimeconsumption", num+1);
+        ratings.put("numTimeconsumption", num + 1);
     }
 
     public void updateEntertainment(int grade) {
@@ -152,7 +155,4 @@ public class Subject {
         return ((ratings.get("difficulty") + ratings.get("timeconsumption") + ratings.get("entertainment")) / 3);
     }
 
-    
-
-    
 }
