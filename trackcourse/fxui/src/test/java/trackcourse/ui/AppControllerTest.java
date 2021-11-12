@@ -14,6 +14,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.testfx.framework.junit5.ApplicationTest;
 
@@ -60,9 +61,33 @@ public class AppControllerTest extends ApplicationTest {
         Assertions.assertNotNull(this.controller);
     }
 
-
     @Test
-    public void testSubject() {
+    public void testReset(){
+
+        Collection<Subject> subjects = new ArrayList<>();
+
+  
+            Subject sub = new Subject("ALGDAT");
+            subjects.add(sub);
+            sub.updateDifficulty(15);
+            sub.updateTimeconsumption(15);
+            sub.updateEntertainment(15);
+       
+        
+        controller.setSubjects(subjects);
+        Assertions.assertEquals(subjects.size(), 1);
+        controller.onReset();
+        Assertions.assertEquals(subjects.size(), 0);
+
+    }
+
+/*
+    @Test
+    public void testValidation() {
+
+        nameInput.setText("ALGDAT");
+        controller.submit();
+
 
         Collection<Subject> subjects = new ArrayList<>();
 
@@ -75,25 +100,7 @@ public class AppControllerTest extends ApplicationTest {
     }
 /*
 
-    @Test
-    public void testReset(){
-
-        Collection<Subject> subjects = new ArrayList<>();
-
-        for(int i = 0; i < 5; i++){
-            Subject sub = new Subject("ALGDAT" + Integer.toString(i));
-            subjects.add(sub);
-            sub.updateDifficulty(15+i);
-            sub.updateTimeconsumption(15+i);
-            sub.updateEntertainment(15+i);
-        }        
-        
-        controller.setSubjects(subjects);
-        Assertions.assertEquals(subjects.size(), 5);
-        controller.onReset();
-        Assertions.assertEquals(subjects.size(), 0);
-
-    }
+    
  Work in prosess
 /* Test save function without overwriting the subjects thats already saved
     @Test
