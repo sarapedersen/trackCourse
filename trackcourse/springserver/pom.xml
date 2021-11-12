@@ -69,16 +69,43 @@
             <version>2.3.4.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <artifactId>spring-boot-test-autoconfigure</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <version>2.2.6.RELEASE</version>
+        </dependency>
+        <dependency>
+            <!-- Import dependency management from Spring Boot -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-dependencies</artifactId>
+            <version>2.5.6</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
 
     </dependencies>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>spring-snapshots</id>
+            <url>https://repo.spring.io/snapshot</url>
+        </pluginRepository>
+        <pluginRepository>
+            <id>spring-milestones</id>
+            <url>https://repo.spring.io/milestone</url>
+        </pluginRepository>
+    </pluginRepositories>
 
     <build>
         <plugins>
 
-            <!-- Spring server: -->
+
+            <!-- SpringBoot -->
+
+
             <plugin>
-                <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <groupId>org.springframework.boot</groupId>
             </plugin>
 
 
@@ -102,6 +129,10 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
+
+
         </plugins>
+
+
     </build>
 </project>

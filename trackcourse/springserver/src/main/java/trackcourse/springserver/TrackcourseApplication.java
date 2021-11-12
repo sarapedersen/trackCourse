@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class VisitLogApplication {
+public class TrackcourseApplication {
 
   /**
    * Starts the application.
@@ -14,6 +14,6 @@ public class VisitLogApplication {
    * @param args command line args
    */
   public static void main(String[] args) {
-    SpringApplication.run(VisitLogApplication.class, args);
+    SpringApplication.run(TrackcourseApplication.class, args);
   }
 }

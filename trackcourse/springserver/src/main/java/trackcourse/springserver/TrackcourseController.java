@@ -44,9 +44,8 @@ public class TrackcourseController {
    * @param Subject visit to add
    * @return true after adding visit
    */
-  @PostMapping
-  protected boolean addSubjcet(@RequestBody Subject sub) {
-    trackService.addSubject(sub);
-    return true;
-  }
+  /*
+   * @PostMapping protected boolean addSubjcet(@RequestBody Subject sub) {
+   * trackService.addSubject(sub); return true; }
+   */
 }
