@@ -2,6 +2,10 @@ package trackcourse.ui;
 
 import java.util.Collection;
 
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 import java.util.ArrayList;
@@ -25,6 +29,7 @@ import trackcourse.core.FileHandlerApp;
 public class AppController{
 
     private Collection<Subject> subjects = new ArrayList<>();
+    DecimalFormat df = new DecimalFormat("##.#");
 
     
     
@@ -45,19 +50,40 @@ public class AppController{
         nameInput.setText(nameList.getItems().toString());*/
     }
 
+    /** Returns an ImageIcon, or null if the path was invalid. */
+    protected ImageIcon createImageIcon(String path) {
+    java.net.URL imgURL = getClass().getResource(path);
+    if (imgURL != null) {
+        return new ImageIcon(imgURL);
+    } else {
+        System.err.println("Couldn't find file: " + path);
+        return null;
+    }
+    }
+
     @FXML
     void onDetails() {
         String selected = (String) nameList.getSelectionModel().getSelectedItem();
         Subject subject = subjectDetails(selected);
 
+        
+        JFrame frame = new JFrame();
+        JOptionPane.showMessageDialog(frame,
+        "Average difficulty: " + df.format(subject.getDifficulty()) + "\n\n"
+        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n\n"
+        + "Average joy: " + df.format(subject.getEntertainment()) + "\n\n"
+        + "Average overall: " + df.format(subject.average()) + "\n\n",
+        subject.getName(),
+        JOptionPane.INFORMATION_MESSAGE);
+/*
         Dialog<Void> subjectPopUp = new Dialog<Void>();
         subjectPopUp.setTitle(subject.getName());
         subjectPopUp.setContentText("Name: " + subject.getName() + "\n" 
-        + "difficulty ratings: " + subject.getDifficulty() + "\n"
-        + "timeConsumption ratings: " + subject.getTimeconsumption() + "\n"
-        + "entertainment ratings: " + subject.getEntertainment() + "\n"
-        + "Average: " + subject.average());
-        subjectPopUp.showAndWait();
+        + "Average difficulty: " + df.format(subject.getDifficulty()) + "\n"
+        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n"
+        + "Average joy: " + df.format(subject.getEntertainment()) + "\n"
+        + "Average overall: " + df.format(subject.average()));
+        subjectPopUp.showAndWait();*/
     }
 
     @FXML 
