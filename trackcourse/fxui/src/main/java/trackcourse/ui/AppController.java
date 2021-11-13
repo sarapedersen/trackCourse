@@ -37,14 +37,15 @@ public class AppController{
     @FXML Slider diffSlider;
     @FXML Slider timeSlider;
     @FXML Slider happySlider;
-    @FXML ListView nameList;
-    @FXML ListView averageList;
+    @FXML ListView subjectListView;
 
 
     @FXML
     void subjectSelected(){
-        String selected = (String) nameList.getSelectionModel().getSelectedItem();
-        Subject subject = subjectDetails(selected);
+        //String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String[] splitted = selected.split("\\s+");
+        Subject subject = subjectDetails(splitted[0]);
         nameInput.setText(subject.getName());
         /*subjectDetails
         nameInput.setText(nameList.getItems().toString());*/
@@ -63,8 +64,9 @@ public class AppController{
 
     @FXML
     void onDetails() {
-        String selected = (String) nameList.getSelectionModel().getSelectedItem();
-        Subject subject = subjectDetails(selected);
+        String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String[] splitted = selected.split("\\s+");
+        Subject subject = subjectDetails(splitted[0]);
 
         
         JFrame frame = new JFrame();
@@ -166,31 +168,17 @@ public class AppController{
     @FXML
     void updateLists(){
 
-        // Makes it write the average score in the format XX,X
-        // For example 13,2
-        DecimalFormat df = new DecimalFormat("##.#");
-
         // Creating empty FXCollection.obserableArrayLists for the Names and the average score
-        ObservableList<String> subjectNames = FXCollections.observableArrayList();
-        ObservableList<String> subjectAverage = FXCollections.observableArrayList();
+        ObservableList<String> subjects4ListView = FXCollections.observableArrayList();
 
-        // Sorts the existing subjects by highest score.
         
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
-            subjectNames.add(subject.getName());
-            subjectAverage.add(String.valueOf(df.format(subject.average())));
+            subjects4ListView.add(subject.getName() + " // " + String.valueOf(df.format(subject.average())));
         }
        
         // Adding the names to the list view
-        nameList.setItems(subjectNames);
-
-        // Addomg the average score to the list view
-        averageList.setItems(subjectAverage);
-
-
-
-      
+        subjectListView.setItems(subjects4ListView);
 
     }
 
