@@ -98,6 +98,7 @@ public class AppController{
     void onLoad() throws FileNotFoundException, IOException {
         FileHandlerApp loader = new FileHandlerApp();
         subjects = loader.readFromJson();
+        sortSubjects();
         updateLists();
         System.out.println(subjects);
            
@@ -108,6 +109,26 @@ public class AppController{
 
         subjects.clear();
         updateLists();    
+    }
+
+    public void sortSubjects() {
+        ArrayList<Subject> sortedList = new ArrayList<>();
+        for (Subject subject : subjects) {
+            if (sortedList.isEmpty()) {
+                sortedList.add(subject);
+            } else {
+                int i = 0;
+                for (Subject sub : sortedList) {
+                    if (sub.average() >= subject.average()) {
+                        i++;
+                    } else {
+                        break;
+                    }
+                }
+                sortedList.add(i, subject);
+            }
+        }
+        this.subjects = sortedList;
     }
     
     @FXML
@@ -126,12 +147,16 @@ public class AppController{
             subjects.add(sub);
         }
 
+        
+
     
         // Updates the parameters
         sub.updateDifficulty((int) diffSlider.getValue());
         sub.updateEntertainment((int) happySlider.getValue());
         sub.updateTimeconsumption((int) timeSlider.getValue());
 
+        sortSubjects();
+        
         // Updates the list views
         updateLists();
         System.out.println(subjects);
