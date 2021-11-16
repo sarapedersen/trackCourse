@@ -121,9 +121,9 @@ public class AppController{
 
     @FXML
     void validate() throws IOException {
-        if (CourseList.validate(nameInput.getText())) {
+        if (CourseList.validate(nameInput.getText().toUpperCase())) {
             courseError.setText("");
-            preview.setText(CourseList.getFullName(nameInput.getText()));
+            preview.setText(CourseList.getFullName(nameInput.getText().toUpperCase()));
             submitButton.setVisible(true);
         }
         else {
@@ -169,14 +169,14 @@ public class AppController{
         // Checks if the subject already have been submitted or loaded
         Subject sub = null;
         for (Subject subject : subjects) {
-            if (subject.getCourseCode().equals(nameInput.getText())) {
+            if (subject.getCourseCode().equals(nameInput.getText().toUpperCase())) {
                 sub = subject;
             }
         }
 
         // If the subject doesnt already exist, add it to the collection of subjects
         if (sub == null) {
-            sub = new Subject(nameInput.getText());
+            sub = new Subject(nameInput.getText().toUpperCase());
             subjects.add(sub);
         }
 
@@ -217,7 +217,7 @@ public class AppController{
     public Subject subjectDetails(String name) {
         Subject subject = null;
         for (Subject sub : subjects) {
-            if (sub.getCourseCode().equals(name)) {
+            if (sub.getCourseCode().equals(name.toUpperCase())) {
                 subject = sub;
                 break;
             }
