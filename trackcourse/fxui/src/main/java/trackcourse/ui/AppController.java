@@ -13,7 +13,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.net.http.HttpRequest.BodyPublishers;
 import java.text.DecimalFormat;
 
@@ -66,13 +68,26 @@ public class AppController {
 
         URI uri = null;
         try {
-            uri = new URI("http://localhost:8080/test");
+            uri = new URI("http://localhost:8080/courses");
         } catch (URISyntaxException e) {
             System.out.println(e.getMessage());
         }
 
-        HttpRequest request = HttpRequest.newBuilder(uri).header("Accept", "application/json")
-                .header("Content-Type", "application/json").POST(BodyPublishers.ofString("HelloWorld")).build();
+        HttpRequest req = HttpRequest.newBuilder(uri).header("Accept", "application/json")
+                .header("Content-Type", "application/json").POST(BodyPublishers.ofString("WHOOOHOOOOO")).build();
+
+        try {
+            HttpClient.newBuilder().build().send(req, HttpResponse.BodyHandlers.ofString());
+        } catch (IOException | InterruptedException e) {
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            System.out.println("EROOR!");
+            throw new RuntimeException(e);
+        }
 
     }
 
@@ -143,6 +158,14 @@ public class AppController {
         // Addomg the average score to the list view
         averageList.setItems(subjectAverage);
 
+    }
+
+    @FXML
+    void onDetails() {
+    }
+
+    @FXML
+    void subjectSelected() {
     }
 
 }

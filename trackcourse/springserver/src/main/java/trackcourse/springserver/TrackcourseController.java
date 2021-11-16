@@ -18,9 +18,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TrackcourseController {
 
-  @RequestMapping("/test")
+  @RequestMapping("/helloworld")
   public String Hello() {
     return "Hello World";
+  }
+
+  @RequestMapping("/courses")
+  public String Hello(String json) {
+    return json;
   }
 
 }
