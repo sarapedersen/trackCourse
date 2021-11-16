@@ -42,7 +42,8 @@ public class AppController{
     @FXML Slider happySlider;
     @FXML ListView nameList;
     @FXML ListView averageList;
-    @FXML Label courseError;
+    @FXML Label courseError, preview;
+    @FXML Button submitButton;
 
 
 
@@ -69,9 +70,15 @@ public class AppController{
     void validate() throws IOException {
         if (CourseList.validate(nameInput.getText())) {
             courseError.setText("");
+            preview.setText(CourseList.getFullName(nameInput.getText()));
+            submitButton.setVisible(true);
         }
         else {
             courseError.setText("*");
+            preview.setText("");
+            submitButton.setVisible(false);
+            //System.out.println(CourseList.getFullName(nameInput.getText()));
+
         }
 
     }
