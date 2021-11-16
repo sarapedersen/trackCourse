@@ -54,6 +54,12 @@ public class AppController{
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
         nameInput.setText(subject.getCourseCode());
+        try {
+			validate();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
         /*subjectDetails
         nameInput.setText(nameList.getItems().toString());*/
     }
@@ -200,7 +206,7 @@ public class AppController{
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
             
-            subjects4ListView.add(subject.getFullName() + " // " + String.valueOf(df.format(subject.average())));
+            subjects4ListView.add(subject.getCourseCode() + " // " + String.valueOf(df.format(subject.average())));
         }
        
         // Adding the names to the list view
