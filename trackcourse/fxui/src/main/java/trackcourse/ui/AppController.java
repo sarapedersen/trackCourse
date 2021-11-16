@@ -14,6 +14,12 @@ import javafx.collections.FXCollections;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.net.http.HttpRequest.BodyPublishers;
 import java.text.DecimalFormat;
 
 import javafx.scene.control.Dialog;
@@ -89,12 +95,26 @@ public class AppController{
     }
 
     @FXML 
-    void onSave() throws JsonProcessingException, IOException {
+    void onSave() throws JsonProcessingException, IOException, InterruptedException {
 
             FileHandlerApp saver = new FileHandlerApp(subjects); 
             saver.deleteCurrentFiles();    
             saver.writeToJson(subjects);  
+
+            URI uri = null;
+        try {
+            uri = new URI("http://localhost:8080/test");
+        } catch (URISyntaxException e) {
+            System.out.println(e.getMessage());
+        }
+
+        HttpRequest request = HttpRequest.newBuilder(uri).header("Accept", "application/json")
+                .header("Content-Type", "application/json").POST(BodyPublishers.ofString("HelloWorld")).build();
+        HttpClient.newBuilder().build().send(request,
+        HttpResponse.BodyHandlers.ofString());
     }
+
+    
 
     @FXML
     void onLoad() throws FileNotFoundException, IOException {
