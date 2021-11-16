@@ -7,10 +7,12 @@ import org.junit.jupiter.api.Test;
 import trackcourse.core.Subject;
 
 public class SubjectTest {
+    /* Avventer endringer i Subjects fra Casper
     private Subject testSubject;
     private String testCode = "TDT4105";
     private String testName = "ITGK";
 
+    
     @BeforeEach
     public void setup() {
         testSubject = new Subject(testCode);
@@ -86,6 +88,6 @@ public class SubjectTest {
         testSubject.updateEntertainment(20);
         Assertions.assertEquals(testSubject.average(), 17);
 
-    }
+    }*/
 }
 

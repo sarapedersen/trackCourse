@@ -20,7 +20,7 @@ import trackcourse.core.Subject;
 
 public class FileHandlerAppTest {
 
-    /*
+    /* ----------Ingen av disse testene hører vel til FileHandlerApp?----------
     @Test
     public void testConstructor(){
 
@@ -56,14 +56,14 @@ public class FileHandlerAppTest {
         handler.setSubjects(subjects);
         Assertions.assertEquals(handler.getSubjects(), subjects);
 
-    }
+    }*/
 
-    /* These tests are WORK IN PROSSES
+     /*These tests are WORK IN PROSSES
     ** That includes:
     **  testWriteToJson()
     **  testReadFromJson()
     **  testDeleteCurrentFiles()
-    ** Currently commented out to stop program from crashing
+    ** Currently commented out to stop program from crashing*/
 
     @Test
     public void testWriteToJson() throws JsonProcessingException, IOException{
@@ -80,11 +80,11 @@ public class FileHandlerAppTest {
         FileHandlerApp handler = new FileHandlerApp(subjects);
         handler.writeToJson(subjects);
 
-        File file = new File("./json/");
+        File file = new File("../core/src/json");
         assertTrue(file.exists()); 
 
     }
-
+    /*
     @Test
     public void testReadfromJson() throws JsonProcessingException, IOException{
 
@@ -99,12 +99,12 @@ public class FileHandlerAppTest {
         
 
         FileHandlerApp handler = new FileHandlerApp();
-        handler.setSubjects(handler.readFromJson());
+        //handler.setSubjects(handler.readFromJson());
 
-        Assertions.assertEquals(handler.getSubjects(), subs);
+        //Assertions.assertEquals(handler.getSubjects(), subs);
 
 
-    }
+    }*/
 
     @Test
     public void testDeleteCurrentFiles(){
@@ -112,11 +112,11 @@ public class FileHandlerAppTest {
         FileHandlerApp handler = new FileHandlerApp();
         handler.deleteCurrentFiles();
 
-        File file = new File("./json/");
+        File file = new File("../core/src/json");
         assertFalse(file.exists()); 
 
     }
-    */
+    
 
     
 }
