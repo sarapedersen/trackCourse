@@ -1,8 +1,10 @@
 package trackcourse.ui;
 
 import java.util.Collection;
-import java.util.List;
-import java.util.logging.FileHandler;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 
@@ -15,14 +17,11 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 
 import javafx.scene.control.Button;
+import javafx.scene.control.Dialog;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
-import javafx.scene.control.SplitPane;
 import javafx.scene.control.TextField;
-import javafx.scene.input.InputEvent;
-import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.Pane;
 
 import javafx.fxml.FXML;
 
@@ -33,6 +32,7 @@ import trackcourse.core.FileHandlerApp;
 public class AppController{
 
     private Collection<Subject> subjects = new ArrayList<>();
+    DecimalFormat df = new DecimalFormat("##.#");
 
     
     
@@ -44,9 +44,56 @@ public class AppController{
     @FXML ListView averageList;
     @FXML Label courseError, preview;
     @FXML Button submitButton;
+    @FXML ListView subjectListView;
 
 
+    @FXML
+    void subjectSelected(){
+        //String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String[] splitted = selected.split("\\s+");
+        Subject subject = subjectDetails(splitted[0]);
+        nameInput.setText(subject.getCourseCode());
+        /*subjectDetails
+        nameInput.setText(nameList.getItems().toString());*/
+    }
 
+    /** Returns an ImageIcon, or null if the path was invalid. */
+    protected ImageIcon createImageIcon(String path) {
+    java.net.URL imgURL = getClass().getResource(path);
+    if (imgURL != null) {
+        return new ImageIcon(imgURL);
+    } else {
+        System.err.println("Couldn't find file: " + path);
+        return null;
+    }
+    }
+
+    @FXML
+    void onDetails() {
+        String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        String[] splitted = selected.split("\\s+");
+        Subject subject = subjectDetails(splitted[0]);
+
+        
+        JFrame frame = new JFrame();
+        JOptionPane.showMessageDialog(frame,
+        "Average difficulty: " + df.format(subject.getDifficulty()) + "\n\n"
+        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n\n"
+        + "Average joy: " + df.format(subject.getEntertainment()) + "\n\n"
+        + "Average overall: " + df.format(subject.average()) + "\n\n",
+        subject.getCourseCode(),
+        JOptionPane.INFORMATION_MESSAGE);
+/*
+        Dialog<Void> subjectPopUp = new Dialog<Void>();
+        subjectPopUp.setTitle(subject.getName());
+        subjectPopUp.setContentText("Name: " + subject.getName() + "\n" 
+        + "Average difficulty: " + df.format(subject.getDifficulty()) + "\n"
+        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n"
+        + "Average joy: " + df.format(subject.getEntertainment()) + "\n"
+        + "Average overall: " + df.format(subject.average()));
+        subjectPopUp.showAndWait();*/
+    }
 
     @FXML 
     void onSave() throws JsonProcessingException, IOException {
@@ -146,28 +193,30 @@ public class AppController{
     @FXML
     void updateLists(){
 
-        // Makes it write the average score in the format XX,X
-        // For example 13,2
-        DecimalFormat df = new DecimalFormat("##.#");
-
         // Creating empty FXCollection.obserableArrayLists for the Names and the average score
-        ObservableList<String> subjectNames = FXCollections.observableArrayList();
-        ObservableList<String> subjectAverage = FXCollections.observableArrayList(); 
+        ObservableList<String> subjects4ListView = FXCollections.observableArrayList();
 
-        // Sorts the existing subjects by highest score.
         
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
-            subjectNames.add(subject.getCourseCode());
-            subjectAverage.add(String.valueOf(df.format(subject.average())));
+            
+            subjects4ListView.add(subject.getFullName() + " // " + String.valueOf(df.format(subject.average())));
         }
        
         // Adding the names to the list view
-        nameList.setItems(subjectNames);
-
-        // Addomg the average score to the list view
-        averageList.setItems(subjectAverage);
+        subjectListView.setItems(subjects4ListView);
 
     }
+
+    public Subject subjectDetails(String name) {
+        Subject subject = null;
+        for (Subject sub : subjects) {
+            if (sub.getCourseCode().equals(name)) {
+                subject = sub;
+                break;
+            }
+        }
+        return subject;
+    } 
 
 }

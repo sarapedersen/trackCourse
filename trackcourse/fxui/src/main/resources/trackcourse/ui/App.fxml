@@ -45,15 +45,17 @@
                </effect>
             </Label>
             <Label fx:id="preview" alignment="CENTER" layoutX="1.0" layoutY="75.0" prefHeight="17.0" prefWidth="193.0" textAlignment="CENTER" wrapText="true" />
+            <Button fx:id="detailsButton" layoutX="64.0" layoutY="425.0" mnemonicParsing="false" onMouseClicked="#onDetails" style="-fx-background-color: e7f1f3; -fx-background-radius: 20;" styleClass="shadow" text="details" />
          </children>
       </Pane>
       <Pane layoutX="42.0" layoutY="102.0" prefHeight="360.0" prefWidth="180.0">
          <children>
-            <SplitPane dividerPositions="0.648876404494382" prefHeight="360.0" prefWidth="188.0" stylesheets="@style.css">
+            <ListView fx:id="subjectListView" prefHeight="360.0" prefWidth="200.0" style="-fx-background-color: rgba(0,0,0,0.0);" onMouseClicked="#subjectSelected"/>
+           <!-- <SplitPane dividerPositions="0.648876404494382" prefHeight="360.0" prefWidth="188.0" stylesheets="@style.css">
                <items>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="130.0">
                      <children>
-                        <ListView fx:id="nameList" prefHeight="360.0" prefWidth="130.0" style="-fx-background-color: rgba(0,0,0,0.0);" />
+                        <ListView fx:id="nameList" prefHeight="360.0" prefWidth="130.0" style="-fx-background-color: rgba(0,0,0,0.0);" onMouseClicked="#subjectSelected"/>
                      </children>
                   </AnchorPane>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="358.0" prefWidth="79.0">
@@ -61,14 +63,10 @@
                         <ListView fx:id="averageList" layoutX="0.0" prefHeight="360.0" prefWidth="50.0" style="-fx-background-color: transparent;" />
                      </children>
                   </AnchorPane>
-               </items></SplitPane>
+               </items></SplitPane>-->
          </children>
       </Pane>
-      <Label layoutX="84.0" layoutY="83.0" text="Course">
-         <font>
-            <Font name="Avenir Next Bold" size="13.0" />
-         </font></Label>
-      <Label layoutX="183.0" layoutY="82.0" text="AVG">
+      <Label layoutX="84.0" layoutY="83.0" text="Course // Average">
          <font>
             <Font name="Avenir Next Bold" size="13.0" />
          </font></Label>

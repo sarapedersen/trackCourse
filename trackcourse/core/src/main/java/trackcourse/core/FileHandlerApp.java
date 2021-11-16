@@ -1,10 +1,10 @@
 package trackcourse.core;
 
-import java.io.FileWriter;  
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.Collection;  
+import java.util.Collection;
 import java.util.Scanner;
 
 import java.io.FileOutputStream;
@@ -17,34 +17,34 @@ import org.assertj.core.internal.Paths;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream; 
+import java.io.FileOutputStream;
 
 public class FileHandlerApp {
 
-    private Collection<Subject> subjects = new ArrayList<>();
+  private Collection<Subject> subjects = new ArrayList<>();
 
+  public FileHandlerApp(Collection<Subject> subs) {
+    this.subjects = subs;
+  }
 
-
-    public FileHandlerApp(Collection<Subject> subs) {
-      this.subjects = subs;
-    }
-
-    public FileHandlerApp() {
-      
-    }
-
-
-
-
-  public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {   
-    for (Subject sub : subs) {
-      ObjectMapper objectMapper = new ObjectMapper(); 
-      objectMapper.writeValue(
-        new FileOutputStream("./json/" + sub.getCourseCode() + ".json"), sub);
-      }
+  public FileHandlerApp() {
 
   }
 
+
+
+  public void setSubjects(Collection<Subject> subs) {
+    this.subjects = subs;
+  }
+
+  public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {
+    for (Subject sub : subs) {
+      ObjectMapper objectMapper = new ObjectMapper(); 
+      objectMapper.writeValue(
+        new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
+      }
+
+  }
 
 
       
@@ -52,7 +52,7 @@ public class FileHandlerApp {
     public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 
 
-        File f = new File("./json/");
+        File f = new File("../core/src/json");
         File filesList[] = f.listFiles();
         for (File file : filesList) {
           ObjectMapper objectMapper = new ObjectMapper();
@@ -67,7 +67,7 @@ public class FileHandlerApp {
     }
 
     public void deleteCurrentFiles(){
-      File f = new File("./json/");
+      File f = new File("../core/src/json");
 		  File filesList[] = f.listFiles();
       for (File file : filesList) {
         if (!file.isDirectory()) {
@@ -81,6 +81,7 @@ public class FileHandlerApp {
     }
     }
 
+  }
 
 
-}
+
