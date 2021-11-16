@@ -17,7 +17,7 @@ public class FileHandlerAppTest {
 
         Collection<Subject> subjects = new ArrayList<>();
 
-            Subject sub = new Subject("ALGDAT");
+            Subject sub = new Subject("TDT4100");
             subjects.add(sub);
             sub.updateDifficulty(15);
             sub.updateTimeconsumption(15);
@@ -38,7 +38,7 @@ public class FileHandlerAppTest {
         Collection<Subject> subs = new ArrayList<>();
 
         // Creating an identical subject to compare with Json-file
-        Subject sub = new Subject("ALGDAT");
+        Subject sub = new Subject("TDT4100");
         subs.add(sub);
         sub.updateDifficulty(15);
         sub.updateTimeconsumption(15);
@@ -48,7 +48,7 @@ public class FileHandlerAppTest {
         FileHandlerApp handler = new FileHandlerApp();
         handler.writeToJson(subs);
 
-        File file = new File("../core/src/json/ALGDAT.json");
+        File file = new File("../core/src/json/TDT4100.json");
         //Checks if file exists
         if (file.exists()) {
             //Check if file has content

@@ -1,5 +1,7 @@
 package trackcourse.core;
 
+import java.io.IOException;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -13,13 +15,13 @@ public class SubjectTest {
 
     
     @BeforeEach
-    public void setup() {
+    public void setup() throws IOException {
         testSubject = new Subject(testCode);
         testSubject.setFullName(testName);
     }
 
     @Test
-    public void testConstructor() {
+    public void testConstructor() throws IOException {
         testSubject = new Subject("TMA4100");
         Assertions.assertEquals(testSubject.getCourseCode(), "TMA4100");
         Assertions.assertEquals(testSubject.getDifficulty(), 0.0);
