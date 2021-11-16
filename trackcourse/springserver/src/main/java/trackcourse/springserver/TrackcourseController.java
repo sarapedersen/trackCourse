@@ -21,22 +21,14 @@ public class TrackcourseController {
 
   public static final String CONTROLLER_PATH = "/trackcourse";
 
-  private final TrackcouseService trackService;
-
-  @Autowired
-  public TrackcourseController(final TrackcouseService trackService) {
-    this.trackService = trackService;
-  }
-
   /**
    * Gets the servers' data.
    *
    * @return the data
+   * 
+   * @GetMapping protected Collection<Subject> getSubjects() { return
+   *             "getSubjects();" }
    */
-  @GetMapping
-  protected Collection<Subject> getSubjects() {
-    return trackService.getSubjects();
-  }
 
   /**
    * Adds a subject to the server
