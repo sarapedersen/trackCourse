@@ -1,5 +1,6 @@
 package trackcourse.core;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
@@ -7,15 +8,18 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class Subject {
-
-    private String name;
+    private String fullName;
+    private String courseCode;
     private final Map<String, Double> ratings = new HashMap<>();
     private final Collection<Integer> difficulty = new ArrayList<>();
     private final Collection<Integer> timeconsumption = new ArrayList<>();
     private final Collection<Integer> entertainment = new ArrayList<>();
 
-    public Subject(String name) {
-        this.name = name;
+    public Subject(String courseCode) throws IOException {
+        System.out.println("hei");
+        this.courseCode = courseCode;
+        this.fullName = CourseList.getFullName(courseCode);
+        
         ratings.put("difficulty", 0.0);
         ratings.put("timeconsumption", 0.0);
         ratings.put("entertainment", 0.0);
@@ -28,12 +32,20 @@ public class Subject {
 
     }
 
-    public String getName() {
-        return this.name;
+    public String getFullName() {
+        return fullName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
+
+    public String getCourseCode() {
+        return this.courseCode;
+    }
+    public void setCourseCode(String courseCode){
+        this.courseCode = courseCode;
+
     }
 
     public double getDifficulty() {

@@ -41,7 +41,7 @@ public class FileHandlerApp {
     for (Subject sub : subs) {
       ObjectMapper objectMapper = new ObjectMapper(); 
       objectMapper.writeValue(
-        new FileOutputStream("../core/src/json/" + sub.getName() + ".json"), sub);
+        new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
       }
 
   }

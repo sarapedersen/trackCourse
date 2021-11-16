@@ -62,11 +62,11 @@ public class AppControllerTest extends ApplicationTest {
 
 
     @Test
-    public void testSubject() {
+    public void testSubject() throws IOException {
 
         Collection<Subject> subjects = new ArrayList<>();
 
-        Subject sub = new Subject("ALGDAT");
+        Subject sub = new Subject("TDT4100");
         subjects.add(sub);
 
         Assertions.assertNotNull(subjects);
