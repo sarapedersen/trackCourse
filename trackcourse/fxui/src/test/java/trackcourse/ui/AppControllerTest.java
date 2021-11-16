@@ -62,19 +62,14 @@ public class AppControllerTest extends ApplicationTest {
     }
 
     @Test
-    public void testReset(){
+    public void testSubject() throws IOException {
 
         Collection<Subject> subjects = new ArrayList<>();
 
-  
-            Subject sub = new Subject("ALGDAT");
-            subjects.add(sub);
-            sub.updateDifficulty(15);
-            sub.updateTimeconsumption(15);
-            sub.updateEntertainment(15);
-       
-        
-        controller.setSubjects(subjects);
+        Subject sub = new Subject("TDT4100");
+        subjects.add(sub);
+
+        Assertions.assertNotNull(subjects);
         Assertions.assertEquals(subjects.size(), 1);
         controller.onReset();
         Assertions.assertEquals(subjects.size(), 0);

@@ -37,8 +37,21 @@ public class SubjectTest {
         testSubject.setCourseCode("IT2805");
         Assertions.assertFalse(testSubject.getCourseCode() == testCode);
         Assertions.assertEquals(testSubject.getCourseCode(), "IT2805");
-        
     }
+        
+    // public void testUpdateFunctions() throws IOException {
+    // Subject sub = new Subject("Math");
+    // Assertions.assertEquals(sub.getCourseCode(), "Math");
+    // sub.updateDifficulty(5);
+    // Assertions.assertEquals(sub.getDifficulty(), 5);
+    // sub.updateDifficulty(6);
+    // Assertions.assertFalse(sub.getDifficulty() == 5);
+    // sub.updateTimeconsumption(3);
+    // Assertions.assertEquals(sub.getTimeconsumption(), 3);
+    // sub.updateEntertainment(3);
+    // Assertions.assertEquals(sub.getEntertainment(), 3);
+    
+    // }
 
     @Test
     public void testSetFullName(){
@@ -50,14 +63,14 @@ public class SubjectTest {
     
     @Test
     public void testUpdateFunctions() {
-    testSubject.updateDifficulty(5);
-    Assertions.assertEquals(testSubject.getDifficulty(), 5);
-    testSubject.updateDifficulty(6);
-    Assertions.assertFalse(testSubject.getDifficulty() == 5);
-    testSubject.updateTimeconsumption(3);
-    Assertions.assertEquals(testSubject.getTimeconsumption(), 3);
-    testSubject.updateEntertainment(3);
-    Assertions.assertEquals(testSubject.getEntertainment(), 3);
+        testSubject.updateDifficulty(5);
+        Assertions.assertEquals(testSubject.getDifficulty(), 5);
+        testSubject.updateDifficulty(6);
+        Assertions.assertFalse(testSubject.getDifficulty() == 5);
+        testSubject.updateTimeconsumption(3);
+        Assertions.assertEquals(testSubject.getTimeconsumption(), 3);
+        testSubject.updateEntertainment(3);
+        Assertions.assertEquals(testSubject.getEntertainment(), 3);
     
     }
 
