@@ -40,7 +40,7 @@ public class FileHandlerApp {
     for (Subject sub : subs) {
       ObjectMapper objectMapper = new ObjectMapper(); 
       objectMapper.writeValue(
-        new FileOutputStream("./json/" + sub.getName() + ".json"), sub);
+        new FileOutputStream("../core/src/json/" + sub.getName() + ".json"), sub);
       }
 
   }
@@ -52,7 +52,7 @@ public class FileHandlerApp {
     public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 
 
-        File f = new File("./json/");
+        File f = new File("../core/src/json");
         File filesList[] = f.listFiles();
         for (File file : filesList) {
           ObjectMapper objectMapper = new ObjectMapper();
@@ -67,7 +67,7 @@ public class FileHandlerApp {
     }
 
     public void deleteCurrentFiles(){
-      File f = new File("./json/");
+      File f = new File("../core/src/json");
 		  File filesList[] = f.listFiles();
       for (File file : filesList) {
         if (!file.isDirectory()) {
