@@ -23,17 +23,13 @@ public class FileHandlerApp {
 
   private Collection<Subject> subjects = new ArrayList<>();
 
-  public FileHandlerApp(Collection<Subject> subs) {
-    this.subjects = subs;
-  }
+
 
   public FileHandlerApp() {
 
   }
 
-  public Collection<Subject> getSubjects() {
-    return this.subjects;
-  }
+
 
   public void setSubjects(Collection<Subject> subs) {
     this.subjects = subs;
@@ -41,23 +37,49 @@ public class FileHandlerApp {
 
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {
     for (Subject sub : subs) {
-      ObjectMapper objectMapper = new ObjectMapper();
-      objectMapper.writeValue(new FileOutputStream("./json/" + sub.getName() + ".json"), sub);
-    }
+      ObjectMapper objectMapper = new ObjectMapper(); 
+      objectMapper.writeValue(
+        new FileOutputStream("../core/src/json/" + sub.getName() + ".json"), sub);
+      }
 
   }
 
   public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 
-    File f = new File("./json/");
-    File filesList[] = f.listFiles();
-    for (File file : filesList) {
-      ObjectMapper objectMapper = new ObjectMapper();
-      Subject sub = objectMapper.readValue(file, Subject.class);
-      subjects.add(sub);
+
+      
+    
+    public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
+
+
+        File f = new File("../core/src/json");
+        File filesList[] = f.listFiles();
+        for (File file : filesList) {
+          ObjectMapper objectMapper = new ObjectMapper();
+          Subject sub = objectMapper.readValue(file, Subject.class); 
+          subjects.add(sub);
+        }
+ 
+        return subjects;
+
+          
+
     }
 
-    return subjects;
+    public void deleteCurrentFiles(){
+      File f = new File("../core/src/json");
+		  File filesList[] = f.listFiles();
+      for (File file : filesList) {
+        if (!file.isDirectory()) {
+        boolean success = file.delete();
+        if (success) {
+          System.out.println("File deleted.");
+        } else {
+          System.out.println("File could not be deleted.");
+        } 
+      }
+    }
+    }
 
   }
 

@@ -20,7 +20,7 @@ import trackcourse.core.Subject;
 
 public class FileHandlerAppTest {
 
-    
+    /*
     @Test
     public void testConstructor(){
 
