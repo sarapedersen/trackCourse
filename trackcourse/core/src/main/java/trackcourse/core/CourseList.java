@@ -43,9 +43,9 @@ public class CourseList {
     private static void updateMap() throws IOException {
          
         if (courseList.isEmpty()) {
-            Path path = Paths.get("./trackcourse/core/src/main/java/trackcourse/core/courseList.txt");
+            Path path = Paths.get("../core/src/main/java/trackcourse/core/courseList.txt");
 	        List<String> lines = Files.readAllLines(path);
-            String lines2 = System.getProperty("user.dir");
+            
             String type = "code";
             String putcode = "";
             String putname = "";
@@ -73,9 +73,6 @@ public class CourseList {
 
 
 
-public static void main(String[] args) throws IOException {
-    System.out.println(getFullName("TDT4100"));
-}
 
 
 }

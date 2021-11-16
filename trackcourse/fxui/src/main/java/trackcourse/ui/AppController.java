@@ -27,6 +27,7 @@ import javafx.scene.layout.Pane;
 import javafx.fxml.FXML;
 
 import trackcourse.core.Subject;
+import trackcourse.core.CourseList;
 import trackcourse.core.FileHandlerApp;
 
 public class AppController{
@@ -41,6 +42,7 @@ public class AppController{
     @FXML Slider happySlider;
     @FXML ListView nameList;
     @FXML ListView averageList;
+    @FXML Label courseError;
 
 
 
@@ -62,6 +64,18 @@ public class AppController{
         System.out.println(subjects);
            
     }
+
+    @FXML
+    void validate() throws IOException {
+        if (CourseList.validate(nameInput.getText())) {
+            courseError.setText("");
+        }
+        else {
+            courseError.setText("*");
+        }
+
+    }
+
 
     @FXML
     void onReset() {

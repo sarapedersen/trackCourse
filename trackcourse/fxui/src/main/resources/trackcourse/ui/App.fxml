@@ -22,7 +22,7 @@
       <Pane layoutX="308.0" layoutY="41.0" prefHeight="445.0" prefWidth="196.0">
          <children>
             <Label layoutX="83.0" layoutY="22.0" text="Course" />
-            <TextField fx:id="nameInput" alignment="CENTER" layoutX="25.0" layoutY="47.0" style="-fx-background-radius: 18;" />
+            <TextField fx:id="nameInput" alignment="CENTER" layoutX="25.0" layoutY="47.0" onKeyTyped="#validate" style="-fx-background-radius: 18;" />
             <Label layoutX="76.0" layoutY="98.0" text="Difficulty" />
             <Slider fx:id="diffSlider" blockIncrement="1.0" cache="true" layoutX="30.0" layoutY="123.0" majorTickUnit="1.0" max="10.0" min="1.0" minorTickCount="0" showTickLabels="false" showTickMarks="true" snapToTicks="true" value="5.0" />
             <Label layoutX="58.0" layoutY="176.0" text="Timeconsumption" />
