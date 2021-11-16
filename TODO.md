@@ -1,1 +1,1 @@
-
+- Resette sliderne etter hver submit
