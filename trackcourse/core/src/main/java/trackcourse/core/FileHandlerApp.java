@@ -23,7 +23,9 @@ public class FileHandlerApp {
 
   private Collection<Subject> subjects = new ArrayList<>();
 
-
+  public FileHandlerApp(Collection<Subject> subs) {
+    this.subjects = subs;
+  }
 
   public FileHandlerApp() {
 
@@ -43,8 +45,6 @@ public class FileHandlerApp {
       }
 
   }
-
-  public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 
 
       
@@ -83,13 +83,5 @@ public class FileHandlerApp {
 
   }
 
-  public void deleteCurrentFiles() {
-    File f = new File("./json/");
-    File filesList[] = f.listFiles();
-    for (File file : filesList) {
-      if (!file.isDirectory())
-        file.delete();
-    }
-  }
 
-}
+
