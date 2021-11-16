@@ -45,7 +45,9 @@ public class AppControllerTest extends ApplicationTest {
     @FXML Button saveButton;
 
     private AppController controller;
-    public Collection<Subject> presaved_subs = new ArrayList<>();
+    public Collection<Subject> presaved_subs;
+    private Subject sub;
+    private Collection<Subject> subjects;
 
     @Override
     public void start(final Stage stage) throws Exception {
@@ -56,6 +58,13 @@ public class AppControllerTest extends ApplicationTest {
     stage.show();
     }
 
+    @BeforeEach
+    public void init() throws IOException{
+        sub = new Subject("TDT4100");
+        presaved_subs = new ArrayList<>();
+        subjects = new ArrayList<>();
+    }
+
     @Test
     public void testController() {
         Assertions.assertNotNull(this.controller);
@@ -64,40 +73,31 @@ public class AppControllerTest extends ApplicationTest {
     @Test
     public void testSubject() throws IOException {
 
-        Collection<Subject> subjects = new ArrayList<>();
-
-        Subject sub = new Subject("TDT4100");
         subjects.add(sub);
 
         Assertions.assertNotNull(subjects);
         Assertions.assertEquals(subjects.size(), 1);
-        controller.onReset();
-        Assertions.assertEquals(subjects.size(), 0);
 
+        //ha med test av onReset()?
     }
 
-/*
+
     @Test
-    public void testValidation() {
+    public void testValidation() throws IOException {
 
-        nameInput.setText("ALGDAT");
+        nameInput.setText("TDT4100");
         controller.submit();
-
-
-        Collection<Subject> subjects = new ArrayList<>();
-
-        Subject sub = new Subject("ALGDAT");
         subjects.add(sub);
 
         Assertions.assertNotNull(subjects);
         Assertions.assertEquals(subjects.size(), 1);
 
     }
-/*
+
 
     
- Work in prosess
-/* Test save function without overwriting the subjects thats already saved
+ /*Work in prosess
+    Test save function without overwriting the subjects thats already saved
     @Test
     public void testSave() throws Exception{
 
