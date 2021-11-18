@@ -78,7 +78,15 @@ public class AppControllerTest extends ApplicationTest {
         Assertions.assertNotNull(subjects);
         Assertions.assertEquals(subjects.size(), 1);
 
-        //ha med test av onReset()?
+        
+    }
+
+
+    @Test
+    public void testReset() throws IOException {
+        subjects.add(sub); 
+        controller.onReset();
+        assertEquals(subjects.size(), 0)
     }
 
 
@@ -95,23 +103,14 @@ public class AppControllerTest extends ApplicationTest {
     }
 
 
-    
- /*Work in prosess
-    Test save function without overwriting the subjects thats already saved
+    //Test save function without overwriting the subjects thats already saved
     @Test
     public void testSave() throws Exception{
-
-        Collection<Subject> subjects = new ArrayList<>();
-        
-
-        
-            Subject sub = new Subject("ALGDAT");
-            subjects.add(sub);
-            sub.updateDifficulty(15);
-            sub.updateTimeconsumption(15);
-            sub.updateEntertainment(15);
-        
-        
+     subjects.add(sub);
+     sub.updateDifficulty(15);
+     sub.updateTimeconsumption(15);
+     sub.updateEntertainment(15);
+          
         controller.setSubjects(subjects);
         controller.onSave();
 
@@ -121,23 +120,15 @@ public class AppControllerTest extends ApplicationTest {
         String jsonString = "{\"name\":\"ALGDAT\",\"difficulty\":15.0,\"timeconsumption\":15.0,\"entertainment\":15.0,\"numTimeconsumption\":1.0,\"numEntertainment\":1.0,\"numDifficulty\":1.0,\"diffRatings\":[15],\"timeRatings\":[15],\"entRatings\":[15]}";
         Subject testSub2 = objectMapper.readValue(jsonString, Subject.class);
     
-
-        assertTrue(testSub.equals(testSub2));      
-
+        assertEquals(testSub, testSub2); 
 
     }
 
     @Test
     public void testLoad() throws JsonProcessingException, IOException{
-
-        Collection<Subject> subjects = new ArrayList<>();
-
         controller.onLoad();
         subjects = controller.getSubjects();
         Assertions.assertEquals(subjects.size(), 1);
-
-        controller.setSubjects(presaved_subs);
-        controller.onSave();
 
     }
 
@@ -145,7 +136,7 @@ public class AppControllerTest extends ApplicationTest {
     public static String readFileAsString(String file)throws Exception
     {
         return new String(Files.readAllBytes(Paths.get(file)));
-    }*/
+    }
 
 
 
