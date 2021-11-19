@@ -11,7 +11,7 @@ For å tilfredstille brukerens krav, har vi innført en applikasjon hvor man kan
 ## **Varsle andre studenter (brukerhistorie 2)** 
 Jeg som en erfaren student på NTNU ønsker en plattform der jeg har mulighet til å varsle nye studenter om hvilke fag som kan være svært utfordrene eller tidkrevende. 
 
-For å tilfredstille brukerens krav, har vi innført et inndatapanel hvor brukeren kan skrive inn fagkode, vanskelighetsgrad, hvor tidkrevende faget er og hvor (fyll inn siste alternativ her) det er. 
+For å tilfredstille brukerens krav, har vi innført et inndatapanel hvor brukeren kan skrive inn fagkode, vanskelighetsgrad, hvor tidkrevende faget er og hvor morsomt brukeren synes faget er.
 
 ### Krav til funksjonalitet:
 - Et textfield for å skrive inn fagkoden.
