@@ -59,10 +59,18 @@ public class AppControllerTest extends ApplicationTest {
     }
 
     @BeforeEach
+    public void testAddSubject() {
+        clickOn("#nameInput").write("TDT4100");
+    }
+
+   /*
+    @BeforeEach
     public void init() throws IOException{
         sub = new Subject("TDT4100");
-        presaved_subs = new ArrayList<>();
         subjects = new ArrayList<>();
+        subjects.add(sub);
+        presaved_subs = new ArrayList<>();
+        controller.setSubjects(subjects);
     }
 
     @Test
@@ -85,8 +93,10 @@ public class AppControllerTest extends ApplicationTest {
     @Test
     public void testReset() throws IOException {
         subjects.add(sub); 
+        System.out.println("Før reset: " + controller.getSubjects().size());
         controller.onReset();
-        assertEquals(subjects.size(), 0)
+        System.out.println("Etter reset: " + controller.getSubjects().size());
+        Assertions.assertEquals(controller.getSubjects().size(), 0);
     }
 
 
@@ -120,7 +130,7 @@ public class AppControllerTest extends ApplicationTest {
         String jsonString = "{\"name\":\"ALGDAT\",\"difficulty\":15.0,\"timeconsumption\":15.0,\"entertainment\":15.0,\"numTimeconsumption\":1.0,\"numEntertainment\":1.0,\"numDifficulty\":1.0,\"diffRatings\":[15],\"timeRatings\":[15],\"entRatings\":[15]}";
         Subject testSub2 = objectMapper.readValue(jsonString, Subject.class);
     
-        assertEquals(testSub, testSub2); 
+        Assertions.assertEquals(testSub, testSub2); 
 
     }
 
@@ -136,7 +146,7 @@ public class AppControllerTest extends ApplicationTest {
     public static String readFileAsString(String file)throws Exception
     {
         return new String(Files.readAllBytes(Paths.get(file)));
-    }
+    }*/
 
 
 

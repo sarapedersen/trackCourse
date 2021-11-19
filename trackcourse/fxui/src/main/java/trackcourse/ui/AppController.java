@@ -67,6 +67,10 @@ public class AppController{
     public void setSubjects(Collection<Subject> subs){
         this.subjects = subs;
     }
+
+    public Collection<Subject> getSubjects() {
+        return this.subjects;
+    }
     /** Returns an ImageIcon, or null if the path was invalid. */
     protected ImageIcon createImageIcon(String path) {
         java.net.URL imgURL = getClass().getResource(path);
