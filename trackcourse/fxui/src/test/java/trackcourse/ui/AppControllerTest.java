@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.Scanner;
 
@@ -16,7 +17,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.testfx.api.FxAssert;
 import org.testfx.framework.junit5.ApplicationTest;
+import org.testfx.matcher.control.ListViewMatchers;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -29,7 +32,6 @@ import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
 import trackcourse.core.Subject;
-import trackcourse.core.FileHandlerApp;
 import trackcourse.ui.AppController;
 
 
@@ -51,16 +53,40 @@ public class AppControllerTest extends ApplicationTest {
 
     @Override
     public void start(final Stage stage) throws Exception {
-    final FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("App.fxml"));
-    final Parent parent = fxmlLoader.load();
-    controller = fxmlLoader.getController();
-    stage.setScene(new Scene(parent));
-    stage.show();
+        final FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("App.fxml"));
+        final Parent parent = fxmlLoader.load();
+        controller = fxmlLoader.getController();
+        stage.setScene(new Scene(parent));
+        stage.show();
     }
 
     @BeforeEach
+    public void init() throws IOException{
+        sub = new Subject("TDT4100");
+        subjects = new ArrayList<>();
+        subjects.add(sub);
+    }
+
+    @Test
+    public void testController() {
+        Assertions.assertNotNull(this.controller);
+    }
+
+    @Test
     public void testAddSubject() {
         clickOn("#nameInput").write("TDT4100");
+        clickOn("#submitButton");
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 5")));
+        //burde hente ut riktig avr score her istedenfor å sette inn 5 direkte
+    }
+
+    //Test for slidere
+
+    @Test
+    public void testLoad() throws JsonProcessingException, IOException{
+        controller.onLoad();
+        subjects = controller.getSubjects();
+        Assertions.assertEquals(subjects.size(), 1);
     }
 
    /*
@@ -71,11 +97,6 @@ public class AppControllerTest extends ApplicationTest {
         subjects.add(sub);
         presaved_subs = new ArrayList<>();
         controller.setSubjects(subjects);
-    }
-
-    @Test
-    public void testController() {
-        Assertions.assertNotNull(this.controller);
     }
 
     @Test
@@ -134,13 +155,7 @@ public class AppControllerTest extends ApplicationTest {
 
     }
 
-    @Test
-    public void testLoad() throws JsonProcessingException, IOException{
-        controller.onLoad();
-        subjects = controller.getSubjects();
-        Assertions.assertEquals(subjects.size(), 1);
 
-    }
 
 
     public static String readFileAsString(String file)throws Exception
