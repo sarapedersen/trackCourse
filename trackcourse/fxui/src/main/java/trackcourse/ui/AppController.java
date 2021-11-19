@@ -80,25 +80,21 @@ public class AppController{
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
-
-        
-        JFrame frame = new JFrame();
-        JOptionPane.showMessageDialog(frame,
-        "Average difficulty: " + df.format(subject.getDifficulty()) + "\n\n"
+        String message = "Average difficulty: " + df.format(subject.getDifficulty()) + "\n\n"
         + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n\n"
         + "Average joy: " + df.format(subject.getEntertainment()) + "\n\n"
-        + "Average overall: " + df.format(subject.average()) + "\n\n",
-        subject.getCourseCode(),
-        JOptionPane.INFORMATION_MESSAGE);
-/*
-        Dialog<Void> subjectPopUp = new Dialog<Void>();
-        subjectPopUp.setTitle(subject.getName());
-        subjectPopUp.setContentText("Name: " + subject.getName() + "\n" 
+        + "Average overall: " + df.format(subject.average()) + "\n\n";
+
+        JOptionPane.showMessageDialog(null, message, subject.getCourseCode(), JOptionPane.INFORMATION_MESSAGE);
+
+       /* Dialog<Void> subjectPopUp = new Dialog<Void>();
+        subjectPopUp.setTitle(subject.getCourseCode());
+        subjectPopUp.setContentText("Name: " + subject.getFullName() + "\n" 
         + "Average difficulty: " + df.format(subject.getDifficulty()) + "\n"
         + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n"
         + "Average joy: " + df.format(subject.getEntertainment()) + "\n"
         + "Average overall: " + df.format(subject.average()));
-        subjectPopUp.showAndWait();*/
+        subjectPopUp.show();*/  
     }
 
     @FXML 
