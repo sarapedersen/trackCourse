@@ -77,10 +77,37 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#nameInput").write("TDT4100");
         clickOn("#submitButton");
         FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 5")));
-        //burde hente ut riktig avr score her istedenfor å sette inn 5 direkte
+        //Default value for sliders are 5, so avg. will always be 5 in this case
     }
 
-    //Test for slidere
+    @Test 
+    public void testSliders(){
+        clickOn("#nameInput").write("TDT4100");
+        clickOn("#diffSlider").write("6");
+        clickOn("#timeSlider").write("6");
+        clickOn("#happySlider").write("6");
+
+        clickOn("#submitButton");
+
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 6")));
+
+        clickOn("#saveButton");
+        
+
+        
+    }
+
+    @Test 
+    public void testUpdate(){
+        clickOn("#loadButton"); 
+
+        clickOn("#nameInput").write("TDT4100");
+        clickOn("#diffSlider").write("8");
+        clickOn("#timeSlider").write("8");
+        clickOn("#happySlider").write("8");
+
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
+    }
 
     @Test
     public void testLoad() throws JsonProcessingException, IOException{
