@@ -16,15 +16,17 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.DecimalFormat;
 
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Dialog;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
-
+import javafx.scene.image.Image;
+import javafx.stage.Stage;
 import javafx.fxml.FXML;
-
+import javafx.fxml.FXMLLoader;
 import trackcourse.core.Subject;
 import trackcourse.core.CourseList;
 import trackcourse.core.FileHandlerApp;
@@ -35,7 +37,7 @@ public class AppController{
     DecimalFormat df = new DecimalFormat("##.#");
 
     
-    
+    //elements for main stage
     @FXML TextField nameInput;
     @FXML Slider diffSlider;
     @FXML Slider timeSlider;
@@ -45,6 +47,14 @@ public class AppController{
     @FXML Label courseError, preview;
     @FXML Button submitButton;
     @FXML ListView subjectListView;
+
+
+    // elements for details stage
+    @FXML Label detailsDiff;
+    @FXML Label detailsTime;
+    @FXML Label detailsJoy;
+    @FXML Label detailsAverage;
+    
 
 
     @FXML
@@ -76,25 +86,26 @@ public class AppController{
     }
 
     @FXML
-    void onDetails() {
+    void onDetails() throws IOException {
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
-        String message = "Average difficulty: " + df.format(subject.getDifficulty()) + "\n\n"
-        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n\n"
-        + "Average joy: " + df.format(subject.getEntertainment()) + "\n\n"
-        + "Average overall: " + df.format(subject.average()) + "\n\n";
 
-        JOptionPane.showMessageDialog(null, message, subject.getCourseCode(), JOptionPane.INFORMATION_MESSAGE);
 
-       /* Dialog<Void> subjectPopUp = new Dialog<Void>();
-        subjectPopUp.setTitle(subject.getCourseCode());
-        subjectPopUp.setContentText("Name: " + subject.getFullName() + "\n" 
-        + "Average difficulty: " + df.format(subject.getDifficulty()) + "\n"
-        + "Average timeconsuption: " + df.format(subject.getTimeconsumption()) + "\n"
-        + "Average joy: " + df.format(subject.getEntertainment()) + "\n"
-        + "Average overall: " + df.format(subject.average()));
-        subjectPopUp.show();*/  
+        Stage detailsStage = new Stage();
+
+        
+        detailsStage.setTitle(subject.getCourseCode());
+        detailsStage.setScene(new Scene(FXMLLoader.load(App.class.getResource("DetailsContainer.fxml"))));
+        detailsStage.getIcons().add(new Image("https://i.imgur.com/BDdmb8n.png"));
+        detailsStage.show();
+
+        detailsDiff.setText(df.format(subject.getDifficulty()));
+        detailsTime.setText(df.format(subject.getTimeconsumption()));
+        detailsJoy.setText(df.format(subject.getEntertainment()));
+        detailsAverage.setText(df.format(subject.average()));
+
+        
     }
 
     @FXML 
