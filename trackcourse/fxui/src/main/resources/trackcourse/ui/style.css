@@ -9,4 +9,5 @@
 
 .detailsbg{
     -fx-background-color: white;
+    -fx-effect: dropshadow(three-pass-box, grey, 10, 0, 0, 10);
 }
