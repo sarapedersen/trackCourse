@@ -116,6 +116,14 @@ public class AppControllerTest extends ApplicationTest {
         Assertions.assertEquals(subjects.size(), 1);
     }
 
+    @Test
+    public void testIncorrectSub(){
+        clickOn("#nameInput").write("ABC1234");
+        Boolean visible = submitButton.isVisible(); 
+        assertTrue(!visible);
+
+    }
+
    /*
     @BeforeEach
     public void init() throws IOException{
