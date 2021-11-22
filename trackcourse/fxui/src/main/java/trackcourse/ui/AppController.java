@@ -24,6 +24,7 @@ import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
+import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -44,16 +45,18 @@ public class AppController{
     @FXML Slider happySlider;
     @FXML ListView nameList;
     @FXML ListView averageList;
-    @FXML Label courseError, preview;
+    @FXML Label courseError, preview, txtDescription;
     @FXML Button submitButton;
     @FXML ListView subjectListView;
 
 
+
     // elements for details stage
-    @FXML Label detailsDiff;
-    @FXML Label detailsTime;
-    @FXML Label detailsJoy;
-    @FXML Label detailsAverage;
+    @FXML Pane detailsPane;
+    @FXML Pane sliderPane;
+    @FXML Label txtCourseCode;
+    @FXML Label detailsDiff, detailsTime, detailsAverage, detailsJoy;
+    @FXML Button btnCloseDetails;
     
 
 
@@ -90,9 +93,22 @@ public class AppController{
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
+        
+        //hides background panes
+        detailsPane.setVisible(true);
+        sliderPane.setVisible(false);
+        subjectListView.setVisible(false);
+        txtDescription.setVisible(false);
 
 
-        Stage detailsStage = new Stage();
+        //fills in subject details 
+        txtCourseCode.setText(subject.getCourseCode());
+        detailsDiff.setText(df.format(subject.getDifficulty()));
+        detailsTime.setText(df.format(subject.getTimeconsumption()));
+        detailsJoy.setText(df.format(subject.getEntertainment()));
+        detailsAverage.setText(df.format(subject.average()));
+
+        /*Stage detailsStage = new Stage();
 
         
         detailsStage.setTitle(subject.getCourseCode());
@@ -103,9 +119,17 @@ public class AppController{
         detailsDiff.setText(df.format(subject.getDifficulty()));
         detailsTime.setText(df.format(subject.getTimeconsumption()));
         detailsJoy.setText(df.format(subject.getEntertainment()));
-        detailsAverage.setText(df.format(subject.average()));
+        detailsAverage.setText(df.format(subject.average()));*/
 
         
+    }
+
+    @FXML
+    void onClose() {
+        detailsPane.setVisible(false);
+        sliderPane.setVisible(true);
+        subjectListView.setVisible(true);
+        txtDescription.setVisible(true);
     }
 
     @FXML 
