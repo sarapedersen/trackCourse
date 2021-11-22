@@ -83,15 +83,15 @@ public class AppControllerTest extends ApplicationTest {
     @Test 
     public void testSliders(){
         clickOn("#nameInput").write("TDT4100");
-        clickOn("#diffSlider").write("6");
-        clickOn("#timeSlider").write("6");
-        clickOn("#happySlider").write("6");
+        clickOn("#diffSlider").value("6");
+        clickOn("#timeSlider").value("6");
+        clickOn("#happySlider").value("6");
 
         clickOn("#submitButton");
 
         FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 6")));
 
-        clickOn("#saveButton");
+        clickOn("#saveButton"); 
         
 
         
@@ -102,9 +102,9 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#loadButton"); 
 
         clickOn("#nameInput").write("TDT4100");
-        clickOn("#diffSlider").write("8");
-        clickOn("#timeSlider").write("8");
-        clickOn("#happySlider").write("8");
+        clickOn("#diffSlider").value("8");
+        clickOn("#timeSlider").value("8");
+        clickOn("#happySlider").value("8");
 
         FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
     }
