@@ -83,9 +83,9 @@ public class AppControllerTest extends ApplicationTest {
     @Test 
     public void testSliders(){
         clickOn("#nameInput").write("TDT4100");
-        clickOn("#diffSlider").value("6");
-        clickOn("#timeSlider").value("6");
-        clickOn("#happySlider").value("6");
+        controller.diffSlider.setValue(6);
+        controller.timeSlider.setValue(6);
+        controller.happySlider.setValue(6);
 
         clickOn("#submitButton");
 
@@ -102,9 +102,9 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#loadButton"); 
 
         clickOn("#nameInput").write("TDT4100");
-        clickOn("#diffSlider").value("8");
-        clickOn("#timeSlider").value("8");
-        clickOn("#happySlider").value("8");
+        controller.diffSlider.setValue(8);
+        controller.timeSlider.setValue(8);
+        controller.happySlider.setValue(8);
 
         FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
     }
