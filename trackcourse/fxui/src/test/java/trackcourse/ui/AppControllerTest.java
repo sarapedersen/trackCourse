@@ -108,13 +108,13 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#submitButton");
         clickOn("#saveButton");
 
-        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 15")));
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
     }
 
     @Test
     public void testLoad() throws JsonProcessingException, IOException{
         clickOn("#loadButton");
-        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 11.5")));
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 6")));
 
     }
 
