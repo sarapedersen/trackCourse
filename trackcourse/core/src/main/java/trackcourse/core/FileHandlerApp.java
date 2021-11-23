@@ -46,15 +46,6 @@ public class FileHandlerApp {
     this.subjects = subs;
   }
 
-<<<<<<< HEAD
-  public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {
-    String data = "";
-    for (Subject sub : subs) {
-      ObjectMapper objectMapper = new ObjectMapper();
-      objectMapper.writeValue(new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
-      String subString = objectMapper.writeValueAsString(sub);
-      data += subString + "\n";
-=======
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException, URISyntaxException {
     for (Subject sub : subs) {
       ObjectMapper objectMapper = new ObjectMapper();
@@ -78,7 +69,6 @@ public class FileHandlerApp {
     } catch (IOException | InterruptedException e) {
       System.out.println("Http request failed");
       throw new RuntimeException(e);
->>>>>>> 21eb7083fcbb9faff72aaabe8be0aea751cc2dc9
     }
 
     TrackcourseController.writeData(data);
