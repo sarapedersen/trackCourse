@@ -34,8 +34,15 @@ public class TrackcourseController {
    */
   @GetMapping
   protected String getData() throws FileNotFoundException, IOException {
+    FileHandlerApp a = new FileHandlerApp();
+    Collection<Subject> c = a.readFromJson();
 
-    return "Server not open :/";
+    ObjectMapper objectMapper = new ObjectMapper();
+    String jsonSubject = objectMapper.writeValueAsString(c);
+
+    System.out.println("GET request gotten!");
+
+    return jsonSubject;
   }
 
   /**
@@ -43,19 +50,11 @@ public class TrackcourseController {
    *
    * @param visit visit to add
    * @return true after adding visit
-   * @throws IOException
-   * @throws FileNotFoundException
    */
   @PostMapping
-  protected String addData(String str) throws FileNotFoundException, IOException {
-    FileHandlerApp a = new FileHandlerApp();
-    Collection<Subject> c = a.readFromJson();
+  protected boolean addData() {
 
-    ObjectMapper objectMapper = new ObjectMapper();
-    String jsonSubject = objectMapper.writeValueAsString(c);
-
-    System.out.println(jsonSubject);
-    return jsonSubject;
+    return true;
   }
 
 }
