@@ -3,6 +3,7 @@ package trackcourse.core;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.lang.reflect.Array;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.http.HttpRequest;
@@ -14,6 +15,7 @@ import java.io.FileOutputStream;
 import java.util.Collection;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.assertj.core.internal.Paths;
 
@@ -53,21 +55,36 @@ public class FileHandlerApp {
     }
   }
 
-  public String Get() throws URISyntaxException {
+  public Collection<Subject> Get() throws URISyntaxException, JsonMappingException, JsonProcessingException {
     URI newUri = new URI("http://localhost:8080/data");
     String data = null;
+
     if (data == null) {
+      System.out.println("DEtte er før try");
       try {
         final HttpRequest req = HttpRequest.newBuilder(newUri).header("Accept", "application/json").GET().build();
         final HttpResponse<String> res = HttpClient.newBuilder().build().send(req,
             HttpResponse.BodyHandlers.ofString());
         ObjectMapper objectMapper = new ObjectMapper();
         data = objectMapper.readValue(res.body(), String.class);
+        //konverter string av data til collection her
+        String[] subjectsInArray = StingSplitter(data);
+        System.out.println("subjectsInArray");
+        for (String subString : subjectsInArray) {
+          System.out.println(subString);
+          ObjectMapper objectMapper2 = new ObjectMapper();
+          Subject sub = objectMapper2.readValue(subString, Subject.class);
+          subjects.add(sub);
+        }
       } catch (IOException | InterruptedException e) {
+        System.out.println("runtime exception");
         throw new RuntimeException(e);
       }
     }
-    return data;
+
+    
+    System.out.println(subjects);
+    return subjects;
   }
 
   public boolean Post(Collection<Subject> subs) throws URISyntaxException, JsonProcessingException {
@@ -80,7 +97,7 @@ public class FileHandlerApp {
       final HttpResponse<String> res = HttpClient.newBuilder().build().send(req, HttpResponse.BodyHandlers.ofString());
       Boolean successfullyAdded = objectMapper.readValue(res.body(), Boolean.class);
       if (successfullyAdded != null && successfullyAdded) {
-        System.out.println("Sucsesfullt posted colectrion of subjects :)");
+        System.out.println("Sucsesfullt posted colectrion of subjects 🙂");
         return true;
       }
       return false;
@@ -89,6 +106,17 @@ public class FileHandlerApp {
       throw new RuntimeException(e);
     }
 
+  }
+
+  public String[] StingSplitter(String loongboooi) {
+    String[] shorterboois = loongboooi.split("}");
+    String[] betterbois = new String[shorterboois.length - 1];
+
+    for (int i = 0; i < betterbois.length; i++) {
+      betterbois[i] = shorterboois[i].substring(1) + "}";
+    }
+
+    return betterbois;
   }
 
   public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
@@ -104,6 +132,7 @@ public class FileHandlerApp {
     return subjects;
 
   }
+
 
   public void deleteCurrentFiles() {
     File f = new File("../core/src/json");
