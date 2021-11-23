@@ -51,13 +51,9 @@ public class FileHandlerApp {
       ObjectMapper objectMapper = new ObjectMapper();
       objectMapper.writeValue(new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
     }
-
-    /*System.out.println("trying to get to server...");
-    System.out.println(Get());
-    System.out.println("done sending.");*/
   }
 
-  /*public String Get() throws URISyntaxException {
+  public String Get() throws URISyntaxException {
     URI newUri = new URI("http://localhost:8080/data");
     String data = null;
     if (data == null) {
@@ -74,21 +70,26 @@ public class FileHandlerApp {
     return data;
   }
 
-  public boolean Post(String str) throws URISyntaxException {
+  public boolean Post(Collection<Subject> subs) throws URISyntaxException, JsonProcessingException {
     URI newUri = new URI("http://localhost:8080/data");
-    System.out.println("Strarting to send http");
+    ObjectMapper objectMapper = new ObjectMapper();
+    String jsondata = objectMapper.writeValueAsString(subs);
     try {
       final HttpRequest req = HttpRequest.newBuilder(newUri).header("Accept", "application/json")
-          .header("Content-Type", "application/json").POST(BodyPublishers.ofString(str)).build();
+          .header("Content-Type", "application/json").POST(BodyPublishers.ofString(jsondata)).build();
       final HttpResponse<String> res = HttpClient.newBuilder().build().send(req, HttpResponse.BodyHandlers.ofString());
-      System.out.println("Sycsessfully sendt http post");
-      return true;
+      Boolean successfullyAdded = objectMapper.readValue(res.body(), Boolean.class);
+      if (successfullyAdded != null && successfullyAdded) {
+        System.out.println("Sucsesfullt posted colectrion of subjects :)");
+        return true;
+      }
+      return false;
     } catch (IOException | InterruptedException e) {
       System.out.println("Http request failed");
       throw new RuntimeException(e);
     }
 
-  }*/
+  }
 
   public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 

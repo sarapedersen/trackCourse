@@ -2,6 +2,7 @@ package trackcourse.springserver;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.Collection;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -50,10 +51,19 @@ public class TrackcourseController {
    *
    * @param visit visit to add
    * @return true after adding visit
+   * @throws URISyntaxException
+   * @throws IOException
+   * @throws JsonProcessingException
    */
   @PostMapping
-  protected boolean addData() {
+  protected boolean setData(@RequestBody Collection<Subject> subs)
+      throws JsonProcessingException, IOException, URISyntaxException {
+    System.out.println(subs);
 
+    FileHandlerApp a = new FileHandlerApp();
+    a.writeToJson(subs);
+
+    System.out.println("Post posted!");
     return true;
   }
 
