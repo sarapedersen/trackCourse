@@ -52,12 +52,12 @@ public class FileHandlerApp {
       objectMapper.writeValue(new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
     }
 
-    System.out.println("trying to get to server...");
+    /*System.out.println("trying to get to server...");
     System.out.println(Get());
-    System.out.println("done sending.");
+    System.out.println("done sending.");*/
   }
 
-  public String Get() throws URISyntaxException {
+  /*public String Get() throws URISyntaxException {
     URI newUri = new URI("http://localhost:8080/data");
     String data = null;
     if (data == null) {
@@ -88,7 +88,7 @@ public class FileHandlerApp {
       throw new RuntimeException(e);
     }
 
-  }
+  }*/
 
   public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 

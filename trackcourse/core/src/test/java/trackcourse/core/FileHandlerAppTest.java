@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.Collection;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -13,7 +14,7 @@ import org.junit.jupiter.api.Test;
 public class FileHandlerAppTest {
 
     @Test
-    public void testWriteToJson() throws JsonProcessingException, IOException{
+    public void testWriteToJson() throws JsonProcessingException, IOException, URISyntaxException{
 
         Collection<Subject> subjects = new ArrayList<>();
 
@@ -33,7 +34,7 @@ public class FileHandlerAppTest {
     }
     
     @Test
-    public void testReadfromJson() throws JsonProcessingException, IOException{
+    public void testReadfromJson() throws JsonProcessingException, IOException, URISyntaxException{
 
         Collection<Subject> subs = new ArrayList<>();
 
