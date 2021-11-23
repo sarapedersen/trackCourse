@@ -1,5 +1,7 @@
 package trackcourse.core;
 
+import java.io.IOException;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -8,9 +10,9 @@ import trackcourse.core.Subject;
 public class SubjectTest {
 
     @Test
-    public void testConstructor() {
-        Subject sub = new Subject("ITGK");
-        Assertions.assertEquals(sub.getName(), "ITGK");
+    public void testConstructor() throws IOException {
+        Subject sub = new Subject("TDT4100");
+        Assertions.assertEquals(sub.getCourseCode(), "TDT4100");
         Assertions.assertEquals(sub.getDifficulty(), 0.0);
         Assertions.assertEquals(sub.getEntertainment(), 0.0);
         Assertions.assertEquals(sub.getTimeconsumption(), 0.0);
@@ -21,9 +23,9 @@ public class SubjectTest {
     
     
     @Test
-    public void testUpdateFunctions() {
+    public void testUpdateFunctions() throws IOException {
     Subject sub = new Subject("Math");
-    Assertions.assertEquals(sub.getName(), "Math");
+    Assertions.assertEquals(sub.getCourseCode(), "Math");
     sub.updateDifficulty(5);
     Assertions.assertEquals(sub.getDifficulty(), 5);
     sub.updateDifficulty(6);
@@ -38,17 +40,17 @@ public class SubjectTest {
     
 
     @Test
-    public void testSetName(){
+    public void testSetName() throws IOException{
 
         Subject sub = new Subject("Math");
-        sub.setName("ALGDAT");
-        Assertions.assertFalse(sub.getName() == "Math");
-        Assertions.assertEquals(sub.getName(), "ALGDAT");
+        sub.setCourseCode("ALGDAT");
+        Assertions.assertFalse(sub.getCourseCode() == "Math");
+        Assertions.assertEquals(sub.getCourseCode(), "ALGDAT");
         
     }
 
     @Test
-    public void testSetDiff(){
+    public void testSetDiff() throws IOException{
 
         Subject sub = new Subject("Math");
         sub.setDifficulty(3);
@@ -57,7 +59,7 @@ public class SubjectTest {
     }
 
     @Test
-    public void testSetTime(){
+    public void testSetTime() throws IOException{
 
         Subject sub = new Subject("Math");
         sub.setTimeconsumption(5);
@@ -66,7 +68,7 @@ public class SubjectTest {
     }
 
     @Test
-    public void testSetEnt(){
+    public void testSetEnt() throws IOException{
 
         Subject sub = new Subject("Math");
         sub.setEntertainment(9);
@@ -75,7 +77,7 @@ public class SubjectTest {
     }
 
     @Test
-    public void testAverage(){
+    public void testAverage() throws IOException{
         Subject sub = new Subject("IT1901");
     
         sub.updateDifficulty(16);

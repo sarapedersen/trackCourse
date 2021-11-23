@@ -1,23 +1,19 @@
 ## Brukerhistorier
 Applikasjonen vår er basert på forskjellige brukerhistorier. Se brukerhistoriene [her](brukerhistorier.md).
 
-## Oppbygning av applikasjonen
-### Modulering
-I mappen trackcourse har vi to moduler, "core" og "fxui". I core mappen finner vi javafilene til logikken, og deres tilhørende tester. Tilsvarende ligger javafx klassene til appen i fxui mappen, med deres tester. 
+## Arbeidsvaner
+#### Før sammenslåing:
+Siden gruppen vår er en sammenslåing av to forskjellige grupper har det naturligvis oppstått en del problemer tidligere i løpet. Begge gruppene erfarte at arbeidet før sammenslåingen bestod stort sett av individuell innsats og samarbeid stod ikke i sentrum. I tillegg var det kommunikasjonen dårlig som førte til at hvert medlem ikke følte seg oppdatert på de andre sin kode, som igjen førte til at man måtte bruke mye tid på å sette seg inn i tidligere kode før man kunne jobbe videre.
+Begge gruppene brukte Git til å føre brukerhistorier, men selve brukerhistoriene var dårlig forklart som igjen gjorde det mer kaotisk å sette seg inn i hva hver person har utført.
+Grunnen til at vi ble slått sammen var fordi begge gruppene hadde store frafall i medlemmer. Frafallet førte til at arbeidsmengden for hvert enkelt medlem ble for stor. Siden arbeidsmengden ble så stor la vi merke til at motivasjonen til hvert medlem dalte ettersom vi kom lenger ut i semesteret. Begge gruppene satte inn tiltak for å prøve å holde motivasjonen oppe. Blant annet begynte vi med faste møter hvor vi jobbet samlet istedenfor hver for oss, samt hadde gruppe 83 en sosial samling hjemme hos en på gruppen.
+Vi erfarte likevel at arbeidsmengden ble for stor og valgte å slå oss sammen.
 
-### Applikasjonen
-App klassen vår som kjører applikasjonen heter [App.java](../../trackcourse/fxui/src/main/java/trackcourse/ui/App.java) og ligger under trackcourse/fxui/src/main/java/trackcouse/ui. Klassen bruker launch metoden til å kjøre appen og kjøres ved å skrive mvn javafx:run ifra fxui mappen i terminalen. (Se instruksjoner for kjøring av applikasjonen nederst i dokumentet)
+#### Etter sammenslåing: 
+Som gruppe 84 har vi jobbet jevnt gjennom release 3. Vi har satt opp faste møtetider på tirsdager og fredager hvor vi jobber samlet som et team. På starten av hvert møte satte vi opp en agenda for dagen som vi fulgte gjennom arbeidsmøtet. Møtet ble avsluttet når vi ble ferdig med agendaen for dagen eller når effektiviteten på arbeidet ble for lav.
+Vi erfarte at slike arbeidsmøter var en effektiv måte å jobbe på. Hvert medlem følte at de hadde noen å lene seg på hvis man ikke fikk til oppgaven sin eller følte seg komfortabel med ansvaret man fikk utdelt. Den største fordelen vi med arbeidsmøtene våre var at vi fikk samlet kunnskapen i gruppen vår, istedenfor at man var avhengig av hvert enkelt individ.
+Vi erfarte også at motivasjonen i gruppen gikk opp etter vi begynte med faste møter. Vi fokuserte mye på trivsel i gruppen siden vi erfarte tidligere at innsatsen ikke er tilstrekkelig med mindre man trives med arbeidet. Gruppen føler at arbeidet har vært morsomt å jobbe med, noe vi er sikre på at har bidrat til et bedre produkt. 
 
-I tillegg har vi implementert en AppController klasse som binder logikken vår opp mot brukergrensesnittet. Kontrollerklassen implementerer lagring av data, en submit metode som legger til et nytt Subject objekt med korresponderende variabler og en funksjon for oppdatering av listen.
-
-(------------- SE OVER DENNE DELEN TIL SLUTT, I TILFELLE NY IMPLEMENTASJON ---------------)
-Hoveddelen av logikken vår kommer gjennom Subject og FileHandler klassen. Subject klassen bruker en variabel kalt “name” til å identifisere de ulike fagene. I tillegg har vi implementert et HashMap som holder oversikt over gjennomsnittet til de ulike kriteriene vi har implementert (difficulty, timeconsumption og entertainment). HashMappet har i tillegg en oversikt over antall ganger et fag har blitt vurdert. 
-Grunnen til at vi valgte en HashMap-løsning istedenfor en liste-løsning var for senke kjøretiden og gjøre appen mer effektiv. Siden man må iterere gjennom en liste hver gang man ønsker gjennomsnittet, vil en HashMap løsning være mer effektiv så lenge vi har få variabler som brukeren kan gi en vurdering på.
-
-FileHandlerApp-klasse står for lagringen av dataen. Før fungerte denne med en txt fil, men nå lagres det via JSON. Det fungerer nå også å lasgre og laste inn fritt.
-(------------- SE OVER DENNE DELEN TIL SLUTT, I TILFELLE NY IMPLEMENTASJON ---------------)
-
-I resource/app mappen finner man [App.fxml](../../trackcourse/fxui/src/main/resources/trackcourse/ui/App.fxml) filen vår. Brukergrensesnittet vårt er tegnet opp med Scenebuilder. 
+Git og Issues har også forbedret seg etter vi slo oss sammen. Issuesene våre kunne fortsatt vært litt mer detaljerte, men siden vi stort sett jobbet samlet som en gruppe fant vi det ikke hensiktsmessig å bruke for mye tid på å opprette Issues. Issuesene våre inneholdt likevel den viktigste informasjonen og ble implementert i henhold til oppgavebeskrivelsen. 
 
 ## Hvordan kjøre applikasjonen
 * Fra mappen "trackcourse", skriv "mvn clean compile install"

@@ -1,0 +1,7354 @@
+4TOLK3E15
+Tolking for døvblitte 2
+4TOLK3E16
+Tolking mellom norsk tegnspråk og norsk 2
+AAR4206
+Introduksjon til arkitekturprosjektering for ingeniører
+AAR4209
+Modeller og metoder for utvikling og analyse av konstruksjonskonsepter i arkitekturprosjektering
+AAR4215
+Reguleringsplanlegging
+AAR4220
+Region- og kommuneplanlegging
+AAR4225
+Samordnet areal- og transportplanlegging
+AAR4235
+Økonomi og verdiskaping
+AAR4250
+Arkitektur som teknologisk praksis
+AAR4300
+Arkitektur 1 - Introduksjon til arkitektur. 
+AAR4335
+Bygningsfysikk for arkitekter
+AAR4360
+Arkitekturens teori og historie B
+AAR4365
+Arkitektur 5  By-og tettstedsforming
+AAR4366
+Arkitektur 5 By- og tettstedsforming
+AAR4367
+By- og planleggingskunnskap 
+AAR4400
+Form og farge 1
+AAR4415
+Arkitektur 2 - Tektonikk
+AAR4416
+Arkitektur 3 Boliger
+AAR4430
+Arkitekturens teori og historie A
+AAR4431
+Arkitektur- og prosjekteringskunnskap 1
+AAR4435
+Form og farge 2
+AAR4436
+Arkitektur 4 Transformasjon
+AAR4460
+Arkitekturens teori og historie C
+AAR4465
+Arkitektur 6 Store bygninger i plankontekst
+AAR4466
+Arkitektur 6 Store bygninger
+AAR4467
+Arkitektur- og prosjekteringskunnskap 2
+AAR4500
+Arkitekturprosjektering av store bygninger 1
+AAR4510
+Boligprosjektering
+AAR4525
+Urban uformalitet: Prosjektfag
+AAR4528
+Design i kontekst
+AAR4532
+Klima og bygget form prosjektering
+AAR4540
+Byutvikling
+AAR4551
+Bygningsvern. Bevaring og utvikling av eksisterende bygningsmiljø
+AAR4553
+Transformasjon - bygninger i endring
+AAR4600
+Selvprogrammert prosjektemne
+AAR4605
+Byforming og arkitektur 2
+AAR4609
+3Houses Theory Part
+AAR4611
+Making is Thinking. I grensesnittet mellom arkitektur og andre kreative disipliner
+AAR4616
+Integrert energidesign prosjektering
+AAR4619
+3Houses
+AAR4620
+Arkitekturprosjektering med lys og farger
+AAR4810
+Arkitekturvisualisering
+AAR4811
+Bygningsanalyse
+AAR4814
+Boligkunnskap
+AAR4815
+Plan og byggeprosess
+AAR4820
+Metoder og refleksjoner 
+AAR4821
+Bærekraftig eiendomsforvaltning - FM
+AAR4825
+Bygningsdokumentasjon
+AAR4827
+Eiendomsforvaltning og service
+AAR4828
+Eiendomsutvikling
+AAR4832
+Klima og bygget form
+AAR4833
+Konsepter og strategier i bærekraftig arkitektur
+AAR4841
+GIS som planverktøy
+AAR4843
+GIS-metoder for samordnet areal- og transportplanlegging
+AAR4851
+Urbane triggere
+AAR4853
+Arkitekturforståelse - Essayskriving 
+AAR4863
+Design in Context - Workshop 
+AAR4874
+Teori og metoder for masteroppgaver
+AAR4895
+Visuell kommunikasjon 3
+AAR4897
+Workshop
+AAR4900
+Selvprogrammert kunnskapsemne
+AAR4906
+Selvprogrammert frittstående emne 1
+AAR4908
+Selvprogrammert frittstående emne 2
+AAR4911
+Eksperter i team - Arkitektur for ikke-arkitekter
+AAR4914
+Eksperter i team - Forbedre din by
+AAR4918
+Eksperter i team - North by North East: A free Passage from Norway to China
+AAR4919
+BYLAB 2 - byformingsteori, forskning og praksis
+AAR4921
+Estetisk kommunikasjon
+AAR4922
+Eksperter i team - Tre for fremtiden
+AAR4923
+Eksperter i team - Ocean Justice
+AAR4926
+Integrert energidesign - Teori
+AAR4950
+Programmering og evaluering av bygninger
+AAR4951
+Prosjekteringsledelse
+AAR4970
+Visuell kommunikasjon 4
+AAR4990
+Masteroppgave i arkitektur
+AAR4992
+Masteroppgave i eiendomsutvikling og -forvaltning
+AAR5210
+Teorier i byøkologisk planlegging
+AAR5220
+Byplanleggingspraksis i uforutsigbare forhold
+AAR5230
+Fordypning i Urban Ecological Planning - selvprogrammert
+AAR5270
+Globalisering og byutvikling
+AAR5325
+Prosjekt utviklig og prosess
+AAR5390
+Praktisk arbeidserfaring
+AAR5400
+M.Sc. Thesis in Urban Ecological Planning
+AAR6006
+Prosjekteringsledelse
+AAR6008
+Prosjekteringsledelse, grunnkurs
+AAR6023
+Eiendomsøkonomi
+AAR6028
+Strategisk arealforvaltning
+AAR6032
+Eiendomsjus
+AAR6036
+Eiendoms- og områdeutvikling
+AAR6037
+Bærekraftig transformasjon av bygninger
+AAR6041
+Introduksjon til fagområdet &amp; FM, Eiendomsforvaltning og service
+AAR6043
+Vitenskapelige metoder
+AAR6990
+Masteroppgave Eiendomsutvikling og -forvaltning
+AAR8200
+Byøkologisk planlegging i ulike kulturer
+AAR8350
+Kunnskapsteori og arkitektens arbeidsmåte
+AE101108
+Bedriftsøkonomi med regnskap
+AE101308
+Finansregnskap med analyse
+AE101408
+Makroøkonomi
+AE201115
+Investering og finansiering
+AE201306
+Driftsregnskap med budsjettering
+AE201816
+Næringsøkonomi - utvalgte næringer
+AE302010
+Økonomisk styring
+AE511516
+Management Accounting and Pricing
+AE511712
+Industrial organisation
+AE512317
+Advanced Microeconomics and Alternative Perspectives on Rationality, Welfare and Responsibilities
+AFR2850
+Moderne afrikansk historie
+AI101212
+Innovasjonsledelse
+AI201312
+Entreprenørskap og forretningsutvikling
+AI521112
+Innovation and intellectual property rights
+AI521216
+Innovation and Entrepreneurship
+AI521316
+Sustainable Business Development
+AI521516
+Digital Marketing Innovation 
+AI521820
+Commercialization of Innovation
+AL201220
+Etikk, bærekraft og samfunnsansvar
+AL201308
+Foretaksstrategi
+AL301408
+Kulturforståelse
+AL501113
+Industrial Psychology and Human Resources Management
+ALIT1103
+Epikk og lyrikk 1800-2000
+ALIT1104
+Drama, poetikk og litteraturteori 1800-2000
+ALIT1111
+Epikk og lyrikk fra antikken til 1800
+ALIT1112
+Drama og poetikk fra antikken til 1800
+ALIT2201
+Fordypningsemne i litteraturteori
+ALIT2202
+Fordypningsemne i litteratur før 1800
+ALIT2203
+Fordypningsemne i litteratur etter 1800
+ALIT2900
+Bacheloroppgave i allmenn litteraturvitenskap
+ALIT3100
+Allmenn litteraturteori 1
+ALIT3101
+Allmenn litteraturteori 2
+ALIT3302
+Felles litterært pensum, eldre del
+ALIT3303
+Felles litterært pensum, nyere del
+ALIT3900
+Masteroppgave i allmenn litteraturvitenskap
+AM201306
+Kvantitative og kvalitative metoder
+AM301314
+Bacheloroppgave
+AM302312
+Cases in Technology Strategy and Marketing
+AM303718
+Consumer Insight and Branding
+AM304119
+Digital Marketing Analytics
+AM305918
+Global Supply Chain Management 
+AM510512
+Global sourcing and supply network management
+ANT1003
+Klassisk retorikk
+ANT1102
+Antikkens litteratur 
+ANT1104
+Antikkens religion og mytologi
+AR100219
+Statistikk for økonomer
+AR100919
+Matematikk for økonomer
+AR101015
+Matematisk problemløsning
+ARK1001
+Introduksjon til arkeologi
+ARK1002
+Kulturhistorie og materiell kultur
+ARK1010
+Introduksjon til arkeologi for kulturminneforvaltning
+ARK2001
+Arkeologisk kunnskapsproduksjon I
+ARK2002
+Feltmetodikk og fortolkning
+ARK2003
+Bacheloroppgave i arkeologi
+ARK3000
+Masteroppgave i arkeologi
+ARK3001
+Arkeologisk kunnskapsproduksjon II
+ARK3002
+Arkeologisk feltmetodikk, kuratering og fortolkning
+ARK3003
+Museums and Heritage Studies
+ARK3004
+Praksisopphold
+ARK3300
+Masteroppgave i arkeologi - prosjektdesign
+ARK3321
+Hospitering
+AS201414
+Business English
+AVS6300
+Skriving på jobb: Tekstutvikling, kommunikasjon og klarspråk
+BA6000
+Geografisk informasjonsbehandling
+BA6056
+Veg og jernbane, prosjekt
+BA6057
+Vegbygging
+BA6061
+Drift og vedlikehold
+BA6063
+Geoteknikk I
+BA6064
+Geoteknikk 2
+BA6072
+Planlegging og bygging av samferdselstunneler
+BA6073
+Drift, vedlikehold og sikkerhet i samferdselstunneler
+BA6202
+Risikostyring i prosjekter
+BA6203
+Risikostyring i prosjekter
+BA6206
+Fra behov til prosjekt
+BA6207
+Risikostyring i prosjekter
+BA6260
+Smidig praksis i prosjekt og digital transformasjon
+BA6271
+Grunnleggende bruk av VDC
+BA6272
+Prosjektgjennomføring med bruk av VDC
+BA6280
+VDC-Certificate Program Norge NTNU - Stanford
+BA6901
+Organisasjon og ledelse, masteroppgave
+BA6904
+Masteroppgave i studieretning Veg
+BA8100
+Bygningsmessig brannvern
+BA8111
+Område- og tettstedsforvaltning
+BA8200
+Videregående feilteori og utjevningsregning
+BA8205
+Lagring og formidling av geografisk informasjon
+BA8301
+Marin geoteknikk
+BA8304
+Jordmodellering
+BA8403
+Videregående kyst- og havneteknikk
+BA8510
+Falltapsanalyser vanntunneler. Hydraulikk, sprengningsteknikk og økonomi
+BA8511
+Emner i prosjektledelse og anleggsteknikk
+BA8512
+Konvensjonell tunneldrift
+BA8513
+Boring i berg
+BA8604
+Satellitt-gravimetri og - altimetri
+BA8605
+Videregående global satellitt-posisjonering (GPS)
+BA8615
+Trafikksikkerhet og trafikantatferd
+BA8617
+Drift og vedlikehold av veger i kaldt klima
+BA8623
+Advanced Building Information Modelling (BIM)
+BARN2001
+Children&#x27;s Rights in a Global Perspective
+BARN2003
+Introductory course to Childhood Studies
+BARN3101
+Social Studies of Children and Childhood
+BARN3102
+Children&#x27;s Rights
+BARN3201
+Methods and Ethics in Childhood Studies
+BARN3202
+Methodological Perspectives on Child and Childhood Research
+BARN3300
+Children and Development in the Global South
+BARN3900
+Master Thesis
+BARN8101
+Social Studies of Children and Childhood: Research Perspectives
+BARN8201
+Methods and Ethics in Childhood Studies
+BBAN4001
+Data science
+BBOA2010
+Innføring i skatterett
+BBOA2020
+Videregående skatte- og avgiftsrett
+BBOA3002
+Digitale regnskapsprosesser og organisering
+BBOA3005
+Digitale regnskapsprosesser
+BBOA3010
+Corporate Finance
+BBOA3020
+Financial Institutions, Markets and Regulations
+BBOA3030
+Videregående finansregnskap
+BBV1001
+Barnevernspedagogen som profesjon og sosialpedagogikk som tilnærming
+BBV1002
+Melding og undersøkelse i barnevernstjenesten
+BBV1003
+Barnevernspedagogen og samfunnsoppdraget
+BBV1004
+Meldinger og barnevernsfaglige vurderinger
+BBV2001
+Psykisk helse, omsorgskompetanse og omsorgssvikt
+BBV2002
+Rettsanvendelse i barnevernet
+BBV2003
+Barnevernsfaglige tiltak og metoder
+BBV2005
+Prosjektstudier i barnevern
+BBV2006
+Tiltak, endringsarbeid og utviklingsstøtte
+BBV2007
+Miljøterapi med utsatte barn og unge
+BBV2008
+Profesjonsutøvelse i lokal og global kontekst
+BBV2500
+Barnevernfaglig veiledet praksis
+BBV2900
+Bacheloroppgave i barnevern
+BBYGL39
+Bacheloroppgave Byggeledelse 
+BEIT4010
+Eksperter i team - Innovasjonskompetanse - fremtidens kjernekompetanse
+BEIT4011
+Eksperter i team - Energy Transition - Thinking Green
+BEIT4013
+Eksperter i team - Fremtidens boliger og bomiljø 
+BEV1012
+Metode og statistikk
+BEV1013
+Fysisk aktivitet og helse I
+BEV2007
+Observasjonsstudier
+BEV2008
+Evaluering av fysisk form og prestasjonsevne
+BEV2101
+Måling av fysisk aktivitet
+BEV2106
+Undervisningslære i fysisk aktivitet
+BEV2107
+Fysisk aktivitet i rehabilitering
+BEV3201
+Innføring i signalanalyse i Matlab 
+BEV6000
+Treningsplanlegging
+BEV8007
+Anvendt forskning i idrett og rehabilitering optimalisering av kunnskapsoverføringen
+BFIN4012
+Interest Income Securities
+BFIN4025
+Big data i eiendomsfinans
+BFIN5012
+Risikostyring og empirisk finans
+BGEO390
+Bacheloroppgave - Geomatikk
+BI1001
+Celle- og molekylærbiologi
+BI1002
+Faunistikk og floristikk
+BI1003
+Evolusjonsbiologi, økologi og etologi
+BI1006
+Dyrenes struktur og funksjon
+BI1008
+Laksens biologi i oppdrett og interaksjon med havmiljøet
+BI102009
+Kommunikasjon, samhandling og konflikthåndtering
+BI2001
+Biogeografi og biosystematikk
+BI200115
+Cellebiologi
+BI201109
+Instrumentell analyse
+BI2012
+Cellebiologi
+BI2014
+Molekylærbiologi
+BI2017
+Genetikk og evolusjon I
+BI202109
+Yrkesetikk for bioingeniører
+BI2024
+Menneskets anatomi og fysiologi
+BI202512
+Medisinsk mikrobiologi
+BI2044
+Etologi
+BI2045
+Seksuell seleksjon og kommunikasjon
+BI2065
+Akvakultur
+BI2073
+Praktisk miljøtoksikologi
+BI2080
+Global change biology
+BI2081
+Natur, miljø og bærekraft
+BI2097
+Eksperter i team - Bærekraftig akvakultur i fremtidens matproduksjon
+BI2098
+Eksperter i team - Saving the World is not Rocket Science
+BI221412
+Immunologi
+BI301205
+Medisinsk laboratorieteknologi, ekstern praksis
+BI301305
+Bacheloroppgave
+BI301511
+Laboratoriemedisin, transfusjonsmedisin og mikrobiologi
+BI3018
+Patentering og teknologietablering (næringsutvikling)
+BI3020
+Avansert fysiologi
+BI3021
+Spesiell zoofysiologi
+BI302511
+Laboratoriemedisin, medisinsk biokjemi og patologi
+BI3036
+Planteøkologi
+BI3067
+Akvakulturøkologi
+BI3071
+Økotoksikologi
+BI3072
+Miljøtoksikologi
+BI3073
+Gentoksikologi
+BI3083
+Evolusjonær og økologisk genetikk
+BI322112
+Etikk i bioteknologi
+BI8031
+Planteøkologi III
+BI8071
+My AOP - Advances Outcome Pathways in Environmental Toxicology
+BI8082
+Evolusjonær og økologisk genetikk
+BIA1001
+Marint råstoff
+BIA2001
+Marin økologi
+BIA2003
+Ekstern praksis 1
+BIA2004
+Sjømatforedling
+BIBYG39
+Bacheloroppgave Bygg
+BIDAT39
+Bacheloroppgave - Dataingeniør
+BIELE39
+Bacheloroppgave Elektroingeniør- Elektronikk
+BIELE40
+Bacheloroppgave Elektroingeniør- elkraft
+BIM1001
+Grunnleggende BIM modellering
+BIM1012
+Digital BIM-modellering
+BIM1023
+Praktisk BIM-modellering
+BIM2002
+BIM Modelleringscase
+BIMAS39
+Bacheloroppgave - Maskin
+BIXD390
+Bacheloroppgave  Interaksjonsdesign
+BK1151
+Introduksjon til Kunststudiet
+BK1161
+Maleri og etter 1
+BK1162
+Linsebasert praksis 1
+BK1163
+Grafikk Nå 1
+BK1164
+Elektroniske medier 1
+BK1165
+Materiale og rom 1
+BK1166
+Utstillingsproduksjon 1
+BK1202
+Individuelle kunstneriske arbeid
+BK2202
+Maleri og etter 2
+BK2203
+Linsebasert praksis 2
+BK2204
+Grafikk Nå 2
+BK2205
+Elektroniske medier 2
+BK2206
+Materiale og rom 2
+BK2207
+Utstillingsproduksjon 2
+BK2301
+Kunstnerisk arbeid og utprøving
+BK2452
+Kunstnerisk arbeid og fordypning
+BK2501
+BFA prosjekt utvikling
+BK2600
+BFA utstilling
+BK3105
+Advanced Artistic Work 1
+BK3181
+Thematic Group Project
+BK3183
+Art and Ocean 1
+BK3186
+Culture, Art, Technology 1
+BK3195
+Global Aesthetics 1
+BK3198
+Key Concepts of Art Theory 1
+BK3199
+Exhibiting and Curating 1
+BK3205
+Advanced Artistic Work 2
+BK3290
+Key Concepts of Art Theory 2
+BK3291
+Exhibiting and Curating 2
+BK3306
+Advanced Artistic Work 3 
+BK3400
+Advanced Artistic Work 4 - Master Thesis
+BLOG390
+Bacheloroppgave -logistikk
+BMA1010
+Matematikk for Informatikk
+BMA1020
+Matematikk for Programmering
+BMAC8030
+Applied Statistics for Management Accounting and Business Research
+BMET4000
+Vitenskapsteori, etikk og fagkritikk
+BMP3900
+Bacheloroppgave -Medieproduksjon
+BMPA4035
+Statsvitenskap
+BMPA5055
+Samfunnsvitenskapelig metode
+BMRR4010
+Virksomhetsstyring, prosesser og IKT
+BMRR4020
+Skatte- og avgiftsrett
+BMRR4025
+Foretaksrett
+BMRR4030
+Finansregnskap I
+BMRR4035
+Finansregnskap II
+BMRR4050
+Revisjon I
+BMRR4055
+Revisjon II
+BOKO4030
+Verdsettelse og lønnsomhetsanalyse
+BOKO5020
+Ny offentlig styring
+BPROG39
+Bacheloroppgave- programmering [Spill/Applikasjoner] 
+BR100119
+Matematikk med beskrivende statistikk og sannsynlighet
+BSA1001
+Sosialt arbeid som fag og profesjon 
+BSA1002
+Sosialt arbeids teori og praksis
+BSA1003
+Arbeid og inkludering
+BSA1004
+Sosialt arbeids teori og praksis
+BSA2001
+Psykisk helse
+BSA2002
+Rettsanvendelse i sosialt arbeid
+BSA2003
+Sosialt arbeid med individer og grupper
+BSA2004
+Barnevern
+BSA2005
+Nettverks- og samfunnsarbeid
+BSA2006
+Prosjektstudier i sosialt arbeid
+BSA2007
+Profesjonsutøvelse i lokal og global kontekst
+BSA2500
+Veiledet praksis i sosialt arbeid
+BSA2900
+Bacheloroppgave i sosialt arbeid
+BSOL4005
+Organisasjonsteoretiske perspektiver
+BSOL4620
+Innovasjonsledelse
+BT3110
+Marine Næringsmiddelressurser, prosessering og teknologi
+BT3119
+Videregående næringsmiddelkjemi
+BT3210
+Resirkulerende akvakultursystemer RAS
+BT3801
+Eksperter i team - Skreddersydd biologi: Potensial, begrensninger og utfordringer for menneskeheten
+BT8101
+Mikrobiell økologi
+BT8119
+Videregående næringsmiddelkjemi
+BT8120
+Prokaryot molekylærbiologi og syntetisk biologi
+BT8135
+Biopolymerer videregående kurs I
+BTA1001
+Generell mikrobiologi
+BTA2001
+Ernæring
+BTEK391
+Bacheloroppgave - Teknologidesign og ledelse
+BTEKD39
+Bacheloroppgave - Teknologidesign og ledelse
+BWU3900
+Bacheloroppgave - Webutvikling
+BYG1351
+VA-teknikk for ingeniører
+BYG1371
+Bygningsfysikk
+BYG1381
+Geoteknikk
+BYG2271
+Universell utforming 
+BYG2301
+Konstruksjonsteknikk
+BYG2311
+Materiallære for bygg
+BYG2331
+Vegplanlegging
+BYG3232
+Estetikk, byggeskikk og stedskvalitet
+BYG3311
+Tre-og stålkonstruksjoner
+BYG3321
+Betongkonstruksjoner
+BYG3332
+Fleretasjes trehus
+BYG3333
+Bygging, drift og vedlikehold av veg
+BYGA1001
+Byggteknikk
+BYGA2020
+Samhandling og prosjektledelse
+BYGA2021
+Konstruksjonslære og modellering
+BYGA2022
+Konstruksjonssikkerhet og statikk
+BYGA2023
+Bygningsinformasjonssystemer, BIM
+BYGA2200
+Materiallære
+BYGA2201
+Geomatikk
+BYGA2224
+Arealplanlegging og digital modellering
+BYGA2225
+VA Ledningsnett og overvannshåndtering
+BYGA2227
+Vegplanlegging
+BYGA2228
+Vegteknologi og asfalt
+BYGG1001
+Byggteknikk
+BYGG1001F
+Byggteknikk
+BYGG2001
+Geoteknikk
+BYGG2250
+Mekanikk 2
+BYGG2251
+Konstruksjonslære
+BYGG2253
+Konstruksjonsanalyse
+BYGG2254
+Betongkonstruksjoner
+BYGG2255
+Trekonstruksjoner 1
+BYGG2256
+Stålkonstruksjoner
+BYGG2260
+Bygningsfysikk
+BYGG2261
+Arealplanlegging og digital modellering
+BYGG2263
+Vann- og avløpsteknikk
+BYGG2265
+Byggeprosjektet
+BYGG2266
+Planlegging, bygging og drift av veg
+BYGT1001
+Byggteknikk
+BYGT2202
+Konstruksjonsteknikk
+BYGT2203
+Digitalt samspill
+BYGT2205
+Vann og avløpsteknikk 1
+BYGT2206
+Prosjektering av konstruksjoner
+BYGT2313
+Styrt praksis og prosjekt 
+BØA1100
+Bedriftsøkonomi med regnskap
+BØA1200
+Finansregnskap med analyse
+BØA2020
+Decision Modelling and Optimization
+BØA2033
+Årsregnskap
+BØA2042
+Financial Modeling using Excel
+BØA2100
+Driftsregnskap med budsjettering
+BØA2200
+Finansiering og investering
+BØA3020
+Integrert budsjettering og økonomisk styring
+BØKLED3
+Bacheloroppgave -Økonomi, ledelse og bærekraft
+DCSG1001
+Infrastruktur: grunnleggende ferdigheter
+DCSG1002
+Cybersikkerhet og teamarbeid
+DCSG1005
+Infrastruktur: sikre grunntjenester
+DCSG1006
+Datakommunikasjon og nettverk
+DCSG2001
+Sammenkoblede nettverk og nettverkssikkerhet
+DCSG2005
+Risikostyring
+DCSG2900
+Bacheloroppgave Bachelor i digital infrastruktur og cybersikkerhet
+DCST1001
+Infrastruktur: grunnleggende ferdigheter
+DCST1002
+Cybersikkerhet og teamarbeid
+DCST1003
+Grunnleggende programmering
+DCST1005
+Infrastruktur: sikre grunntjenester
+DCST1007
+Objektorientert programmering
+DCST1008
+Systemutvikling
+DCST2002
+Webutvikling
+DCST2004
+Digital tjenesteforvaltning
+DID3101
+Deltakende læring og undervisning i kunstfag
+DID3102
+Kunstfagdidaktisk forskning
+DID3103
+Kunstnerisk praksis, kunnskap og forskning
+DID3201
+Yrkesdidaktisk fordypning i et organisasjons- og samfunnsperspektiv
+DID3203
+Teori og design
+DID3301
+Språklæring og språkundervisning
+DID3302
+Pedagogisk grammatikk
+DID3303
+Litteratur, tekst og kultur i klasserommet
+DID3304
+Data-støttet språklæring
+DID3305
+Vurdering i språkundervisningen
+DID3401
+Læring og undervisning av matematikk
+DID3402
+Historiske og filosofiske perspektiver på skolematematikk
+DID3403
+Utvalgte fordypningstemaer i matematikkdidaktikk
+DID3503
+Naturfaget i skolen
+DID3505
+Biologisk mangfold og mennesket
+DID3601
+Språk og språkdidaktikk
+DID3603
+Norskfaglig skriving og lesing
+DID3701
+Global bevissthet og utdanning for bærekraftig utvikling
+DID3702
+Demokrati, medborgerskap og menneskerettighetslæring
+DID3703
+Utforskende undervisning og samfunnskritisk tenkning
+DID3704
+Historiebevissthet, historiekultur og begrepsutvkling
+DID3801
+Eksperter i team - Forbruk og avfall, fra lokale handlinger til global forståelse og handlingskompetanse
+DID3802
+Eksperter i team - Globalt medborgerskap i skolen - fra klimaendringer til global ulikhet
+DID3803
+Eksperter i team - Bærekraftig utvikling i havet
+DIFT1002
+IT-Introduksjon og databaser 
+DIFT1003
+Økonomisk styring og regnskap
+DIFT1004
+Organisasjon, ledelse og endring
+DIFT1005
+Datastøttet samhandling
+DIFT1006
+Økonomisk analyse og rapportering med regneark
+DIFT2004
+Produktutvikling, marked og forvaltning av programvare-produkter (PMF)
+DIFT2005
+Digital endring og transformasjon
+DIFT2006
+Big Data
+DIFT2007
+Informasjonssikkerhetsstyring
+DIFT2008
+Digital strategi i organisasjoner
+DIFT2010
+Digitalt entreprenørskap
+DIFT2011
+Prosjektledelse og forretningssystemer
+DOK3001
+Fag- og vitenskapsteori for arkiv og dokumentasjonsforvaltning
+DOK3003
+Dokumentasjonsforvaltning i et samfunns- og virksomhetsperspektiv
+DRA1001
+Teaterhistorie og sjangerforståelse
+DRA1002
+Improvisasjon og rollespill
+DRA1003
+Teaterproduksjon
+DRA1010
+Introduksjon og forestillingsanalyse
+DRA2000
+Bacheloroppgave i drama og teater
+DRA2002
+Prosjektteater for ungdom
+DRA2100
+Drama og teater i praksis
+DRA3000
+Forskningsteori og praksisbaserte metoder i drama og teater
+DRA3003
+Historiske og teoretiske perspektiver på drama og teater
+DRA3004
+Nyere dramaturgiske perspektiver
+DRA3007
+Vitenskapelige perspektiver i drama og teater
+DRA3191
+Prosjektemne. Praktisk master i drama og teater
+DRA6002
+Dramaterapi
+DT8111
+Metoder for empirisk forskning innen IT og digitalisering
+DT8119
+Klinisk beslutningsstøtte
+DT8121
+Colour Imaging
+EDU3024
+Faglig fordypning i naturfag: Biologisk mangfold og mennesket
+EDU3041
+Identitet og fellesskap
+EDU3051
+Historiebevissthet og historiekultur
+EDU3078
+Improvisasjon og deltagende kunst
+EDU3080
+Språklæring og kommunikativ kompetanse
+EDU3083
+Tekst og kultur i klasserommet
+EDU3084
+Profesjonsfaglig digital kompetanse
+EDU3085
+Vurdering og språklæring
+EDU3087
+Akademisk skriving og skriving og læring
+EDU3216
+Dokumentasjon av yrkesfaglig og yrkesdidaktisk arbeid
+EDU3971
+Masteroppgave i kunstfagdidaktikk
+EDU3980
+Masteroppgave i engelsk- og fremmedspråkdidaktikk
+EDU6211
+Uni Smart læring
+EIT3006
+Eksperter i team - forbruk - design - livsstil
+EIT3014
+Eksperter i team - Fortalt digitalt
+EIT3017
+Eksperter i team - Kunnskap om sårbare og løfterike hav – havets betydning og framtid som ressursgrunnlag
+ELE3342
+Programmerbare kretser
+ELE3381
+Reguleringsteknikk med robotprogrammering
+ELE3391
+Elektro prosjekt
+ELE3412
+Signalbehandling for kommunikasjonssystemer
+ENE2031
+Termodynamikk og varmelære
+ENE3003
+Energisystem analyse
+ENE3004
+Elektriske energisystem og fjernvarme
+ENG1001
+Global engelsk
+ENG1004
+Samfunn, kultur og språk
+ENG1101
+Engelsk språkvitenskap
+ENG1201
+Språkferdighet og grammatikk
+ENG1302
+Litteratur: Drama og lyrikk
+ENG1303
+Litteratur: Prosa
+ENG1404
+Historie og nasjon
+ENG2123
+Oversettelse
+ENG2153
+Tilegnelse av første- og andrespråk
+ENG2155
+Teoretiske tilnærminger til engelsk språk
+ENG2302
+Litteratur og historie
+ENG2303
+Litteratur og nasjon
+ENG2455
+Historie og politikk
+ENG2502
+Tekst, kultur, kontekst
+ENG2800
+Forberedelsesemne for bacheloroppgaven i engelsk
+ENG2900
+Bacheloroppgave i engelsk for lektorstudenter
+ENG2910
+Bacheloroppgave i engelsk
+ENG3110
+Spesialiseringsemne i engelsk språk
+ENG3316
+Spesialiseringsemne i engelskspråklig litteratur før 1900
+ENG3317
+Spesialiseringsemne i moderne engelskspråklig litteratur
+ENG3320
+Tema innen engelskspråklig litteratur
+ENG3430
+Tema innen litteratur og kultur
+ENG3450
+Historie, samfunn og kultur
+ENG3900
+Masteroppgave i engelsk
+ENG3901
+Masteroppgave i engelsk
+ENG3920
+Masteroppgave i engelsk lingvistikk og språktilegnelse 
+ENG6010
+Språkferdighet
+ENG6011
+Kulturkunnskap
+ENG6012
+Litteratur I
+ENG6014
+Skriving i klasserommet
+ENG6015
+Språklæring
+ENG6016
+Muntlighet i klasserommet
+ENG6017
+Kulturkunnskap
+ENG6018
+Litteratur I
+ENG6020
+Språkvitenskap og språktilegnelse
+ENG6022
+Tverrfaglig emne
+ENG6023
+Global engelsk
+ENG6024
+Litteratur og kultur i klasserommet
+ENG6025
+Språkvitenskap og språktilegnelse
+ENG6026
+Global engelsk
+ENG6104
+Flerspråklighet i engelskfaget
+EP8101
+Forbrenningsfysikk
+EP8125
+Energilagring og bioenergi
+EP8405
+Turbulens
+EP8408
+Høyere ordens metoder i fluiddynamikk
+ERG2001
+Psykososiale og somatiske funksjonsnedsettelser - del 1
+ERG2011
+Psykososiale og somatiske funksjonsnedsettelser - del 2 - Fokus på folkehelse og livsstilsykdom
+ERG3001
+Prosjektarbeid i ergoterapi
+ERG3011
+Forskning og utvikling i ergoterapi
+ERG3021
+Universell utforming og velferdteknologi som helsefremmende strategier
+ERG3031
+Ergoterapi i samfunnet
+ERG3901
+Bacheloroppgave i ergoterapi
+ESTET8863
+Kunstbasert forskningsmetode
+ET6005
+Optimalt vedlikehold av vannkraftverk
+ET8100
+Elektrisk ledningsevne, dielektrisk tap og gjennomslag i fast og flytende høyspenningsisolasjon
+ET8101
+Overspenningsberegninger i kraftnett
+ET8207
+Pålitelighet i elkraftsystemer
+ET8303
+Kraftelektronikk, halvlederfysikk og pålitelighet
+ET8304
+Effektteori og kompensering med kraftelektronikkomformere
+ET8305
+Modellering, Identifikasjon og regulering av elektriske maskiner
+ETG1101
+Person, aktivitet og deltakelse i hverdagsliv
+ETG1102
+Aktivitetsanalyse
+ETG1110
+Profesjonsutøvelse i ergoterapi (praksisstudier)
+ETT1101
+Person, aktivitet og deltakelse i hverdagsliv
+ETT1102
+Aktivitetsanalyse
+ETT1103
+Aktivitetsvitenskap
+ETT1104
+Omgivelser, tilgjengelighet og teknologi
+ETT1110
+Profesjonsutøvelse i ergoterapi (praksisstudier)
+EUR1001
+Innføring i Den europeiske union
+EUR2101
+Norge i Europa
+EUR2102
+Europeiske identiteter og kultur
+EUR2201
+Europeisk integrasjonsteori
+EUR2900
+Bacheloroppgave i europastudier 
+EUR2915
+Den europeiske integrasjonens historie
+EUR3001
+Master&#x27;s Thesis in European Studies
+EUR3411
+The Political Economy of the History of European Integration
+EUR3413
+Governing Europe: Societal Actors, Networks and Lobbying
+EUR3414
+Differentiated Integration: The Norwegian Case in Perspective
+EUR3415
+Research and Project Planning
+EUR3416
+Contesting Europe
+EUR3418
+The EU as a Global Actor 
+EUR3801
+Internship 1
+EUR3802
+Internship 2
+EXPH0100
+Examen philosophicum for humaniora og estetiske fag
+EXPH0200
+Examen philosophicum for samfunnsvitenskap
+EXPH0300
+Examen philosophicum for naturvitenskap og teknologi
+EXPH0400
+Examen philosophicum for medisin og helsefag
+EXPH0500
+Examen philosophicum for økonomi
+FARM3002
+Nye prinsipper for medikamentell behandling av autotimmune sykdommer og kreft
+FARM3003
+Farmasøytisk innovasjon
+FARM3006
+Avansert farmakoterapi
+FARM3007
+Farmasøytisk praksis og klinisk farmasi
+FARM3100
+Forskningsprosjekt i farmasi
+FE8119
+Modelleringsteori for enbrikkesystemer og innvevde systemer
+FE8121
+VLSI testmetodikk
+FE8122
+Doktorgradsseminar i krets- og radiosystem design
+FE8123
+Doktorgradsseminar i nanoelektronikk og fotonikk
+FENA1001
+Fornybar energi grunnkurs
+FENA1011
+Termodynamikk
+FENA2001
+Elektriske energisystemer og fjernvarme
+FENA2002
+Fluidmekanikk og hydraulikk
+FENA2011
+Kjemisk energiteknikk
+FENA2021
+Solenergi
+FENA2023
+Livsløpsvurderinger av energisystem
+FENA2030
+Hybride energisystemer på skip
+FENG1001
+Fornybar energi grunnkurs
+FENG1011
+Termodynamikk
+FENG1012
+Mekanikk
+FENG2001
+Elektriske energisystemer og fjernvarme
+FENG2002
+Fluidmekanikk og hydraulikk
+FENG2011
+Kjemisk energiteknikk
+FENG2021
+Solenergi
+FENG2023
+Livsløpsvurderinger av energisystem
+FENT1011
+Termodynamikk
+FENT2001
+Elektriske energisystemer og fjernvarme
+FENT2002
+Fluidmekanikk og hydraulikk
+FENT2011
+Kjemisk energiteknikk
+FENT2021
+Solenergi
+FENT2023
+Livsløpsvurderinger av energisystem
+FENT2322
+Laboratorieteknikk
+FH3000
+Innføring i folkehelse
+FH3005
+Folkehelsens sosiologi
+FH3006
+Kunnskapsbasert folkehelsearbeid
+FH3010
+Systematisk folkehelsearbeid - fra teori til praksis
+FH3102
+Natur og kultur i helsefremming 1
+FH3104
+Sosial aldring og aktiv aldring
+FH3105
+Helsefremming i lokalsamfunn
+FH3106
+Natur og kultur i helsefremming 2
+FH3901
+Masteroppgave i folkehelse
+FI1000
+Tekst og argumentasjon
+FI1101
+Samtidens filosofi
+FI1104
+Det 20. århundres filosofi
+FI1106
+Estetikk
+FI1107
+Language and reality
+FI1303
+Vitenskap, kunnskap, praksis
+FI1401
+Filosofihistorie 1
+FI1402
+Filosofihistorie 2
+FI2101
+Åpent fordypningsemne 1 i filosofi
+FI2102
+Åpent fordypningsemne 2 i filosofi
+FI2103
+Åpent fordypningsemne 3 i filosofi
+FI2104
+Åpent fordypningsemne 4 i filosofi
+FI2105
+Åpent fordypningsemne 5 i filosofi
+FI2107
+Politisk filosofi
+FI2108
+Filosofisk estetikk
+FI2900
+Bacheloroppgave i filosofi
+FI3010
+Philosophy of Mind
+FI3101
+Masteroppgave i filosofi
+FI3107
+Bioteknologi og etikk
+FI3202
+Teori og metode i filosofi
+FI3203
+Spesialemne til mastergraden i filosofi
+FI3204
+Masteroppgave i filosofi
+FI3205
+Spesialemne til mastergraden i filosofi
+FI3600
+Selvstudium - Erstatningsemne for Eksperter i team
+FI3700
+Selvstudium
+FI5200
+Områdeetikk
+FI5205
+Corporate Responsibility and Ethics
+FI5206
+Technology for a Good Society
+FILM1100
+Film og fortelling
+FILM1101
+Filmens historie
+FILM1102
+Filmens teori og estetikk
+FILM1103
+Filmen i samfunnet
+FILM1104
+Nordisk film og fjernsyn
+FILM2000
+Bacheloroppgave i filmvitenskap
+FILM2001
+Dokumentar
+FILM2002
+Fiksjon
+FILM2100
+Filmvitere i praksis
+FILM3012
+Posisjoner i filmvitenskap
+FILM3090
+Masteroppgave i filmvitenskap
+FIN3005
+Makrofinans
+FIN3006
+Anvendt tidsserieøkonometri
+FIN3501
+Kredittrisiko
+FIN3900
+Masteroppgave i finansiell økonomi
+FIN8606
+Anvendt tidsserieøkonometri
+FIX1101
+Samtidens filosofi
+FIX1105
+Etikk
+FIX2107
+Politisk filosofi
+FIX2900
+Bacheloroppgave i filosofi
+FM3000
+Vitenskapsteori og forskningsdesign
+FM3001
+Fagformidling og kommunikasjon
+FM3002
+Aktuelt forskningsbasert emne 1
+FM3003
+Aktuelt forskningsbasert emne 2
+FM3004
+Kulturpolitikk og forvaltning
+FO001216
+Teknologi og samfunn
+FO001416
+Fysikk
+FO001716
+Kommunikasjon og norsk
+FP4100
+Arkitektur og stedsforming
+FP4350
+Bypolitiske teorier og planleggingsteori
+FRA0502
+Fransk 2
+FRA1010
+Språkferdighet, tekst og metode
+FRA1110
+Introduksjon til fransk historie og litteratur
+FRA1120
+Fransk litteraturhistorie
+FRA1130
+Litteratur, tekst og metode
+FRA1210
+Grammatikk og fonologi 1
+FRA1220
+Grammatikk og fonologi 2
+FRA1401
+Frankrike etter 1945
+FRA2203
+Fordypning i fransk litteratur
+FRA2301
+Fransk språkvitenskap
+FRA2305
+Resymé og oversettelse
+FRA2410
+Fransk historie for samtiden
+FRA2900
+Bacheloroppgave i fransk
+FRA3211
+Spesialiseringsemne i fransk språkvitenskap 
+FRA3333
+Praktisk oversettelse
+FRA3900
+Masteroppgave i fransk
+FRA3901
+Masteroppgave i fransk
+FRAC1100
+Fransk litteratur og kulturkunnskap
+FRAC1101
+Fransk litteratur 2
+FRAC1102
+Fransk historie
+FRAC1200
+Grammatikk, fonetikk og praktisk fransk
+FRAC1201
+Fransk grammatikk 2
+FRAC1500
+Fransk fagdidaktikk
+FUH3004
+Funksjonshemming som kunnskap og forskningsfelt
+FUH3900
+Masteroppgave i funksjonshemming og samfunn
+FVP1001
+Film- og videoproduksjon 1
+FVP1010
+Introduksjon til film- og videoproduksjon
+FVP2001
+Film- og videoproduksjon 2
+FVP2002
+Film- og videoproduksjon 3
+FVP2003
+Idé- og manusutvikling
+FVP3003
+Produksjonsforberedende emne
+FVP3005
+Audiovisuell bransje
+FVP3006
+Lyddesign
+FY0001
+Brukerkurs i fysikk
+FY1001
+Mekanisk fysikk
+FY1003
+Elektrisitet og magnetisme
+FY2045
+Kvantemekanikk I
+FY2450
+Astrofysikk
+FY3107
+Matematiske approksimasjonsmetoder i fysikken
+FY3114
+Funksjonelle materialer
+FY3403
+Partikkelfysikk
+FY3452
+Gravitasjon og kosmologi
+FY3464
+Kvantefeltteori I
+FY3490
+Fysikk, spesialpensum
+FY3900
+Masteroppgave i fysikk
+FY3901
+Masteroppgave i nevrovitenskap
+FY3910
+Masteroppgave i naturfagdidaktikk
+FY3950
+Masteroppgave i fysikk
+FY6013
+Mekanikk
+FY6014
+Varmelære og miljøfysikk
+FY6015
+Astronomi
+FY6017
+Elektromagnetisme
+FY6018
+Elektrisitet og elektronikk
+FY6019
+Moderne fysikk
+FY6020
+Lys, optikk og fysikkfaget i skolen
+FY8302
+Kvanteteorien for faste stoffer
+FY8304
+Matematiske approksimasjonsmetoder i fysikken
+FY8305
+Funksjonalintegral metoder i kondenserte fasers fysikk
+FY8308
+ Videregående kvantefeltteori
+FY8903
+Gravitasjon og kosmologi
+FY8904
+Numerisk fysikk
+FY8906
+Biofysiske mikroteknikker
+FY8907
+Klassisk transportteori
+FY8908
+Kvanteoptikk
+FY8909
+Nanofysikk
+FY8910
+Ikkelineær dynamikk
+FY8911
+Molekylær biofysikk
+FY8912
+Funksjonelle materialer
+FY8913
+Partikkelfysikk
+FY8914
+Kvantefeltteori I
+FY8915
+Optikk, videregående kurs
+FY8917
+Faststoff-fysikk, videregående kurs
+FY8918
+Fysikk i medisinsk avbildning
+FY8919
+Strålingsbiofysikk
+FYST1101
+Kommunikasjon, samhandling og helse 1
+FYST1102
+Funksjonell anatomi 1
+FYST1103
+Bevegelseslære 1
+FYST1104
+Funksjonell anatomi 2
+FYST1106
+Fysiologi og treningslære
+GB6001
+Ingeniørgeologi for bygge- og anleggsledere i underjordsarbeider
+GB8102
+Videregående mineralogi og petrologi
+GB8105
+Anvendt geofysikk og petrologi for utforsking av geologi og miljø
+GB8110
+Mineral- og jordskorpemagnetisme
+GB8201
+Tektonikk
+GB8303
+Stabilitet av fjellskjæringer
+GB8306
+Numerisk modellering for bergteknikk
+GB8310
+Spenningsrelaterte stabilitetsproblemer i undergrunnsanlegg
+GB8402
+Prosessmineralogi VK
+GB8407
+Informasjonsteknologi for mineralutvinning
+GB8507
+Fysisk sedimentologi
+GB8509
+Ph.d.-emne i sedimentologi
+GEO1121
+GIS Intro
+GEO2121
+Terrengmodeller
+GEO2311F
+Geografisk informasjonsbehandling
+GEO2341
+Geografisk datafangst 2
+GEO3061
+Stikking, videregående
+GEO3071
+Satellittgeodesi, videregeående
+GEO3093
+Geomatikk prosjektoppgave
+GEO3101
+Geografisk analyse
+GEO3141
+Infrastrukturer for stedfestet informasjon
+GEOG1007
+Befolkning, ressurser og miljø
+GEOG1010
+Geografisk forskningsdesign og feltarbeid
+GEOG1011
+Innføring i samfunnsgeografi
+GEOG1012
+Innføring i Geografiske informasjonssystemer (GIS)
+GEOG1013
+Naturressursforvaltning, miljø og bærekraftig utvikling
+GEOG1014
+Jordas naturmiljø
+GEOG2016
+Fordypningsprosjekt med tema bærekraftig utvikling
+GEOG2021
+By- og regional utvikling og planlegging 
+GEOG2022
+Globalisering og bærekraftig utvikling i Sør
+GEOG2023
+Lokale og globale perspektiv på miljø- og ressursforvaltning
+GEOG3005
+Qualitative Methods
+GEOG3007
+Fagfilosofi, teorier og begreper
+GEOG3012
+Internship - Globalisation and Sustainable Development
+GEOG3020
+Prosjekt fagformidling
+GEOG3021
+Internship - Entreprenørskap, innovasjon og samfunn
+GEOG3030
+Natural Resources Management
+GEOG3053
+Discourses of Development and Globalization
+GEOG3091
+Special Syllabus for Master Degree
+GEOG3100
+Samfunnsperspektiv på entreprenørskap
+GEOG3101
+Innovation and Regional Development
+GEOG3102
+Prosjekt entreprenørskap
+GEOG3517
+Social Difference, Identity and Place
+GEOG3518
+Global Production Networks
+GEOG3522
+Migration and Development
+GEOG3525
+Landscape, Planning and Management
+GEOG3527
+GIS Tools for Climate Change Studies
+GEOG3900
+Masteroppgave - Geografi
+GEOG3901
+Masteroppgave - Lektor i geografi for trinn 8-13
+GEOG3910
+Master&#x27;s Thesis 
+GEOG3940
+Master&#x27;s Thesis - Natural Resources Management - Geography
+GEOG3950
+Masteroppgave - Entreprenørskap, innovasjon og samfunn
+GEOG3951
+Masteroppgave - Entreprenørskap, innovasjon og samfunn
+GEOG8000
+Theoretical Perspectives in Geography 1
+GEOG8001
+Theoretical Perspectives in Geography 2
+GEOG8523
+GIS Data Capture and Mapping 2
+GEOL1001
+Historisk geologi og paleontologi
+GEOL1004
+Fysisk sedimentologi
+GEOL1005
+Geometallurgi
+GEOL1006
+Paleoklima og den sedimentære lagrekken
+GEOL3090
+Masteroppgave i geologi
+GEOL3092
+Spesialpensum til masteroppgaven/særpensum
+GEOL3093
+Spesialpensum til masteroppgaven/særpensum
+GEOM1110
+Introduksjon til ingeniørfag geomatikk
+GEOM1310
+Modellering og bruk av nasjonale geodata
+GEOM2110
+Landmåling
+GEOM2120
+Grunnlagsnett
+GEOM2130
+Terrengmodeller
+GEOM2220
+Geografisk datafangst
+GEOM2230
+Geografisk analyse
+GEOM2240
+Geografisk infrastruktur og informasjonsbehandling
+GEOM2920
+Stikking
+GRE1101
+Innføring i gresk
+HAUD1002
+Audiologisk utredning 1
+HAUD1003
+Audiologisk utredning 2
+HAUD2002
+Audiologisk rehabilitering 1
+HAUD2003
+Audiologisk rehabilitering 2
+HAUD201P
+Praksisstudier audiologisk rehabilitering
+HAUD3119
+Audiologi - valgfritt klinisk emne 1
+HAUD3120
+Audiologi - valgfritt campus emne 1
+HAUD3121
+Audiologi - valgfritt klinisk emne 2
+HAUD3122
+Audiologi - valgfritt campus emne 2
+HBIO1001
+Analytisk kjemi
+HBIO1002
+Anatomi, fysiologi og histologi
+HBIO1003
+Matematikk, statistikk og databehandling
+HBIO1005
+Organisk kjemi og biokjemi grunnkurs
+HBIO106P
+Samhandling og etikk
+HBIO2001
+Celle- og molekylærbiologi
+HBIO2002
+Fysikk m/måleteknikk
+HBIO2003
+Generell immunologi og medisinsk mikrobiologi
+HBIO2004
+Medisinsk laboratorieteknologi 2: Kvantitative teknikker
+HBIO2006
+Medisinsk laboratorieteknologi 4, Immunologiske-, cytologiske- og histologiske teknikker
+HBIO2007
+Organisk kjemi og biokjemi videregående kurs
+HBIO205P
+Medisinsk laboratorieteknologi 3: Automasjon i medisinske laboratorier, med ekstern studiepraksis
+HBIO3001
+Bacheloroppgave i bioingeniørfag
+HBIO3002
+Laboratoriemedisin
+HBIO3005
+Medisinsk laboratorieteknologi 6, Medisinsk biokjemi, mikrobiologi og patologi
+HBIO3015
+Introduksjon til biomedisinsk laboratorievitenskap
+HBIO303P
+Medisinsk laboratorieteknologi 5A, Hematologi og Hemostase
+HBIO6001
+Veilederutdanning for praksisveiledere, bioingeniør
+HBIOA1002
+Organisk kjemi 
+HBIOA1003
+Biokjemi med cellebiologi
+HBIOA1004
+Generell kjemi
+HBIOA1006
+Instrumentell Analyse I
+HBIOA2002
+Medisinsk mikrobiologi
+HBIOT1010
+Medisinsk laboratorieteknologi, innføring i bioingeniørfag
+HBIOT1011
+Anatomi, fysiologi og histologi
+HBIOT1013
+Kjemisk og instrumentell analyse
+HBIOT1014
+Biokjemi med cellebiologi
+HBIOT3901
+Masteroppgave i molekylærmedisin
+HBVE3003
+Barnevernspedagogers yrkeskompetanse 
+HBVE303P
+Barnevernsfaglig praksis i tjenester og tiltak for utsatte barn og unge
+HELA3001
+Pasientsikkerhet og ledelse
+HELA3002
+Bærekraftig helseledelse
+HELA6000
+Praksisveilederutdanning helsefag - del 1
+HELG6010
+Praksisveiledning av studenter/profesjonsutøvere i helse- og sosialtjenesten
+HERG2002
+Nevrologiske problemstillinger, aktivitet og deltakelse, behandling, habilitering og rehabilitering
+HERG3003
+Allmennhelse, folkehelse og arbeidshelse
+HERG3004
+Bacheloroppgave i ergoterapi
+HERG3005
+Allmennhelse, folkehelse og arbeidshelse
+HERG301P
+Prosjektledelse - praksisstudier
+HFEL0004
+Retorikk
+HFO1001
+Digitale endringer
+HFO1003
+Mangfold og integrering: Transkulturelle dynamikker
+HFO1004
+Menneskets tidsalder?
+HFYS2002
+Samhandling og relasjon i fysioterapi II
+HFYS3007
+Bacheloroppgave i fysioterapi
+HIP3000
+Humanister i praksis
+HIST1000
+Historien i samfunnet
+HIST1300
+Eldre historie fram til ca. 1750
+HIST1350
+Eldre historie fram til ca. 1750 II
+HIST1500
+Nyere historie etter ca. 1750
+HIST1505
+Innføring i historisk teori og metode
+HIST1550
+Nyere historie etter ca. 1750 II
+HIST2002
+Norden i middelalderen 
+HIST2003
+Europa i høy- og seinmiddelalderen
+HIST2004
+Tidlig nytids historie 
+HIST2005
+Teknologi- og vitenskapshistorie 
+HIST2006
+Kultur- og sosialhistorie 
+HIST2007
+Nasjonalisme, imperialisme og demokratisering etter 1750
+HIST2009
+Norsk og nordisk historie etter 1750 
+HIST2011
+Internasjonal historie etter 1870 
+HIST2012
+Politikk, samfunn og kultur i Europa etter 1945 
+HIST2535
+Historiefaget i det digitale samfunn - teorier, metoder og praksiser
+HIST3050
+Masteroppgave i historie - femårig lektorutdanning
+HIST3105
+Avanserte forskningsmetoder i historie
+HIST3115
+Historiefagets teori og historie
+HIST3205
+Holocaust, folkemord og ettervirkninger
+HIST3225
+Arbeid og kultur
+HIST3295
+Internasjonal økonomisk samtidshistorie
+HIST3375
+Globale forbindelser, interaksjon og kolonialisme fra 1400-tallet
+HIST3400
+Naturressursenes politiske økonomi, 1870-2000 
+HIST3405
+Makt, musikk og ritualer: kunstens rolle i politisk kommunikasjon 800-1600
+HIST3475
+Handel, arbeid og forbruk ca. 1600-1850
+HIST3485
+Moderne afrikansk historie
+HLS3801
+Eksperter i team - Velferdsteknologi for bærekraftig omsorg og inkludering i lokalsamfunnet
+HLS3802
+Eksperter i team - Empirisk etikk
+HLS3900
+Masteroppgave i helsevitenskap/samfunnsvitenskapelig variant
+HLS8008
+Forskning om helsefremming
+HM501513
+Utforming av prosjektprotokoll
+HM502113
+Medvirkning, kvalitetssikring og profesjonskvalifisering
+HM502213
+Forskningsmetode, design og vitenskapsteori for mastergrad i avansert klinisk sykepleie - den kritisk syke
+HMBV4002
+Perspektiver på barndom og oppvekst, marginaliseringsprosesser, risikoforhold og barnevernet som hjelpeinstans
+HMBV4009
+Beslutninger i det kommunale barnevernet
+HMBV4011
+Innovasjon i praktisk barnevernsarbeid
+HMBV4012
+Familier med sammensatte og komplekse livssituasjoner  i et hverdagslivsperpektiv
+HMBV5001
+Kommunikasjon med barn, unge og foreldre i barnevernfaglig kontekst
+HMMR5001
+Statistikk og kvantitativ forskningsmetode
+HMMR5002
+Masteroppgave i medisinsk MR-avbildning
+HMMR5003
+Forskningsmetode og design 2
+HMSA1001
+HMS og praksiskurs Maskin
+HMSG1001
+HMS og praksiskurs Maskin
+HRAD1002
+Prosjektarbeid i helsetjenesten
+HRAD1011
+Sykdomslære 1
+HRAD108P
+Praksisstudier i skjelettrøntgen
+HRAD2003
+Computer Tomografi (CT)
+HRAD2004
+Bildebehandling
+HRAD2005
+Magnetisk Resonans (MR)
+HRAD2012
+Sykdomslære II og bildediagnostiske modaliteter
+HRAD2013
+Farmakologi og legemiddelhåndtering
+HRAD206P
+Praksisstudier i diagnostikk I
+HRAD207P
+Kliniske praksisstudier
+HRAD3001
+Vitenskapsteori og forskningsmetode
+HRAD3003
+Fagfordypning innen bildediagnostikk
+HRAD3004
+Stråleterapi og onkologi
+HRAD3005
+Magnetisk Resonans 2
+HRAD3006
+Bacheloroppgave
+HRAD302P
+Praksisstudier i diagnostikk II
+HSAR3003
+Bacheloroppgave i Sosialt arbeid
+HSJJ8014
+Fordypningsoppgave - jordmor
+HSYK2003
+Sykdomslære og farmakologi
+HSYK2004
+Sykepleie 2. år
+HSYK203P
+Kliniske praksisstudier medisinsk fagområde 2. studieår
+HSYK204P
+Kliniske praksisstudier psykisk helsearbeid 2. studieår
+HSYK205P
+Kliniske praksisstudier kirurgisk fagområde 2. studieår
+HSYK206P
+Kliniske praksisstudier hjemmebasert omsorg 2. studieår
+HSYK3001
+Global helse
+HSYK3003
+Bacheloroppgave i sykepleie
+HSYK3004
+Sykepleie 3. år
+HSYK304P
+Praksisstudier i utlandet, valgemne
+HSYK305P
+Kliniske praksisstudier i medisinsk fagområde 3. studieår
+HSYK306P
+Kliniske praksisstudier i psykisk helsearbeid 3. studieår
+HSYK307P
+Kliniske praksisstudier i kirurgisk fagområde 3. studieår
+HSYK308P
+Kliniske praksisstudier i hjemmebasert omsorg 3. studieår
+HVER1005
+Vitenskapsteori, vitenskapelig metode og vernepleiefaglig metodisk arbeid
+HVER2003
+Medikamentregning
+HVER2006
+Helsefag 2
+HVER2007
+Pedagogikk, psykologi og vernepleierfaglig metodisk arbeid
+HVER2008
+Psykisk helse
+HVER2009
+Habilitering og rehabilitering
+HVER201P
+Praksis 2, Helse, pleie og rehabilitering
+HVER3006
+Fordypning utviklingshemning, kognitiv svikt og vernepleieren som rettsanvender
+HVER3007
+Bacheloroppgave i vernepleie
+HVER3008
+Organisasjon og ledelse
+HVER3009
+Samhandling i team
+HVER301P
+Praksis 3 - Fordypningspraksis
+HVUT8028
+Psykisk helse hos barn og unge
+IB204312
+Arealplanlegging og digital modellering
+IB303312
+Bacheloroppgave
+IB303612
+KDV veg og infrastruktur
+IB303812
+Avanserte konstruksjoner
+IBED2003
+Informasjonssikkerhet og produktforvaltning
+IBED3001
+Bacheloroppgave i Digital forretningsutvikling
+IBED3002
+Prosjektledelse og forretningssystemer
+IBED3007
+E-handel og den digitale økonomien
+IBED3008
+Samhandlingsplattformer med Sharepoint
+ID302809
+Informasjonssikkerhet
+ID303911
+Mobile og distribuerte applikasjoner
+IDATA1001
+Programmering 1
+IDATA1002
+Systemutvikling
+IDATA2001
+Programmering 2
+IDATA2301
+Webteknologi
+IDATA2302
+Algoritmer og datastrukturer
+IDATA2303
+Datamodellering og databaseapplikasjoner
+IDATA2304
+Datakommunikasjon og nettverksprogrammering
+IDATA2305
+Operativsystemer med systemprogrammering
+IDATA2306
+Applikasjonsutvikling
+IDATG1002
+Systemutvikling
+IDATG2001
+Programmering 2
+IDATG2102
+Algoritmiske metoder
+IDATG2202
+Operativsystemer
+IDATG2204
+Datamodellering og databasesystemer
+IDATT1001
+Programmering 1
+IDATT1002
+Systemutvikling
+IDATT2001
+Programmering 2
+IDATT2101
+Algoritmer og datastrukturer
+IDATT2103
+Databaser
+IDATT2104
+Nettverksprogrammering
+IDATT2106
+Systemutvikling 2 med smidig prosjekt
+IDATT2202
+Operativsystemer
+IDG1000
+Grafiske verktøy, prinsipper og metoder
+IDG1004
+Farge i grensesnittdesign
+IDG1006
+Fysisk og taktil interaksjon
+IDG1007
+Prosjektstyring i design
+IDG1008
+Medie- og Designrett
+IDG1009
+Flerkanalpublisering
+IDG1010
+Typografi 2
+IDG1011
+Front-end web utvikling
+IDG1051
+Informasjonsgrafikk
+IDG1072
+Ergonomi i digitale medier
+IDG1100
+Grunnemne webutvikling
+IDG1101
+Typografi 1
+IDG1112
+Fotografihistorie og bildekommunikasjon
+IDG1200
+Grunnleggende psykologi
+IDG1292
+Webkoding
+IDG1362
+Designtenkning
+IDG2000
+Områdeemne, Velferdsteknologi på tvers av fag
+IDG2001
+Cloud Technologies
+IDG2002
+Fargestyring
+IDG2004
+Informasjonsstrukturer og databaser
+IDG2009
+Kommunikasjonsdesign
+IDG2010
+Brukersentrert designmetodikk
+IDG2012
+Webprosjekt 1
+IDG2013
+Kalligrafi og Skriftdesign
+IDG2014
+Redaksjonell design 1
+IDG2015
+Strategisk design
+IDG2100
+Full stack webutvikling
+IDG2200
+Design og prototyping for nettbrett og mobil
+IDG2312
+Typografihistorie
+IDG2342
+Designhistorie og designteori
+IDG2671
+Webprosjekt 
+IDG3002
+Tjenestedesign
+IDG3006
+Designprosjekt
+IDG3008
+Design of Safety Critical Systems
+IDG3009
+Informasjonsarkitektur
+IDG3010
+Emballasjedesign
+IDG3100
+Fordypningsprosjekt i webutvikling
+IDG3390
+Bacheloroppgave - Interaksjonsdesign
+IDG3541
+Designpraksis i bedrift
+IDG3750
+Tangible and Sensorial Interaction Design
+IDG3900
+Bacheloroppgave - Webutvikling
+IDG3910
+Bacheloroppgave 
+IDG4112
+Tangible Interaction Design for Health Promotion
+IDG4113
+User Centered Design
+IDG4898
+Fordypningsprosjekt, interaksjonsdesign
+IDIG3001
+Project Work for Exchange Bachelor Students
+IDIG4001
+Project Work for Exchange Master Students
+IDR3036
+Idrett og sosial ulikhet
+IDR3037
+Ferdighets- og prestasjonsutvikling
+IDR3039
+Kroppsøving og idrett i organisasjonsperspektiv
+IDR3041
+Idrettspraksis
+IDRI1004
+Markedsorientert produktutvikling
+IDRI2003
+Entreprenørskap
+IDRI2004
+Informasjons- og systemforvaltning
+IDRI2005
+IT-strategi i organisasjoner
+IDRI2006
+Organisasjon og ledelse
+IDRI3002
+Drift og sikring av forretningskritiske systemer
+IDRI3003
+IT, miljø og samfunn
+IDRI3004
+ITIL v3
+IDRI3005
+Powershell i praktisk scripting
+IDRSA1002
+Idrettssosiologi
+IDRSA1008
+Innføring i idrettsvitenskap
+IDRSA1012
+Trening og helse i kroppsøving
+IDRSA1013
+Utforming og evaluering i kroppsøving
+IDRSA1018
+Kroppsøving og samfunn
+IDRSA1019
+Idrettspsykologi
+IDRSA2003
+Ledelse i kroppsøving og idrett
+IDRSA2004
+Trenerroller
+IE300217
+Studiepoenggivende praksis
+IE303412
+Kybernetikk
+IE303512
+Bildeanalyse
+IE303612
+Bacheloroppgave
+IE303812
+Sanntids datateknikk
+IE304114
+Skipselektriske anlegg
+IE304216
+Elektriske lavspenningsinstallasjoner
+IE500417
+Databehandling og visualisering
+IE500720
+Simulering av kyberfysiske systemer
+IE501914
+Datagrafikk 2
+IE502014
+Kunstig intelligens
+IE509118
+Eksperter i team - Oceanic Recreation
+IELEA1001
+Elektroteknikk 1
+IELEA2001
+Datakommunikasjon
+IELEA2002
+Reguleringsteknikk
+IELEA2003
+Elektroteknikk 2
+IELEA2118
+Elektriske kraftnett
+IELEA2119
+Elektroinstallasjoner
+IELEA2120
+Elektriske Maskiner og Elektromagnetisk Energiomforming
+IELEA2301
+Dynamiske systemer
+IELEA2302
+Signalbehandling
+IELEA2303
+Industrielle styresystemer med prosjekt
+IELEG1001
+Elektroteknikk 1
+IELEG2001
+Datakommunikasjon 
+IELEG2002
+Reguleringsteknikk
+IELEG2003
+Elektroteknikk 2
+IELEG2109
+Elektronikkonstruksjon
+IELEG2110
+Signalbehandling
+IELEG2118
+Elektriske kraftnett
+IELEG2119
+Elektroinstallasjoner
+IELEG2120
+Elektriske Maskiner og Elektromagnetisk Energiomforming
+IELEG2121
+Kraftelektronikk
+IELEG2212
+Datatransmisjon
+IELET1001
+Elektroteknikk 1
+IELET2001
+Datakommunikasjon 
+IELET2002
+Reguleringsteknikk
+IELET2003
+Elektroteknikk 2
+IELET2101
+Reguleringsteknikk 2
+IELET2102
+Digitale reguleringssystemer
+IELET2103
+Industrielle styresystemer
+IELET2104
+Automatiseringsprosjekt
+IELET2109
+Elektronikkonstruksjon
+IELET2110
+Signalbehandling
+IELET2112
+Anvendt instrumentering
+IELET2118
+Elektriske kraftnett
+IELET2119
+Elektroinstallasjoner
+IELET2120
+Elektriske Maskiner og Elektromagnetisk Energiomforming
+IELET2121
+Kraftelektronikk
+IF300114
+Ingeniørfaglig systemteknikk og systemutvikling
+IF400
+Finansielle instrumenter
+IF420
+Beslutningsanalyse og selskapsfinansiering
+IF440
+Capital Markets and Uncertainty
+IFUD1126
+Samhandlingsplattformer med Sharepoint
+IFYG1001
+Fysikk
+IFYKJA1000
+Fysikk/kjemi
+IFYKJG1000
+Fysikk/kjemi
+IFYKJG1001
+Fysikk/kjemi
+IFYKJT1000
+Fysikk/kjemi
+IFYKJT1001
+Fysikk/kjemi
+IFYKJT1002
+Fysikk/elektrokjemi
+IFYT1001
+Fysikk
+IIK6510
+Digital sikkerhet - behov og trusselbilde
+IIKG1001
+Cybersikkerhet og datanettverk
+IIKG1002
+Front-end web utvikling
+IIKG3000
+Introduksjon informasjonssikkerhet
+IIKG3010
+Project Work for Exchange Bachelor Students
+IIKG6502
+Critical Infrastructure Security
+IIKG6503
+Cybersikkerhet - Introduksjon til informasjonssikkerhetsledelse 
+IINI2005
+Datastøttet samhandling
+IINI2009
+Informasjonssikkerhet og produktforvaltning
+IINI2010
+Entreprenørskap
+IINI2011
+Praktisk Linux
+IINI3001
+IT, miljø og samfunn
+IINI3003
+Webprogrammering i PHP
+IINI3006
+HTML5
+IINI3007
+Markedsorientert produktutvikling
+IINI3009
+IT-strategi i organisasjoner
+IINI3011
+Bacheloroppgave i Informasjonsbehandling
+IINI3012
+Big data
+IINI3013
+Samhandlingsplattformer med Sharepoint
+IINI3014
+ITIL v3
+IINI4001
+Applikasjonsutvikling for Android
+IINI4003
+C++ for programmerere
+IINI4015
+Sosiale medier i organisasjonen: Enterprise 2.0
+ILU6002
+Arkiv, museum og samfunn
+IMAA1001
+Matematiske metoder 1
+IMAA2011
+Matematiske metoder 2 for Elektro og Fornybar energi
+IMAA2021
+Matematiske metoder 2 for Dataingeniør
+IMAA2031
+Matematiske metoder 2A
+IMAG1001
+Matematiske metoder 1
+IMAG2011
+Matematiske metoder 2 for Elektro og Fornybar energi
+IMAG2021
+Matematiske metoder 2 for Dataingeniør
+IMAG2031
+Matematiske metoder 2A
+IMAK2001
+Kinetikk og termodynamikk
+IMAK2002
+Uorganisk kjemi
+IMAK2003
+Organisk kjemi og biomolekyler 2
+IMAK2004
+Kjemisk analyse
+IMAK2005
+Kjemisk og bioteknologisk prosessteknologi
+IMAK2010
+Materialegenskaper og bruk
+IMAK2011
+Materialtesting og karakterisering
+IMAK2012
+Material- og prosessvalg
+IMAK2013
+Korrosjon
+IMAT1001
+Matematiske metoder 1
+IMAT1050
+Matematikk med beskrivende statistikk og sannsynlighet 
+IMAT2011
+Matematiske metoder 2 for Elektro og Fornybar energi
+IMAT2021
+Matematiske metoder 2 for Dataingeniør
+IMAT2031
+Matematiske metoder 2A
+IMT1004
+Farge i grensesnittdesign
+IMT1005
+Medievitenskap, akademisk skriving og metoder
+IMT1007
+Prosjektstyring i interaksjonsdesign
+IMT1008
+Medie- og designrett
+IMT1101
+Typografi I
+IMT1112
+Fotografihistorie og bildekommunikasjon
+IMT1161
+Medierett
+IMT1362
+Opplevelsesdesign
+IMT2009
+Mobile medier og sosial interaksjon
+IMT2010
+Designmetoder og brukskvalitetsmetodikk
+IMT2012
+Redaksjonell design I
+IMT2013
+Kalligrafi
+IMT2072
+Ergonomi i digitale medier
+IMT2312
+Typografihistorie
+IMT2342
+Designhistorie og designteori
+IMT2363
+Colour Management and Image Quality
+IMT2411
+Fargestyring
+IMT2581
+Rask prototyping og innovasjon
+IMT2651
+Innføring i medievitenskap: Teori og metode
+IMT2671
+Webprosjekt II
+IMT3002
+Tjenestedesign
+IMT3005
+Infrastructure as Code
+IMT3006
+Innovasjon og entreprenørskap i kreativ virksomhet
+IMT3007
+Prosjektutvikling i kreativ virksomhet
+IMT3008
+Design av sikkerhetskritiske systemer
+IMT3009
+Informasjonsarkitektur
+IMT3012
+Skriftdesign
+IMT3013
+Redaksjonell design II
+IMT3014
+Emneoverbyggende prosjekt
+IMT3015
+Mappe og avgangsutstilling
+IMT3016
+Emneoverbyggende utvekslingsprosjekt 
+IMT3104
+Kunstig intelligens 
+IMT3110
+Programvaredesign
+IMT3401
+Project Work for Exchange Bachelor Students
+IMT3402
+Project Work for Exchange Bachelor Students
+IMT3541
+Veiledet praksis i medie-og informatikkfag
+IMT3601
+Spillprogrammering
+IMT3841
+Praksis ved CERN innen IT
+IMT3851
+Programmering for web II
+IMT3881
+Vitenskapelig programmering
+IMT3891
+Webprosjekt III
+IMT3950003
+Responsiv web
+IMT3950004
+Strategisk design
+IMT3950005
+Design og prototyping for mobil og nettbrett
+IMT3950006
+Informasjonsarkitektur
+IMT3950008
+Veifinningssystemer
+IMT4000
+Eksperter i team - Autonomous Transport
+IMT4110
+Scientific Methodology and Communication 
+IMT4114
+Introduction to Digital Forensics
+IMT4115
+Introduction to Information Security Management 
+IMT4124
+Cryptology
+IMT4127
+Security Management Metrics
+IMT4128
+Socio-technical Systems Enabled Crime
+IMT4130
+Cybercrime Investigation
+IMT4134
+Specialisation in software engineering
+IMT4135
+Introduction to Research on Colour and Visual Computing
+IMT4203
+Critical Infrastructure Security
+IMT4204
+Intrusion Detection in Physical and Virtual Networks 
+IMT4303
+Content-based Indexing and Retrieval
+IMT4304
+Cross-media Color Reproduction
+IMT4305
+Image Processing and Analysis
+IMT4307
+Introduction to Research in Serious Games and Gamification 
+IMT4308
+Introduction to Research on Web Technologies 
+IMT4309
+Usability and Human Factors in Interaction Design 
+IMT4312
+Quantitative Methods and Use of Eyetrackers
+IMT4315
+Colour in interface design
+IMT4316
+User-centred Information Architecture 
+IMT4392
+Deep learning for visual computing
+IMT4461
+Project Work for Exchange Master Students
+IMT4471
+Project Work for Exchange Master Students
+IMT4807
+Integration Project
+IMT4884
+Advanced Colour Management
+IMT4885
+Research Project Planning, Interaction Design
+IMT4886
+Applied Computer Science Project
+IMT4887
+Specialisation in Web Technology 
+IMT6002
+COINS Winter School
+IMT6003
+COINS Summer School
+IMT6004
+COINS Workshop
+IMT6005
+COINS Workshop II  
+IMT6006
+COINS Workshop III 
+IMT6007
+COINS IT Security Exercise 
+IMT6171
+Real-time AI for robotics and simulated environments
+IMT6201
+Colour Science
+IMT6251
+Quality in Academic Research
+IMT6261
+Scientific Communication
+IMT6271
+Critical Thinking
+INFT1001
+IT-Introduksjon og databaser 
+INFT1002
+Grunnleggende programmering
+INFT1003
+Webteknologi og teamarbeid
+INFT1004
+Økonomisk styring og regnskap
+INFT1007
+Datakommunikasjon
+INFT1008
+Datastøttet samhandling
+INFT2001
+Informasjonssikkerhetsstyring
+INFT2002
+Webutvikling
+INFT2003
+Big Data
+INFT2004
+IT Tjenesteforvaltning
+INFT2006
+Business Intelligence
+INFT2007
+Digital strategi i organisasjoner
+INGA1001
+Ingeniørfaglig innføringsemne
+INGG1001
+Ingeniørfaglig innføringsemne
+INGT1001
+Ingeniørfaglig innføringsemne
+INT3001
+Etikk, bærekraft og samfunnsansvar
+INTRO175
+Introduction to Norway
+IP200117
+Skipsdesign III - Prosjektering
+IP204512
+Marin hydrodynamikk
+IP204612
+Skipsdesign II - Skrogkonstruksjon
+IP204812
+Maskinteknikk II
+IP300315
+Studiepoenggivende praksis
+IP300416
+Industri 4.0
+IP304814
+Innføring i Mekatronikk
+IP305214
+Havromsinnstallasjoner
+IP500115
+Machinery Systems Design and Analysis
+IP500215
+Ship Hydrodynamics
+IP500415
+CAE - Computer Aided Engineering
+IP500515
+Modelling and Simulation of Dynamic Systems
+IP500616
+Systems Engineering and Product Architecture Applied to Maritime Industry
+IP500717
+Product- and system design
+IP500817
+Scientific theory and methods
+IP501508
+Mechatronics, robots and deck machines
+IP501909
+MSc thesis, discipline oriented
+IP502009
+Msc thesis, professional master 90 ECTS
+IP504914
+Best Practice - Introduction to Systems Engineering
+IP505014
+Best Practice - Customer Value System Modelling
+IP505114
+Best Practice - Product Architecture Modelling
+IP505314
+Best Practice - Man-Machine-Interaction and Usability Testing
+IP505614
+Best Practice - Virtual Prototype and Digitalisation of Marine Design and Operations
+IP506014
+Best Practice - Operations in Arctic environment
+IP506114
+Best Practice - Marine engineering internship
+IP506215
+Scientific Research Project Internship
+IP509118
+Eksperter i team - Bærekraftig verdiskaping i havrommet
+IPEV6002
+Design II
+IPEV6004
+Digital teknologi II
+IPEV6006
+Drift I
+IR201612
+Matematikk 2A
+IR301312
+Matematikk 3
+IS200105
+Økonomi for ingeniører
+ISA1001
+Sosial- og velferdspolitikk
+ISA1002
+Juridisk metode og forvaltningsrett
+ISA1003
+Psykologi i et livsløpsperspektiv
+ISA1006
+Global Ethics and Human Rights
+ISA2500
+Tverrprofesjonelt samarbeid og innovasjon 
+ISA3000
+Politikk, velferd og ulikhet
+ISA3003
+Kvantitativ metode
+ISA3500
+Barn og foreldre i et hverdagslivperspektiv
+ISA3502
+Veiledet selvvalgt studium
+ISTA1001
+Statistikk
+ISTA1002
+Statistikk
+ISTA1003
+Statistikk
+ISTG1001
+Statistikk
+ISTG1002
+Statistikk
+ISTG1003
+Statistikk
+ISTT1001
+Statistikk
+ISTT1002
+Statistikk
+ISTT1003
+Statistikk
+IT1604
+Digitalt samfunn
+IT1901
+Informatikk prosjektarbeid I
+IT2805
+Webteknologi
+IT2810
+Webutvikling
+IT2901
+Informatikk prosjektarbeid II
+IT3010
+Metoder for empirisk forskning innen IT og digitalisering
+IT3020
+Aktuelle emner i informatikk
+IT3030
+Dyp læring
+IT3105
+Kunstig intelligens programmering
+IT3402
+Design av grafiske brukergrensesnitt
+IT3708
+Bio-inspirert kunstig intelligens
+IT3950
+Masteroppgave i informatikk
+IT6101
+Helseinformatikk introduksjonskurs
+IT6103
+IT, organisasjon og samarbeid i helsetjenesten
+IT6122
+Kliniske informasjons- og kunnskapssystemer
+IT6204
+Anvendt programmering for lærere
+IT6206
+Grunnleggende programmering med Python
+IT8007
+Forskning i Informasjonsteknologi-didaktikk
+ITO1000
+Digitalisering - Områdeemne Teknologi
+IØ1003
+Ledelse av frivillig virksomhet
+IØ1004
+Topplederrollen i frivillige organisasjoner
+IØ2000
+Hvordan bli en endringsagent? Innovasjon og entreprenørskap i praksis
+IØ3000
+Fordypning i fasilitering av gruppeprosesser
+IØ3012
+Praksisopphold/Prosjektarbeid
+IØ6501
+Ledelse og strategi
+IØ6550
+Bærekraftig bedriftsøkonomi og forretningsanalyse
+JAP0501
+Japansk 1
+JAP0502
+Japansk 2
+JUR2001
+Rettslære
+K1207
+Grunnkurs i vann- og avløpsteknikk
+K1211
+Operativt lederskap - Utvikling og kompetansestyring
+K1213
+Universell utforming
+K1215
+Estetikk, byggeskikk og stedskvalitet
+KJ0001
+Generell kjemi, laboratorium
+KJ1000
+Generell kjemi
+KJ1001
+Generell kjemi
+KJ1020
+Organisk kjemi
+KJ1021
+Organisk kjemi grunnkurs u/lab
+KJ1022
+Organisk kjemi
+KJ1041
+Fysikalsk kjemi: molekylær struktur
+KJ2022
+Spektroskopiske metoder i organisk kjemi
+KJ2031
+Videregående uorganisk kjemi
+KJ2050
+Analytisk kjemi, grunnkurs
+KJ2053
+Kromatografi (Analytisk kjemi II)
+KJ2072
+Naturmiljøkjemi
+KJ2095
+Eksperter i team - Miljøpåvirkning og helse
+KJ2900
+Bachelorprosjekt i kjemi
+KJ3021
+Kjernemagnetisk resonansspektroskopi
+KJ3050
+Marin organisk miljøkjemi
+KJ3059
+Videregående kromatografi
+KJ3073
+Analytisk miljøkjemi
+KJ3091
+Spesialpensum til mastergraden
+KJ3092
+Spesialpensum til mastergraden
+KJ3093
+Spesialpensum til mastergraden
+KJ3900
+Masteroppgave i kjemi
+KJ3910
+Master Thesis in Environmental Chemistry
+KJ3920
+Master Thesis in Marine Coastal Development
+KJ3950
+Masteroppgave i kjemi
+KJ3970
+Chemistry Specialization, Project Work
+KJ3975
+Chemistry Specialization, Project Work
+KJ3980
+Chemistry Specialization, Project Work
+KJ6001
+Grunnleggende kjemi 1
+KJ6002
+Grunnleggende kjemi 2
+KJ6005
+ Biokjemi
+KJ6006
+Uorganisk kjemi
+KJ6008
+Separasjon og analyse i kjemi
+KJ8059
+Videregående kromatografi
+KJ8072
+Videregående akvatisk kjemi
+KJ8105
+Organometalliske forbindelser i organisk syntese
+KJ8107
+Avanserte Organiske Optoelektroniske Materialer
+KJ8108
+Heterosyklisk kjemi
+KJ8175
+Kjemometri
+KJ8205
+Avansert Molekylmodellering
+KJ8206
+Videregående kvantekjemiske metoder
+KJ8210
+Transport i porøse medier
+KJ8902
+Molekylmodellering
+KLAS2000
+Bacheloroppgave i klassiske fag
+KLAS2001
+Europas antikk
+KLAS2002
+Europas middelalder
+KLAS3000
+Masteroppgave i klassiske fag
+KLAS3100
+Særpensum 1
+KLAS3105
+Særpensum 2
+KLH3101
+Fedmens epidemiologi, patofysiologi og konsekvenser
+KLH3103
+Fedmebehandling 1: Livsstilssbehandling
+KLH3201
+Langvarig smerte og utmattelse: undersøkelse, behandling og oppfølging
+KLH3202
+Akutt og postoperativ smerte
+KLH3204
+Innføring i klinisk helsevitenskap
+KLH3205
+Smerte, utmattelse og palliasjon
+KLMED8005
+Medisinsk statistikk, del 2
+KLMED8008
+Analyse av repeterte målinger
+KLMED8009
+Klinisk forskning
+KP3100
+Kjemiteknikk
+KP3150
+Masse- og varmetransport
+KP3900
+Bachelor Thesis in Chemical Engineering for Exchange Students
+KP6003
+Bærekraftige industrielle prosesser og ressursutnyttelse
+KP8105
+Matematisk modellbygging og modelltilpassing
+KP8106
+Gassrensing med kjemiske absorbenter
+KP8115
+Videregående prosessregulering
+KP8128
+Videregående reaktormodellering
+KP8129
+Kolloidkjemi for prosessindustrien
+KP8131
+Krystallisasjon og partikkeldesign
+KP8132
+Anvendt heterogen katalyse
+KP8133
+Karakterisering av heterogene katalysatorer
+KP8136
+Modellering av katalytiske reaksjoner
+KP8901
+Kjemisk prosess-system teknikk
+KP8902
+Reaktorteknologi
+KP8904
+Transportprosesser
+KP8905
+Overflate- og kolloidkjemi
+KT6005
+Prosjektering av bruer II: FEM-analyser og dimensjonering av etteroppspente betong-platebruer
+KT6905
+Masteroppgave i brukonstruksjoner
+KT8202
+Utmattingsanalyse
+KT8205
+Bestandighet av betongkonstruksjoner
+KT8211
+Beregningsmetoder for dynamisk analyse av konstruksjoner
+KT8215
+Ikkelineær statisk og dynamisk analyse med elementmetoden
+KUH1018
+Kunst og arkitektur fra 1400-tallet til vår egen tid
+KUH1019
+Arkitektur og stilhistorie, 1400 til 2000
+KUH2000
+Bacheloroppgave i kunsthistorie
+KUH2010
+Tekster som formet kunsthistorien
+KUH2100
+Kunsthistorikere i praksis
+KUH2203
+Utstilling i kontekst
+KUH2204
+Temaer i nyere kunst: Politiske karikaturer
+KUH2208
+Eldre europeisk kunst
+KUH3008
+Estetikk og politikk
+KUH3011
+Visuell kultur
+KUH3090
+Masteroppgave i kunsthistorie
+KUH3203
+Utstilling i kontekst
+KUH3208
+Eldre europeisk kunst
+KULMI1000
+Introduksjon til kulturvern
+KULMI2300
+Innføring i museologi
+KULMI2710
+Lokalhistorie med arkivkunnskap
+KULMI3080
+Praksisperiode
+KULMI3090
+Masteroppgave i kulturminneforvaltning
+KULMI3105
+Teorier og metoder i kulturminneforvaltningen
+KULMI3115
+Minne, ting og steder
+KULMI3215
+Museologi og kulturarvspedagogikk
+KULMI3815
+Dokumentasjon og forskningsmetode
+KULT1101
+Digitale kulturer 
+KULT1120
+Migrasjon og flerkulturelle samfunn: Etnisitet, kjønn og seksualitet 
+KULT2201
+Digitalisering og samfunnsendring
+KULT2202
+Perspektiver på kjønn 1
+KULT2204
+STS: Ting og tegn  Historiske perspektiver på forbruk, design, livsstil
+KULT2205
+STS: Innovasjon, kunnskap og kommunikasjon 
+KULT2206
+Perspektiver på kjønn 2
+KULT2207
+Kjønn og norsk kultur: Likestillingsparadokser 1
+KULT2208
+Kjønn og norsk kultur: Likestillingsparadokser 2
+KULT2209
+STS: Energi, miljø og samfunn 1
+KULT2220
+Kjønn, diskriminering og mangfold i idrettens verden 
+KULT3300
+Prosjektledelse og prosjektarbeid
+KULT3301
+Et samfunn i endring: Historie, kultur og kunnskap 
+KULT3302
+Kvalitative metoder
+KULT3303
+STS:  Vitenskap, kommunikasjon og politikkutvikling
+KULT3304
+STS: Teknologi, innovasjon og samfunnsendring 
+KULT3305
+Teorier om kjønn, likhet og forskjell
+KULT3310
+Analyseredskaper: kjønn, likestilling, mangfold
+KULT3322
+Metode: Kvalitative forskningsprosesser 
+LAT1001
+Innføring i latin
+LAT1002
+Tekstkurs I i latin: Middelalderlatin
+LAT1003
+Tekstkurs II i latin: Antikk prosa I
+LAT1004
+Tekstkurs III i latin: Antikk prosa II
+LAT1005
+Tekstkurs IV i latin: Antikk poesi
+LAT1006
+Latinske oversettelser
+LBAS1001
+Introduksjon til arkiv og museum
+LBAS1002
+Dokumentasjonsforvaltning, IKT og systemer for arkiv og museumssamling - introduksjon
+LBAS1003
+Etikk for arkiv og museum
+LBAS2001
+Arkiv og museum: Bevaring, tilgjengeliggjøring og formidling
+LBAS3001
+Arkiv og museum - historie og utvikling
+LBAS3003
+Norsk administrasjonshistorie og arkivkunnskap
+LBAS3004
+Bacheloroppgave i arkiv- og samlingsforvaltning
+LGU13005
+Engelsk 2 (1-7)
+LGU14001
+Religion, livssyn og etikk 1 (1-7) 
+LGU14007
+Spesialpedagogikk med vekt på atferdsproblemer (1-7)
+LGU14008
+Norsk 3 (1-7): Lese- og skrivevansker
+LGU14009
+Kroppsøving 1 (1-7)
+LGU14011
+Naturfag 2 (1-7)
+LGU14013
+Religion, livssyn og etikk 2 (1-7)
+LGU14017
+Produksjon for sal og scene (1-7)
+LGU14021
+Naturfag 1 (1-7) 
+LGU53003
+Engelsk 2 (5-10)
+LGU54001
+Kroppsøving 1 (5-10)
+LGU54006
+Spesialpedagogikk med vekt på atferdsproblemer (5-10)
+LGU54007
+Norsk 3 (5-10): Lese- og skrivevansker 
+LGU54013
+Religion, livssyn og etikk 1 (5-10)
+LGU54018
+Produksjon for sal og scene (5-10)
+LITT3001
+Forskningsmetoder i litteraturvitenskap
+LITT3002
+Litteraturvitenskapelige teorier
+LKRO001E
+Kroppsøving i skolen
+LKUH001E
+Arts and Crafts
+LMM14002
+Læring og undervisning av matematikk (1-7)
+LMM54001
+Læring og undervisning av matematikk (5-10)
+LMM54002
+Historiske og filosofiske aspekter ved matematikkfaget (5-10)
+LMN14005
+Historiske og teoretiske innfallsvinkler til norskfaget (1-7)
+LMN14006
+Skriving, lesing og literacy (1-7)
+LMN15006
+Masteroppgave i norskdidaktikk (1-7)
+LMN54005
+Historiske og teoretiske innfallsvinkler til norskfaget (5-10)
+LMN54006
+Skriving, lesing og literacy (5-10)
+LMN55006
+Masteroppgave i norskdidaktikk (5-10)
+LOGO6710
+Masteroppgave i logopedi
+LOS8010
+Selvvalgt pensum - teori
+LOS8031
+Tekst i utdanningskontekst: Teoretiske inngangar og analysemetodar
+LOS8032
+Vurdering og evaluering i utdanning: Politikk, forskning og praksis 
+LOS8034
+Nyere forskning innen barnehage og skole (1.-4. trinn) 
+LTOT3001
+Norsk tegnspråk i teori og praksis 4
+LVUT8005
+Engelsk 1 (1-7) emne 2 KFK
+LVUT8006
+Engelsk 1 (1-7) emne 1 KFK
+LVUT8033
+Norsk 1 (1-7) emne 2: Norskfaget på 4.-7.trinn KFK
+LVUT8081
+Engelsk 2 (1-7) emne 1 KFK
+LVUT8082
+Engelsk 2 (1-7) emne 2 KFK
+LVUT8083
+Engelsk 1 (5-10) emne 1 KFK
+LVUT8084
+Engelsk 1 (5-10) emne 2 KFK
+LVUT8085
+Engelsk 2 (5-10) emne 1 KFK
+LVUT8086
+Engelsk 2 (5-10) emne 2 KFK
+LVUT8091
+Matematikk 1 (1-7) emne 1 KFK
+LVUT8093
+Naturfag 1 (5-10) emne 1 KFK
+LVUT8094
+Naturfag 1 (5-10) emne 2 KFK
+LVUT8103
+Matematikk 2 (5-10) emne 1 KFK
+LVUT8104
+Matematikk 2 (5-10) emne 2 KFK
+LVUT8105
+Regning som grunnleggende ferdighet 1 (1-7) emne 1 KFK
+LVUT8106
+Regning som grunnleggende ferdighet 1 (1-7) emne 2 KFK
+LVUT8107
+Norsk 2 (5-10) emne 1 KFK
+LVUT8108
+Norsk 2 (5-10) emne 2 KFK
+LVUT8120
+Andrespråkspedagogikk 1 (1-10) emne 2 KFK
+LYFA2002
+Effektiv energibruk
+LYFE2004
+Elektriske anlegg
+LYFE3002
+Data- og elektronikksystemer 
+LYFH3001
+Organisasjon og ledelse
+LYFT3003
+Innovasjon og entreprenørskap
+LÆR1000
+Kunnskap, læring og danning i lærerprofesjonen
+MA0001
+Brukerkurs i matematikk A
+MA0002
+Brukerkurs i matematikk B
+MA0301
+Elementær diskret matematikk
+MA1101
+Grunnkurs i analyse 1
+MA1102
+Grunnkurs i analyse 2
+MA1103
+Flerdimensjonal analyse
+MA1201
+Lineær algebra og geometri
+MA1202
+Lineær algebra med anvendelser
+MA1301
+Tallteori
+MA2002
+Bachelorprosjekt i matematiske fag
+MA2401
+Geometri
+MA2501
+Numeriske metoder
+MA3060
+Teorier for kunnskap og læring i matematikk
+MA3150
+Analytisk tallteori
+MA3201
+Ringer og moduler
+MA3202
+Galoisteori
+MA3203
+Ringteori
+MA3204
+Homologisk algebra
+MA3403
+Algebraisk topologi 1
+MA3407
+Introduksjon til Lie-teori
+MA3408
+Algebraisk topologi 2
+MA6060
+Innføring i teorier for kunnskap og læring i matematikk
+MA6101
+Grunnkurs i analyse 1
+MA6102
+Grunnkurs i analyse 2
+MA6201
+Lineær algebra og geometri
+MA6202
+Lineær algebra med anvendelser
+MA6301
+Tallteori
+MA6401
+Geometri
+MA8102
+Dynamiske systemer og ergodeteori
+MA8103
+Ikkelineære hyperbolske konserveringslover
+MA8104
+Wavelets
+MA8105
+Ikkelineære partielle differensialligninger og Sobolevrom
+MA8106
+Harmonisk analyse
+MA8107
+Operatoralgebraer
+MA8202
+Kommutativ algebra
+MA8203
+Algebraisk geometri
+MA8206
+Videregående kryptografi
+MA8701
+Avanserte statistiske metoder innen inferens og læring
+MA8702
+Videregående beregningskrevende  statistiske metoder
+MA8704
+Sannsynlighetsteori og asymptotiske teknikker
+MACS490
+Master&#x27;s Thesis - Applied Computer Science
+MASA1002
+Introduksjon til maskin
+MASA2022
+Maskinteknikk I
+MASA2042
+Energioverføring og styring av maskinerisystemer
+MASA2052
+Maskinteknikk II
+MASA2062
+Maskinteknikk III konstruksjon
+MASA2072
+Produktdesign
+MASA2100
+Materialteknologi
+MASA2342
+Plastkompositter - alternative materialer
+MASG1002
+Introduksjon til maskin
+MASG2100
+Materialteknologi
+MASG2101
+Dataassistert design
+MASG2102
+Elementmetoden
+MASG2103
+Maskindeler
+MASG2104
+Produksjonsmetoder
+MASG2105
+Materialteknologi II
+MASG2106
+Design av dynamisk påkjente konstruksjoner
+MASG2109
+Produktutvikling for læringsfabrikk
+MASG2110
+Nullfeils produksjon
+MAST2001
+Maskindeler 1
+MAST2002
+Maskinkonstruksjon
+MAST2004
+Prosjektoppgave
+MAST2006
+Innføring i driftssikkerhet og vedlikehold
+MAST2007
+Maskindeler 2
+MAST2008
+Produksjonsteknikk
+MAST2009
+3D datamodellering og simulering
+MAST2010
+Mekatronikk
+MAST2011
+Material og produksjonsstyring
+MAST2012
+Prediktivt Vedlikehold
+MAST2015
+Termodynamikk 2 og fluidmekanikk
+MAST2016
+Ventilasjonsteknikk
+MAST2018
+Varme- og kjøleteknikk
+MAST2019
+VVS-rettet el- og reguleringsteknikk
+MAST2020
+Praktisk VVS-teknikk
+MAST2100
+Materialteknologi
+MAST2301
+Prosjektering av rørsystem
+MATV1006
+Konserverings- og emballasjeteknologi
+MATV1007
+Mikrobiologi og bioteknologi
+MATV1008
+Mikrobiologi og mattrygghet
+MATV1009
+Matkjemi 1
+MATV1012
+Mat, foredlingsteknologi og bærekraft
+MATV2001
+Matkjemi 2
+MATV2002
+Statistikk og sensoriske metoder
+MATV4008
+Beskrivende sensoriske metoder og Usikkerhetsanalyse og forsøksplanlegging
+MB102019
+Biomarin verdiskaping
+MB102319
+Mikrobiell økologi
+MB104314
+Marin biologi
+MB201712
+Grunnleggende bioteknologi
+MB201812
+Mikrobiologi og hygiene
+MB301612
+Bacheloroppgave
+MB301712
+Anvendt bioteknologi
+MB301812
+Ekstern praksis i Biomarin innovasjon
+MB322012
+Anvendt bioinformatikk
+MBV3000
+Barn og foreldre i et hverdagslivperspektiv
+MBV3001
+Samarbeid med barn
+MCT4000
+Introduction to Music, Communication and Technology
+MCT4015
+Entrepreneurship for MCT
+MCT4032
+Applied MCT Project 2
+MCT4044
+Spatial audio
+MD4011
+Medisin - semester IAB
+MD4020
+Medisin - semester ICD
+MD4031
+Medisin - semester IIAB - LINK Levanger
+MD4042
+Medisin - semester IIC
+MD4043
+Medisin - semester IID
+MD4044
+Medisin - semester IIC - LINK Levanger
+MD4045
+Medisin - semester IID - LINK Levanger
+MD4051
+Medisin - semester IIIA - hovedoppgave
+MD4061
+Medisin - semester IIIC
+MDV6008
+Juridisk metode og forvaltningsrett
+MDV6009
+Helserett
+MDV6013
+Akutt og postoperativ smerte
+MDV6015
+Fedmens epidemiologi, patofysiologi og konsekvenser
+MDV6017
+Fedmebehandling 1: Livsstilsbehandling
+MDV6021
+Videreutdanning i praksisveiledning av studenter/profesjonsutøvere i helse- og sosialtjenesten
+MDV6022
+Prehospitalt psykisk helsearbeid 1
+MDV6023
+Prehospitalt psykisk helsearbeid 2
+MDV6201
+Barn og unges psykiske helse - Del I: Normalutvikling 0-23 år i et systemperspektiv
+MDV6202
+Barn og unges psykiske helse - Del II: Skjevutvikling og psykiske lidelser 0 - 23 år
+MDV6216
+Psykisk helse og voldsproblematikk
+MDV6217
+Kunnskapsbasert Habilitering
+MDV6244
+Ungdom, rus og avhengighet
+MDV6256
+Risikovurdering av barn og unges bekymringsfulle og skadelige atferd
+MDV6257
+Nevroutviklingsforstyrrelser med fordypning om autisme, metodeemne
+MDV6260
+Tilknytning, samspill og omsorg. Sped- og småbarns psykiske helse
+MDV6290
+Masteroppgave i barn og unges psykiske helse
+MDV6400
+Psykisk helse - en introduksjon
+MDV6401
+Perspektiver og organisering av fag og tjenester i psykisk helsearbeid
+MDV6402
+Kommunikasjon og samhandling i psykisk helsearbeid
+MDV6403
+Kunst og kulturaktiviteter i psykisk helsearbeid
+MDV6404
+Rus og psykisk helsearbeid
+MDV6406
+Samfunn, deltakelse og psykisk helsearbeid
+MDV6407
+Tilnærmingsmåter i anvendt psykisk helsearbeid
+MDV6408
+Psykisk helsearbeid som yrkesutøvelse
+MDV6410
+Selvmordsforebygging
+MDV6411
+Fordypningsoppgave i psykisk helsearbeid
+MDV6420
+Miljøterapeutisk arbeid - rammer og forståelser
+MDV6421
+Miljøterapeutisk arbeid  organisering, strukturer og kontekster
+MDV6422
+Miljøterapeutisk arbeid  oppgaver, innhold og faglige praksiser
+MDV6423
+Marte Meo metoden
+MDV6490
+Masteroppgave i psykisk helse
+MEDT4165
+Signalbehandling i ultralyd-avbildning
+MEDT8002
+Ultralyd bildediagnostikk
+MEKA1001
+Mekanikk
+MEKG1001
+Mekanikk
+MEKG1001F
+Mekanikk
+MEKT1001
+Mekanikk
+MET1001
+Matematikk for økonomer
+MET1002
+Statistikk for økonomer
+MET2010
+Anvendt statistikk
+MET3001
+Kvantitative og kvalitative metoder
+MET410
+Kvalitative forskningsmetoder
+MET420
+Kvantitativ metode og økonometri
+MET500
+Multivariate analyser og strukturmodellering (SEM)
+MF104319
+Anvendt fysikk for Biomarin innovasjon
+MF425
+Merkevareledelse
+MF440
+Markedsorientert serviceledelse
+MFEL1050
+Innføring i idrettsfysiologi - Trening for prestasjon, helse og livskvalitet
+MFEL4859
+Eksperter i team - Digital medisin
+MFEL4862
+Eksperter i team - Helse-Sikkerhet-Opplæring
+MGLU1101
+Norsk 1 (1-7) emne 1: Språk og tekst 1
+MGLU1103
+Matematikk 1 (1-7) emne 1A
+MGLU1105
+Engelsk 1 (1-7) emne 1
+MGLU1106
+Naturfag 1 (1-7) emne 1
+MGLU1107
+Samfunnsfag som vitenskaps- og skolefag (1-7)
+MGLU1108
+KRLE 1 (1-7) emne 1: Vestlige religioner, sekulære livssyn og antikkens filosofi i samfunn og skole
+MGLU1109
+Kroppsøving 1 (1-7) emne 1: Motorisk læring i ulike læringslandskap
+MGLU1111
+Kunst og håndverk 1 (1-7) emne 1
+MGLU1113
+Pedagogikk og elevkunnskap 1 (1-7)
+MGLU1114
+Musikk 1 (1-7) emne 1: Skape, oppleve og utøve musikk 
+MGLU1501
+Norsk 1 (5-10) emne 1: Språk og litteratur
+MGLU1502
+Norsk 1 (5-10) emne 2: Lesing, skriving og muntlighet
+MGLU1503
+Matematikk 1 (5-10) emne 1
+MGLU1504
+Matematikk 1 (5-10) emne 2
+MGLU1505
+Engelsk 1 (5-10) emne 1
+MGLU1506
+Naturfag 1 (5-10) emne 1
+MGLU1507
+Samfunnsfag som vitenskaps- og skolefag (5-10)
+MGLU1508
+KRLE 1 (5-10) emne 1: Vestlige religioner, sekulære livssyn og nyere tids filosofi i samfunn og skole
+MGLU1509
+Kroppsøving 1 (5-10) emne 1: Motorisk læring i ulike læringslandskap
+MGLU1511
+Kunst og håndverk 1 (5-10) emne 1
+MGLU1513
+Pedagogikk og elevkunnskap 1 (5-10)
+MGLU1514
+Musikk 1 (5-10) emne 1: Skape, oppleve og utøve musikk
+MGLU1515
+Matematikk 1 (5-10) emne 2
+MGLU2101
+Norsk 1 (1-7) emne 2: Språk og tekst 2
+MGLU2102
+Matematikk 1 (1-7) emne 2
+MGLU2103
+Matematikk 1 (1-7) emne 2
+MGLU2105
+Engelsk 1 (1-7) emne 2
+MGLU2106
+Naturfag 1 (1-7) emne 2
+MGLU2107
+Rettferdighet, sosial ulikhet og undervisning i samfunnsfag (1-7)
+MGLU2108
+KRLE 1 (1-7) emne 2: Kristendom, østlige religioner, nyreligiøsitet og etikk i samfunn og skole
+MGLU2109
+Kroppsøving 1 (1-7) emne 2: Grunnleggende bevegelsesferdigheter i idrettsaktivitet, helse og friluftsliv
+MGLU2110
+Musikk 1 (1-7) emne 2: Musisering, musikkdidaktikk, komposisjon og musikkorientering
+MGLU2111
+Kunst og håndverk 1 (1-7) emne 2
+MGLU2112
+Pedagogikk og elevkunnskap 2 (1-7)
+MGLU2114
+Musikk 1 (1-7) emne 2: Musikklæreren som leder og tilrettelegger
+MGLU2501
+Norsk 2 (5-10): Literacy, språk og litteratur
+MGLU2502
+Matematikk 2 (5-10) emne 1
+MGLU2504
+Matematikk 2 (5-10) emne 1
+MGLU2505
+Engelsk 1 (5-10) emne 2
+MGLU2506
+Naturfag 1 (5-10) emne 2
+MGLU2508
+KRLE 1 (5-10) emne 2: Kristendom, østlige religioner, nyreligiøsitet og etikk i samfunn og skole 
+MGLU2509
+Kroppsøving 1 (5-10) emne 2: Grunnleggende bevegelsesferdigheter i idrettsaktivitet, helse og friluftsliv
+MGLU2510
+Musikk 1 (5-10) emne 2: Musisering, musikkdidaktikk, komposisjon og musikkorientering
+MGLU2511
+Kunst og håndverk 1 (5-10) emne 2
+MGLU2512
+Pedagogikk og elevkunnskap 2 (5-10)
+MGLU2514
+Musikk 1 (5-10) emne 2: Musikklæreren som leder og tilrettelegger
+MGLU3102
+Matematikk 2 (1-7) emne 2
+MGLU3103
+Engelsk 2 (1-7) emne 1
+MGLU3104
+Engelsk 2 (1-7) emne 2
+MGLU3105
+Naturfag 1 (1-7) emne 1
+MGLU3107
+Naturfag 2 (1-7)
+MGLU3110
+Rettferdighet, sosial ulikhet og undervisning i samfunnsfag (1-7)
+MGLU3111
+Lokaldemokrati, politisk deltakelse og forskningsmetode for skolefaget samfunnsfag (1-7)
+MGLU3112
+KRLE 2 (1-7): Tekst, tolkning og praksis: forskning og didaktikk i KRLE
+MGLU3113
+Kroppsøving 1 (1-7) emne 1: Motorisk læring i ulike læringslandskap
+MGLU3114
+Kroppsøving 1 (1-7) emne 2: Grunnleggende bevegelsesferdigheter i idrettsaktivitet, helse og friluftsliv
+MGLU3115
+Kroppsøving 2 (1-7): Kroppslig læring og FOU i kroppsøving
+MGLU3117
+Musikk 2 (1-7) emne 2: Musikkpedagogisk FOU-prosjekt i praksis. Musikk, kultur og samfunn
+MGLU3119
+Matematikk 2 (1-7) emne 1
+MGLU3201
+Innføring i spesialpedagogikk
+MGLU3202
+Elevmangfold, oppvekstvilkår og likeverdig opplæring
+MGLU3204
+IKT og læring 
+MGLU3217
+Musikkpedagogisk FOU-prosjekt i praksis
+MGLU3503
+Engelsk 2 (5-10) emne 1
+MGLU3504
+Engelsk 2 (5-10) emne 2
+MGLU3505
+Naturfag 1 (5-10) emne 1
+MGLU3506
+Naturfag 1 (5-10) emne 2
+MGLU3507
+Naturfag 2 (5-10)
+MGLU3512
+KRLE 2 (5-10): Tekst, tolkning og praksis: forskning og didaktikk i KRLE
+MGLU3513
+Kroppsøving 1 (5-10) emne 1: Motorisk læring i ulike læringslandskap
+MGLU3514
+Kroppsøving 1 (5-10) emne 2: Grunnleggende bevegelsesferdigheter i idrettsaktivitet, helse og friluftsliv
+MGLU4102
+Språklige og estetiske tilnærminger til tidlig lese- og skriveopplæring
+MGLU4103
+Læring og undervisning av matematikk (1-7)
+MGLU4104
+Perspektiver på tallbegrepet (1-7)
+MGLU4106
+Engelskspråklig litteratur i klasserommet (1-7): teoretiske og didaktiske perspektiver 
+MGLU4110
+Regionsstudie (Norden og UK/Irland) og sammenlignende perspektiver på samfunnsfag (1-7)
+MGLU4111
+KRLE 3 (1-7) emne 1: Menneskers trosforestillinger og praksis som tema for undervisning og forskning
+MGLU4112
+KRLE 3 (1-7) emne 2: Religioner og livssyn i samfunn og historie som tema for undervisning og forskning
+MGLU4114
+Pedagogikk og elevkunnskap 3 (1-7) 
+MGLU4115
+Pedagogikk og elevkunnskap 4 (1-7) 
+MGLU4116
+Fordypning i fysikk for lærere (1-7)
+MGLU4202
+Lingvistiske perspektiver på språklæring i engelsk i flerkulturelle og flerspråklige kontekster
+MGLU4203
+Kroppsøving som forskningsfelt
+MGLU4207
+Kunst og håndverk, å utforske materialer og teknikker på verksted 
+MGLU4209
+Utforskende naturfag
+MGLU4211
+Naturfag som skolefag
+MGLU4212
+Biologisk mangfold
+MGLU4214
+Community Music
+MGLU4216
+Musikkpedagogiske grunnlagspraksiser
+MGLU4217
+Kvalitative forskningsmetoder i kroppsøving
+MGLU4218
+Kvantitative forskningsmetoder i kroppsøving
+MGLU4219
+Kunstfagdidaktisk forskning (MGLU)
+MGLU4503
+Læring og undervisning av matematikk (5-10)
+MGLU4506
+Engelskspråklig litteratur i klasserommet (5-10): teoretiske og didaktiske perspektiver 
+MGLU4509
+Nasjon, folkestyre og globalisering for samfunnsfag (5-10)
+MGLU4510
+Regionsstudie (Midtøsten og UK/Irland) og sammenlignende perspektiver på samfunnsfag (5-10)
+MGLU4511
+KRLE 3 (5-10) emne 1: Menneskers trosforestillinger og praksis som tema for undervisning og forskning
+MGLU4512
+KRLE 3 (5-10) emne 2: Religioner og livssyn i samfunn og historie som tema for undervisning og forskning
+MGLU4514
+Pedagogikk og elevkunnskap 3 (5-10) 
+MGLU4515
+Pedagogikk og elevkunnskap 4  (5-10) 
+MGLU4516
+Moderne fysikk for lærere (5-10)
+MH2001
+Tverrfaglig samhandling - Områdeemne innen studieområde medisin og helse
+MH3000
+Innføring i forskningsmetode
+MH3001
+Vitenskapsfilosofi, forskningsetikk og kritisk kunnskapsinnhenting
+MH3002
+Epidemiologi I
+MH3003
+Statistikk for medisin og helsefag
+MH3004
+Kvalitative metoder i medisin og helsefag
+MH3005
+Introduksjon til forskning
+MH3006
+Statistikk for medisin og helsefag
+MH3008
+Kvalitative metoder i medisin og helsefag
+MIXD490
+Master&#x27;s Thesis- Interaction Design
+MK102108
+Generell kjemi
+MK103119
+Innføring i kjemi
+MK211712
+Marine lipider 1
+MK301212
+Ernæring
+MK301915
+Prosessteknologi 
+MM8100
+Variasjonsmetoder og variasjonsprinsipper for kontinuumsbaserte analyseprogram
+MM8300
+Polymerbaserte komposittmaterialer
+MM8404
+Dagens syn på multiskala brudd og plastisitet
+MN304012
+Kvalitetssikring og sertifisering
+MN8000
+Naturvitenskap i praksis: Metode, Etikk og Formidling
+MOL3000
+Innføring i molekylærmedisin
+MOL3001
+Medisinsk genetikk
+MOL3005
+Immunologi
+MOL3007
+Funksjonell genomforskning
+MOL3018
+Medisinsk toksikologi
+MOL3020
+Virologi
+MOL3021
+Bioinformatikk - anvendt prosjekt
+MOL3023
+Molekylær medisinsk mikrobiologi med essay
+MOL3100
+Innføring i molekylærmedisin med prosjektoppgave
+MOL3101
+Praktisk molekylærmedisin (laboratoriekurs)
+MOL4010
+Grunnleggende molekylærbiologi
+MOL8012
+Introduksjon til Next Generation Sequencing (NGS)
+MR8100
+Teori for marin prosjektering
+MR8208
+Dynamisk analyse av slanke marine konstruksjoner
+MR8300
+Hydrodynamikk for marine konstruksjoner 1
+MR8405
+Modellering og analyse av maskinerisystemer
+MR8501
+Videregående emner i modellering og analyse av konstruksjoner
+MR8502
+Konstruksjoners pålitelighet
+MR8503
+Stokastiske metoder anvendt i ikkelineær analyse av marine konstruksjoner
+MRK1001
+Markedsføring - grunnkurs
+MT3900
+Masteroppgave i kjemi
+MT3901
+Spesialpensum til mastergraden
+MT8102
+Korrosjon og overflateteknologi
+MT8104
+Lettmetallelektrolyse
+MT8200
+Videregående kjemisk metallurgi
+MT8201
+Videregående metallproduksjon
+MT8218
+Avansert materialvitenskap
+MT8219
+Anvendt Elektronmikroskopi
+MT8307
+Materialers termodynamikk
+MT8308
+Videregående faststoffkjemi
+MUSP4140
+Hovedinstrument D
+MUSP4141
+Hovedinstrument E
+MUSP4150
+Instrument og framføring A
+MUSP4160
+Instrument og framføring B
+MUSP4170
+Instrument og framføring C
+MUSP4714
+Refleksjon rundt musikalsk praksis
+MUST1050
+Grunnleggende musikkteknologi 1
+MUST1053
+Studioteknikk
+MUST1055
+Grunnleggende arrangering og komponering
+MUST1058
+Musikkteknologi i et historisk lys
+MUST1060
+Grunnleggende musikkteknologi 2
+MUST2058
+Scenelyd
+MUST2059
+Lydkunst
+MUST2060
+Lyd for multimedia
+MUST2061
+Bacheloroppgave: Musikkteknologi i møte med publikum
+MUST2062
+Digital komposisjon og framføring
+MUST3053
+Gehør i digital lydproduksjon
+MUST3054
+Elektronisk musikk 
+MUST3055
+Studioproduksjon
+MUSV1017
+Satsteknikker 1 med musikkteknologi og hørelære
+MUSV1018
+Hørelære og improvisasjon
+MUSV1019
+Hovedinstrument 1 med improvisasjon
+MUSV2006
+Opera og politikk (ca. 1600-1800)
+MUSV2007
+Kvinner, opera og feministisk kritikk
+MUSV2008
+Satsteknikker 2 med ensembleledelse og musikkteknologi
+MUSV2010
+Arrangering og innføring i komposisjon
+MUSV2023
+Hovedinstrument 3 med hørelære
+MUSV3001
+Komposisjon og analyse
+MUSV3004
+Musikkvitenskapelig teori og metode
+MUSV3005
+Hovedinstrument og vokal praksis
+MUSV3102
+Kurt Weill: Fra Berlin til Broadway
+MUSV3118
+Kompositoriske formstrategier A
+MUSV3121
+Nye tanker - ny kunst: europeisk musikk 1300 - 1500
+MUSV3125
+Globale perspektiver på musikk, kjønn og seksualitet
+MUSV3131
+Musikk og film i teori og praksis
+MV1005
+Skriving og studieteknikk for medievitenskap
+MV1010
+Medieanalyse
+MV2010
+Skjermmedier
+MV2011
+Medienes estetikk
+MV2012
+Bildet i samfunnet
+MV2013
+Bildet i samfunnet
+MV2014
+Bacheloroppgave i medievitenskap
+MV2015
+Medievitere i praksis
+MV3010
+Forskningsoppdrag for bedrift
+MV3015
+Visuell kultur: posisjoner i medievitenskap
+MV3090
+Masteroppgave i medievitenskap
+MV3091
+Masteroppgave i medier, kommunikasjon og informasjonsteknologi
+NATKJ3950
+Masteroppgave i naturfag
+NEVR2010
+Innføring i nevrovitenskap
+NEVR2030
+Komprimert introduksjon til nevrovitenskap
+NEVR3001
+Basal nevrovitenskap
+NEVR3002
+Sensorisk og motorisk nevrovitenskap
+NEVR3003
+Atferds- og kognitiv nevrovitenskap
+NEVR3004
+Nevrale nettverk
+NEVR8009
+Cellulær og molekylær nevrovitenskap
+NFUT0001
+Norsk for utlendinger, kortkurs
+NFUT0002
+Norsk for utlendinger, kortkurs
+NFUT0011
+Norsk for utlendinger, kortkurs - Ålesund
+NFUT0101
+Norsk for utlendinger, trinn 1
+NFUT0112
+Norsk for utlendinger, trinn 1 Campus Ålesund
+NFUT0130
+Norsk for utlendinger, nettbasert kurs, trinn 1 - Campus Ålesund og Campus Gjøvik
+NFUT0201
+Norsk for utlendinger, trinn 2
+NFUT0203
+Norsk for utlendinger, trinn 2
+NFUT0301
+Norsk for utlendinger, trinn 3
+NFUT0302
+Norsk for utlendinger, trinn 3
+NFUT0401
+Norsk for utlendinger, trinn 4
+NOME6201
+Språk og bilde i mediesamfunnet
+NOME6202
+Fortelling, samtidslitteratur og adaptasjon
+NORD1001
+Innføring i nordisk språk og litteratur
+NORD1102
+Grammatikk og pragmatikk
+NORD1104
+Teori, sjanger og analyse
+NORD1106
+Språkhistorie og talemål
+NORD1108
+Nordisk litteraturhistorie
+NORD2110
+Litteratur, teknologi og medier
+NORD2112
+Litteratur og vitensdiskurser
+NORD2200
+Eldre språk
+NORD2220
+Skriving - tekst og skriveprosesser
+NORD2312
+Litterære kulturmøter og kulturell identitet
+NORD2315
+Norsk som andrespråk i et tverrspråklig perspektiv
+NORD2316
+Norsk som andrespråk: Et sosiolingvistisk perspektiv
+NORD2318
+Betydningslære - semantikk og pragmatikk
+NORD2600
+Norsk som literacy-fag
+NORD3100
+Generelt masteremne i nordisk litteratur
+NORD3103
+Spesialiseringsemne i nordisk litteratur
+NORD3503
+Spesialiseringsemne 2: Prøveforelesning 
+NORD3900
+Masteroppgave i nordisk
+NORD3901
+Masteroppgave i nordisk
+NORD6011
+Norsk språk i et globalisert samfunn
+NORD6012
+Språk og litteratur i et flerkulturelt samfunn 1
+NORD6013
+Flerspråklighet og litterære kulturmøter 2
+NORD6106
+Språkhistorie og talemål
+NORD6108
+Nordisk litteraturhistorie
+NORD6110
+Norsk 2.0 Nye perspektiver på norskdidaktikk
+NORX1108
+Nordisk litteraturhistorie - for utvekslingsstudenter
+NORX1110
+Grammatikk og pragmatikk - for utvekslingsstudenter
+NORX2110
+Litteratur, teknologi og medier - for utvekslingsstudenter
+NORX2111
+Nordisk litteratur før 1900 - for utvekslingsstudenter
+NORX2200
+Eldre språk - for utvekslingsstudenter
+NORX2241
+Sosiolingvistikk - for utveklingsstudenter
+NORX2312
+Litterære kulturmøter og kulturell identitet - for utvekslingsstudenter
+ORG2002
+Foretaksstrategi
+ORG3030
+Strategic Leadership
+PAH3000
+Physical Activity and Health
+PAH3002
+Sirkulasjon og oksygenopptak
+PAH3003
+Muskel og kraftutvikling
+PAH3004
+Evaluering av bevegelse i idretts- og klinisk kontekst
+PAH3006
+Occupational Science and participation in everyday activities
+PAH3007
+Assistive Technologies (AT) as Enabler of Everyday Activities and Participation
+PAH3011
+Trening som medisin
+PARA1006
+Akuttmedisin 2
+PARA1007
+Traumatologi
+PARA1008
+Operativt ambulansearbeid
+PD6010
+Artificial intelligence and Design Thinking
+PD8300
+Emner i designforskning
+PED1002
+Pedagogisk psykologi og utviklingspsykologi
+PED1005
+Innføring i vitenskapsteori og forskningsmetode
+PED1006
+Pedagogisk sosiologi
+PED1007
+Utdanningshistorie og utdanningspolitikk
+PED1014
+Mediepedagogikk og mediekompetanse
+PED1022
+Utdanning og velferdsstaten
+PED1023
+Kropp, tanke og kultur: Grunnleggende tilnærminger til pedagogikk og utdanning 
+PED2002
+Barne- og ungdomskulturer 
+PED2900
+Bacheloroppgave i pedagogikk
+PED3001
+Statistikk
+PED3009
+Fordypning i forskningsmetode
+PED3010
+Vitenskapsteori og forskningsmetode
+PED3041
+Grunnleggende spesialpedagogiske problemstillinger
+PED3042
+Fordypning i lærevansker 
+PED3043
+Fordypning i lærevansker 
+PED3611
+Utdanning - historie, politikk og styring
+PED3613
+Læring, motivasjon og sosialt samspill 
+PED3614
+Pedagogisk grunnlagstenkning
+PED3615
+Pedagogisk sosiologi: Kultur, utdanning og interaksjon
+PED3616
+Mediedanning og mediepedagogikk
+PED3801
+Eksperter i team - Virtuell og utvidet virkelighet (VR/AR) i læring og trening
+PED3803
+Eksperter i team - Media Literacy 2.0: Oppvekst og læring i en ny mediekultur
+PED3804
+Eksperter i team - Inkluderende læringsmiljø
+PED6011
+Rådgivning og veiledning for PPT 
+PED6031
+Rådgivning i et mangfoldig samfunn
+PED6038
+Tverrfaglig samarbeid og relasjonskompetanse
+PED6111
+Pedagogiske forskningsmetoder
+PED6112
+Statistikk
+PED6503
+Selvoppfatning og motivasjon i ledelse
+PED6644
+Hørselstap - bimodal tospråklig opplæring
+PED6649
+Hørselshemming - Språk og kommunikasjon
+PED6650
+Hørselstap - utvikling og (re)habilitering av talespråk og talespråklig kommunikasjon
+PED6652
+Hørseltap - utredning og rådgivning
+PED6658
+Pedagogisk arbeid med elever som bruker punktskrift
+PED6659
+Mobilitet og førlighetsopplæring av synshemmede barn, unge og voksne
+PED6665
+Læringsteknologi for synshemmede
+PED6666
+Innføring i synshemming og synspedagogisk praksis
+PED6667
+Synspedagogikk i opplæring og (re)habilitering
+PED6908
+Masteroppgave i pedagogisk psykologisk rådgivning
+PED8009
+Dynamic Literacies (With paper)
+PED8020
+Diskursanalyse og pedagogiske praksiser
+PG6210
+Petroleumskybernetikk for ingeniører og ledere
+PG8104
+Seismisk reservoarmonitorering
+PG8106
+Matematisk geofysikk
+PG8108
+Geofysisk inversjon
+PG8405
+Modellering og simulering av produksjonssystemer og brønnkonstruksjon
+PG8406
+Petroleumskybernetikk
+PG8501
+Trykkstyrt boring: Metoder og felteksempler
+PG8600
+Utvikling av numeriske reservoarmodeller
+PG8601
+Spesielle reservoarsimuleringsmodeller
+PG8604
+Økt oljeutvinning
+PG8605
+Dobbel porøsitet reservoarer
+PG8606
+Reservoar- og produksjonsteknikk for gass
+PG8607
+Numeriske metoder i reservoarsimulering
+PG8707
+ Kvantitative geosystemer
+PK6017
+Risikoanalyse
+PK6018
+Industriell sikkerhet og pålitelighet
+PK6019
+Driftssikkerhet, vedlikeholdsstyring
+PK6021
+Vedlikeholdsoptimalisering
+PK6029
+Digitale løsninger for planlegging og optimalisering av vedlikehold
+PK6100
+Ledelse og lederskap i prosjekter
+PK6245
+Forretningsforståelse i prosjekter
+PK6400
+Praktisk prosjektledelse
+PK6901
+Organisasjon og ledelse, masteroppgave
+PK6902
+Veg og jernbane, masteroppgave
+PK6905
+Masteroppgave i Systems Engineering
+PK6906
+Masteroppgave Eiendomsutvikling og -forvaltning
+PK8001
+Modeller for Logistikk 4.0
+PK8100
+Avansert robotteknikk
+PK8102
+Materialavvirkende bearbeiding
+PK8200
+Risikomodellering og risikoindikatorer
+PK8201
+Systempålitelighet
+PK8206
+Planlegging og styring i industrielle verdikjeder
+PK8210
+Systemteknikk - prinsipielt grunnlag og praksis
+PK8213
+Model Based System Engineering - Model Based Safety Assessment
+PK8214
+Forskningsopplegg i ledelsesfokuserte ingeniørfag
+PLU8013
+Vitenskapsteori og etikk med innretning mot profesjonsforskning.
+PLU8014
+Akademisk skriving
+PLU8017
+Forskningsformidling   
+PLU8018
+Profesjonsteori for lærerutdannere
+PLU8021
+Kvalitative analysemetoder i praksis I
+PLU8022
+Kvalitative analysemetoder i praksis II
+PLU8027
+Lærerutdanningsforskning
+POL1000
+Innføring i statsvitenskap: Internasjonal politikk og komparativ politikk
+POL1001
+Innføring i statsvitenskap: Politisk teori og politisk atferd
+POL1003
+Miljøpolitikk, energipolitikk og ressursforvaltning
+POL1004
+Globalisering og økonomisk integrasjon: Norge i det internasjonale samfunn
+POL2000
+Modeller og teorier i statsvitenskap
+POL2012
+Teorier og modeller i politisk økonomi
+POL2016
+Spesialiseringsemne i statsvitenskap: Politisk kommunikasjon og politisk atferd
+POL2018
+Japansk kultur og politisk-økonomiske system
+POL2019
+Øst-Asia: Internasjonal politikk
+POL2023
+Seminar i politisk teori
+POL2024
+Klimapolitikk
+POL3004
+Forskningsdesign og kvalitativ metode
+POL3502
+Årsaker til krig
+POL3508
+Utenrikspolitikk
+POL3509
+Medier, opinion og politisk adferd
+POL3513
+Politisk økonomi: Vekst, institusjoner og korrupsjon
+POL3515
+Komparativ og internasjonal politikk i Japan og Øst-Asia
+POL3802
+Eksperter i team - Mediatization of Society: What the Media Do to Us and What We Do with the Media
+POL8508
+Utenrikspolitikk
+POL8509
+Medier, opinion og politisk adferd
+POL8519
+Stormakters vekst og fall
+PPU4100
+Pedagogikk - heltid
+PPU4120
+Praksis - heltid
+PPU4213
+Profesjonskunnskap
+PPU4221
+Fagdidaktikk i biologi - heltid
+PPU4222
+Fagdidaktikk i fysikk - heltid
+PPU4224
+Fagdidaktikk kjemi - heltid
+PPU4225
+Fagdidaktikk matematikk - heltid
+PPU4231
+Fagdidaktikk i geografi - heltid
+PPU4232
+Fagdidaktikk i historie- heltid
+PPU4233
+Fagdidaktikk i samfunnskunnskap - heltid
+PPU4241
+Fagdidaktikk i engelsk - heltid
+PPU4246
+Fagdidaktikk i fremmedspråk - heltid
+PPU4252
+Fagdidaktikk i film og medievitenskap - heltid
+PPU4254
+Fagdidaktikk i musikk - heltid
+PPU4261
+Fagdidaktikk i kroppsøving og idrettsfag - heltid
+PPU4262
+Fagdidaktikk i psykologi - heltid
+PPU4263
+Fagdidaktikk i religions- og etikkfag - heltid
+PPU4400
+Pedagogikk - deltid
+PPU4512
+Klassemiljø og tilpasset opplæring med spesialpedagogisk arbeid
+PPU4521
+Fagdidaktikk i biologi - deltid
+PPU4522
+Fagdidaktikk i fysikk - deltid
+PPU4524
+Fagdidaktikk i kjemi - deltid
+PPU4525
+Fagdidaktikk i matematikk - deltid
+PPU4531
+Fagdidaktikk i geografi - deltid
+PPU4532
+Fagdidaktikk i historie - deltid
+PPU4533
+Fagdidaktikk i samfunnskunnskap - deltid
+PPU4541
+Fagdidaktikk i engelsk - deltid
+PPU4546
+Fagdidaktikk i fremmedspråk - deltid
+PPU4551
+Fagdidaktikk i drama og teater - deltid
+PPU4555
+Fagdidaktikk i dans - deltid
+PPU4561
+Fagdidaktikk i kroppsøving og idrettsfag - deltid
+PPU4581
+Yrkesdidaktikk - deltid
+PPU4602
+Pedagogikk
+PPU4611
+Praksis 1
+PPU4612
+Praksis 2
+PPU4613
+Praksis 3
+PPU4614
+Praksis 4
+PPU4620
+Fagdidaktikk 1 - biologi
+PPU4621
+Fagdidaktikk 2 - biologi
+PPU4622
+Fagdidaktikk 1 - fysikk
+PPU4623
+Fagdidaktikk 2 - fysikk
+PPU4624
+Fagdidaktikk 1 - informatikk
+PPU4626
+Fagdidaktikk 1 - kjemi
+PPU4627
+Fagdidaktikk 2 - kjemi
+PPU4628
+Fagdidaktikk 1 - matematikk
+PPU4629
+Fagdidaktikk 2 - matematikk
+PPU4640
+Fagdidaktikk 1 - geografi
+PPU4641
+Fagdidaktikk 2 - geografi
+PPU4642
+Fagdidaktikk 1 - historie
+PPU4643
+Fagdidaktikk 2 - historie
+PPU4644
+Fagdidaktikk 1 - samfunnskunnskap
+PPU4645
+Fagdidaktikk 2 - samfunnskunnskap
+PPU4650
+Fagdidaktikk 1 - engelsk
+PPU4651
+Fagdidaktikk 2 - engelsk
+PPU4652
+Fagdidaktikk 1 - fransk
+PPU4653
+Fagdidaktikk 2 - fransk
+PPU4654
+Fagdidaktikk 1 - norsk
+PPU4655
+Fagdidaktikk 2 - norsk
+PPU4656
+Fagdidaktikk 1 - tysk
+PPU4657
+Fagdidaktikk 2 - tysk
+PPU4659
+Fagdidaktikk 2 - spansk
+PPU4680
+Fagdidaktikk 1 - kroppsøving og idrettsfag
+PPU4681
+Fagdidaktikk 2 - kroppsøving og idrettsfag
+PPU4684
+Fagdidaktikk 1 - religion og etikk
+PPU4685
+Fagdidaktikk 2 - religion og etikk
+PROG1001
+Grunnleggende programmering
+PROG1003
+Objektorientert programmering
+PROG1004
+Programvareutvikling
+PROG2002
+Grafikkprogrammering
+PROG2005
+Cloud Technologies
+PRU2002
+Praksisrettet undervisning i studieenhet 2
+PRU2002D
+Praksisrettet undervisning i studieenhet 2
+PSY1010
+Psykologiens historie
+PSY1011
+Psykologiens metodologi
+PSY1012
+Kognitiv psykologi 1
+PSY1013
+Biologisk psykologi 1
+PSY1014
+Sosialpsykologi 1
+PSY1015
+Utviklingspsykologi 1
+PSY1016
+Personlighetspsykologi 1
+PSY1018
+Psykiske lidelser
+PSY2012
+Kognitiv psykologi 2
+PSY2015
+Utviklingspsykologi 2
+PSY2016
+Personlighetspsykologi 2
+PSY2017
+Statistikk og kvantitative forskningsmetoder
+PSY2018
+Kvalitative forskningsmetoder
+PSY2019
+Arbeids- og organisasjonspsykologi
+PSY2020
+Psykologiske perspektiver på læring og ferdighetsutvikling
+PSY2021
+Medienes publikum
+PSY2022
+Forskningsdesign
+PSY2023
+Psykologiske perspektiver på læring og ferdighetsutvikling
+PSY2900
+Bacheloroppgave i psykologi
+PSY2901
+Bacheloroppgave i psykologi - prosjekter innenfor arbeids- og organisasjonspsykologi
+PSY2902
+Bacheloroppgave i psykologi - prosjekter innenfor evolusjonspsykologi og individuelle forskjeller
+PSY2903
+Bacheloroppgave i psykologi - prosjekter innenfor utviklingspsykologi
+PSY2906
+Bacheloroppgave i psykologi - prosjekter innenfor tale, kognisjon og språk
+PSY3100
+Forskningsmetode - kvantitativ
+PSY3101
+Forskningsmetode - kvalitativ
+PSY3110
+Læring, atferd og omgivelser
+PSY3111
+Individuell utvikling, gener, nervesystem og atferd
+PSY3112
+Artikkelseminar
+PSY3113
+Spesialisering - læring, atferd og omgivelser
+PSY3114
+Spesialisering - individuell utvikling, gener, nervesystem og atferd
+PSY3130
+Arbeidshelsepsykologi
+PSY3132
+Psykologiske tester i arbeidslivet og Human factors
+PSY3134
+Kommunikasjon i organisasjoner og mediepsykologi
+PSY3135
+Organisering og ledelse
+PSY3812
+Eksperter i team - Søvn og rytme
+PSY3913
+Masteroppgave i arbeids- og organisasjonspsykologi
+PSY8005
+Human psykofysiologi: Høy-tetthets EEG analyse
+PSY8007
+Formidling og søknadsskriving
+PSYPRO4111
+Psykologiens metodologi
+PSYPRO4112
+Kognitiv psykologi 1
+PSYPRO4114
+Sosialpsykologi 1
+PSYPRO4115
+Utviklingspsykologi 1
+PSYPRO4116
+Personlighetspsykologi 1
+PSYPRO4118
+Psykiske lidelser
+PSYPRO4201
+Klinisk praktikum 1
+PSYPRO4202
+Klinisk praktikum 2
+PSYPRO4203
+Klinisk praktikum 3
+PSYPRO4204
+Klinisk praktikum 4
+PSYPRO4312
+Kognitiv psykologi 2
+PSYPRO4315
+Utviklingspsykologi 2
+PSYPRO4316
+Personlighetspsykologi 2
+PSYPRO4317
+Statistikk og kvantitative forskningsmetoder
+PSYPRO4318
+Kvalitative forskningsmetoder
+PSYPRO4412
+Anvendt og klinisk kognitiv psykologi
+PSYPRO4415
+Anvendt og klinisk utviklingspsykologi 
+PSYPRO4416
+Anvendt og klinisk personlighetspsykologi
+PSYPRO4501
+Helsepsykologi
+PSYPRO4502
+Arbeids- og organisasjonspsykologi
+PSYPRO4505
+Rettspsykologi og sakkyndighet
+PSYPRO4601
+Klinisk psykologi - barn og ungdom
+PSYPRO4602
+Praktisk klinisk terapiopplæring - barn og ungdom
+PSYPRO4603
+Klinisk psykologi - voksen
+PSYPRO4604
+Praktisk klinisk terapiopplæring - voksen
+PSYPRO4605
+Klinisk nevropsykologi
+PSYPRO4606
+Praktisk opplæring i klinisk nevropsykologi
+PSYPRO4700
+Hovedoppgave
+PSYPRO4800
+Hovedpraksis
+RAD1031
+Basiskunnskap i radiografi
+RAD2031
+Intervensjon og ultralyd
+RAD2041
+Vitenskapsteori og forskningsmetode
+RAD2051
+Radiograffaglige emneområder
+RAD2061
+Magnetisk Resonans (MR)
+RAD3011
+Onkologi og tilhørende modaliteter
+RAD3032
+Karriererådgivning
+RAD3033
+Systemorientert rådgivning i et relasjonelt, helhetlig og kreativt perspektiv
+RAD3034
+Grupperådgivning: Teori, prosess og ekstern praksis
+RAD3039
+Organisasjonsrådgivning: utviklingsprosesser i coaching, veiledning og ledelse
+RAD3040
+Relasjonell velferd og livskvalitet
+RAD3050
+Vitenskapelig skriving og design med selvvalgt fordypning
+RAD3902
+Masteroppgave i rådgivningsvitenskap
+RAD6000
+Karriererådgivning for privat og offentlig virksomhet
+RAD6010
+2-dagers karriererådgivning for privat og offentlig virksomhet
+RAD6505
+Lederutvikling og organisasjonsendring
+RAD6901
+Organisasjon og ledelse, masteroppgave
+RAG1001
+Anatomi og fysiologi
+RAG1002
+Radiografi 1: Strålefysikk, apparatlære og bildedannelse
+RAG1003
+Radiografi 2: Skjelett- og thoraxradiografi
+RAG1004
+Praksisstudier 1: Skjelettrøntgen
+RAG1005
+Patologi, farmakologi og kliniske ferdigheter
+RAT1001
+Anatomi og fysiologi
+RAT1002
+Radiografi 1: Strålefysikk, apparatlære og bildedannelse
+RAT1003
+Radiografi 2: Skjelett- og thoraxradiografi
+RAT1004
+Praksisstudier 1: Skjelettrøntgen
+RAT1005
+Patologi, farmakologi og kliniske ferdigheter
+RAT3101
+Introduksjon til MR
+RAT3102
+Metodiske prinsipper og teknikker innen MR
+RAT3201
+Introduksjon til ultralyd
+RAT3311
+Teoretisk ultralyd av halskar
+RAT6000
+Introduksjon til medisinsk bildeteknologi
+RAT6001
+Basal ultralyd
+RAT6010
+Praktisk ultralyd av halskar
+RAT6100
+MR praksis
+RAT6101
+Introduksjon til MR
+RAT6202
+Introduksjon til ultralyd
+REA0012
+Forkurs i matematikk for Tres og y-vei 
+REA0021
+Forkurs i fysikk for TRES
+REA1154
+Statistikk for økonomer
+REA2101
+Fysikk og kjemi
+REA3011
+Matematikk 3
+RFEL3070
+Scientific Seminars in Environmental Toxicology and Chemistry
+RFEL3081
+Natural Resources Management, Interdisciplinary Project
+RFEL3082
+Sustainable Management of Ecosystem Services
+RFEL3093
+Episoder fra naturvitenskapenes historie
+RFEL3100
+Forskningsmetoder i matematikk- og realfagsdidaktikk
+ROLFTHORE1
+Testemne - RT 1
+RPR1011
+Praktisk ferdighetsprøve i skjelett/thoraxradiografi og sykepleie, digital test i medikamentregning
+RPR2032
+Veiledet praksis i klinisk sykepleie
+RPR2041
+Veiledet praksis ved radiologiske modaliteter
+RPR2051
+Veiledet praksis ved radiologiske modaliteter,praksis 3
+RPR3031
+Veiledet praksis ved radiologiske modaliteter,praksis 4
+RPR3051
+Veiledet praksis ved radiologiske modaliteter,praksis 6
+RVI1010
+Religionsteori
+RVI1020
+Fortidens religioner
+RVI1030
+Midtøstens religioner
+RVI1040
+Sør-Asias religioner
+RVI2150
+Aktuelle religionsvitenskapelige emner
+RVI2151
+Aktuelle religionsvitenskapelige emner
+RVI2175
+Å forklare religion: hvorfor er mennesker religiøse?
+RVI2185
+Norsk islam: institusjoner, disipliner og skoler i historisk perspektiv
+RVI3010
+Vitenskapsteori og teoriarbeid
+RVI3020
+Material og metode
+RVI3110
+Selvvalgt pensum
+RVI3111
+Selvvalgt pensum
+RVI3120
+Feltrapport
+RVI3121
+Feltrapport
+RVI3600
+Selvstudium - Erstatningsemne for Eksperter i team
+RVI3900
+Masteroppgave i religionsvitenskap
+SAM1020
+Medborgerutdanning
+SANT1020
+Sosialantropologiske perspektiver
+SANT1021
+Sosialantropologiske nøkkelbegreper
+SANT1022
+Etnografisk metode
+SANT1023
+Sentrale sosialantropologiske forskningsemner
+SANT2021
+Anthropology of the Future: The social imagination of hopes, utopias and the end of the world
+SANT2022
+Migrasjon, bosetning og mobilitet
+SANT2023
+Anthropology of Organisations and Sustainability
+SANT2024
+Globale ulikheter
+SANT2900
+Bacheloroppgave - sosialantropologi
+SANT3012
+Praksisopphold
+SANT3020
+Teoretiske perspektiver
+SANT3021
+Etnografisk metode
+SANT3022
+Prosjektdesign
+SANT3600
+Kulturforståelse for et internasjonalt arbeidsliv
+SANT3900
+Masteroppgave i sosialantropologi
+SANT3910
+Master&#x27;s Thesis - Globalisation and Sustainable Development
+SARB3006
+Kvalitative metoder
+SARB3007
+Vitenskapsfilosofi, metoderefleksjon og forskningsetikk
+SARB3008
+Kvantitative metoder
+SARB3009
+Medborgerskap og brukermedvirkning
+SARB3010
+Teoretiske perspektiver i sosialt arbeid
+SARB3012
+Praksisopphold
+SARB3509
+Veiledet selvvalgt studium 
+SARB3511
+Innvandring, integrasjon, mangfold - minoritetsperspektiver i sosialt arbeid og barnevern 1
+SARB3512
+Innvandring, integrasjon, mangfold - minoritetsperspektiver i sosialt arbeid og barnevern 2
+SARB3518
+Global migrasjon og etniske relasjoner 1
+SARB3519
+Global migrasjon og etniske relasjoner 2
+SARB3900
+Masteroppgave i sosialt arbeid
+SARB3910
+Masteroppgave i globalisering
+SARB8008
+Etnisitet og mangfold
+SARB8016
+Aktuelt emne
+SARB8018
+Individuelt lesepensum
+SARB8019
+Brukermedvirkning i ulike former og ulike kontekster
+SARB8020
+Familie, marked og stat i det nyliberale samfunn
+SFEL1000
+Samfunnsfaglige perspektiver på naturressursforvaltning
+SFEL8000
+Vitenskapsteori i samfunnsvitenskap
+SKID1001
+Skipsdesign I - Hydrostatikk,stabilitet og slepemotstand
+SKID2201
+Styrkeberegninger
+SKID2203
+Skipsdesign II - Skrogkonstruksjon
+SKID2210
+Havromskonstruksjoner
+SKID2300
+Skipsdesign III - Prosjektering
+SKID2303
+Studiepoenggivende praksis
+SKIP3001
+Introduksjon til språk og kommunikasjon i profesjoner
+SKIP3002
+Teorier om språk og kommunikasjon
+SKIP3003
+Fagskriving og skrivekulturer i studier og arbeidsliv
+SKIP3004
+Forskningsmetode og forskningsetikk
+SKIP3005
+Samtalen som redskap i samarbeid og ledelse
+SKIP3006
+Kommunikasjon av forskning og fagkunnskap
+SKOLE6007
+Læringsutfordringer
+SKOLE6012
+Veiledningspedagogikk for praksislærere og mentorer, emne 1
+SKOLE6015
+Veiledning i skolen av lærerstudenter og nyutdannede lærere, emne 2
+SKOLE6130
+Digitalisering og ledelse i skolen
+SKOLE6132
+Skolen i samfunnet
+SKOLE6214
+Forskningsmetoder i matematikkdidaktikk (1.-7. trinn)
+SKOLE6220
+Læring og undervisning i matematikk (8.-10. trinn)
+SKOLE6221
+Profesjonsutvikling og vurdering (8.-10. trinn)
+SKOLE6222
+Matematisk modellering og IKT i matematikkundervisningen (8.-10. trinn)
+SKOLE6223
+Oppgavedesign og matematikklærerens roller (8.-10. trinn)
+SKOLE6224
+Forskningsmetoder i matematikkdidaktikk (8.-13. trinn)
+SKOLE6230
+Læring og undervisning i matematikk (11.-13. trinn)
+SKOLE6231
+Profesjonsutvikling og vurdering (11.-13. trinn)
+SKOLE6232
+Matematisk modellering og IKT i matematikkundervisningen (11.-13. trinn)
+SKOLE6233
+Oppgavedesign og matematikklærerens roller (11.-13. trinn)
+SKOLE6240
+Skriving og lesing i begynneropplæringa
+SKOLE6246
+Læring og undervisning i tidlig matematikk
+SKOLE6248
+Profesjonsutvikling og forskningsmetoder i begynneropplæringa
+SKOLE6622
+Teknologi og forskningslære - Modul III Vindturbiner og interessekonflikter
+SKOLE6623
+Teknologi og forskningslære - Modul IV Havromsteknologi. Båtbygging.
+SKOLE6624
+Teknologi og forskningslære - Modul I Gruveavrenning, miljøutfordring
+SKOLE6625
+Teknologi og forskningslære - Modul II Marin biologi og teknologi
+SKOLE6906
+Masteroppgave lærerspesialist - matematikkdidaktikk 8.-10. trinn
+SMED8002
+Epidemiologi II
+SMED8004
+Forskning, etikk og samfunn
+SMED8007
+Vitenskapelig publisering og forskningsformidling 
+SMED8015
+Kvalitative forskningsmetoder
+SMF0002
+Kommunikasjon og norsk for Y-vei
+SMF1192F
+Bedrifts- og forretningssystemer
+SMF1193
+Organisasjon og ledelse
+SMF1194
+Bedriftsøkonomi med regnskap
+SMF1195
+Merkevarebygging
+SMF1195F
+Merkevarebygging
+SMF1196
+Markedsføring - grunnkurs
+SMF1196F
+Markedsføring - grunnkurs
+SMF1200
+Introduksjon til logistikkledelse
+SMF1212
+Prosjektledelse
+SMF1212F
+Prosjektledelse
+SMF2051
+Ledelse med arbeidslivsjus
+SMF2281
+Foretaksstrategi
+SMF2290
+Etikk, bærekraft og samfunnsansvar 
+SMF2290F
+Etikk, bærekraft og samfunnsansvar
+SMF2291
+Mikroøkonomi
+SMF2291F
+Mikroøkonomi
+SMF2293
+Driftsregnskap med budsjettering 
+SMF2293F
+Driftsregnskap med budsjettering 
+SMF2294
+Forretningsjus
+SMF2295
+Makroøkonomi
+SMF2296F
+Investering og finansiering
+SMF2297
+Prosjektledelse
+SMF2298
+Teknologiledelse
+SMF2300
+Ruteplanlegging og optimalisering
+SMF3052F
+Bærekraft og markedsføring 
+SMF3082F
+Bærekraft og anvendt etikk
+SMF3084
+Organisasjonspsykologi og ledelse
+SMF3084F
+Organisasjonspsykologi og ledelse
+SMF3085F
+Kvalitetsledelse 
+SMF3086
+Bærekraftig innovasjon
+SMF3091
+Bærekraftige Strategier
+SMF3092
+Entreprenørskap 
+SMØ2001
+Makroøkonomi
+SMØ3020
+Anvendt mikroøkonomi
+SOL420
+Ledelse
+SOS1001
+Samfunnsteori 
+SOS1002
+Samfunnsvitenskapelig forskningsmetode
+SOS1006
+Mediesosiologi
+SOS1016
+Sosiologi og samfunn
+SOS2000
+Teorier og modeller i sosiologi
+SOS2006
+Arbeid og organisasjon
+SOS2009
+Medier og samfunn
+SOS2010
+Ulikhet og velferd
+SOS2016
+Sosiologi i praksis
+SOS2018
+Samfunn, organisasjon og ledelse
+SOS2019
+Vår sosiale virkelighet
+SOS2900
+Bacheloroppgave i sosiologi
+SOS3001
+Sosiologisk teori
+SOS3004
+Kvalitative metoder
+SOS3005
+Kvantitative metoder
+SOS3006
+Forskningsdesign 
+SOS3007
+Kvalitative forskningsmetoder
+SOS3008
+Kvalitativ analyse
+SOS3051
+Medie- og kommunikasjonsteori
+SOS3519
+Internasjonale perspektiver på arbeid og velferdsstat
+SOS3520
+Moderne medier og digitalisering
+SOS3521
+Ulikhet, velferd og integrering
+SOS3606
+Sosiale medier
+SOS3800
+Eksperter i team - Samfunnsløsninger mot antibiotikaresistens
+SOS6501
+Digitalisering i samfunn og arbeidsliv
+SOS6516
+Forskningsdesign og forskningsmetode
+SOS6602
+Digitalisering og digital transformasjon - nettbasert
+SOS8007
+Kvalitative forskningsmetoder
+SOS8527
+Sosiale medier
+SOS8532
+Internasjonale perspektiver på arbeid og velferdsstat
+SOS8534
+Ulikhet, velferd og integrering
+SP200115
+Kliniske studier i sykepleie - Hjemmesykepleie, 3. og 4. semester
+SP200215
+Kliniske studier i sykepleie - Psykisk helsearbeid 3. og 4. semester
+SP200315
+Kliniske studier i sykepleie - Kirurgi 3. og 4. semester
+SP200415
+Kliniske studier i sykepleie - Medisin 3. og 4. semester
+SP300115
+Kliniske studier i sykepleie - Hjemmesykepleie 5. og 6. semester
+SP300215
+Kliniske studier i sykepleie - Psykisk helsearbeid, 5 og 6. semester
+SP300415
+Kliniske studier i sykepleie - Medisin 5. og 6. semester
+SP300517
+Internasjonale kliniske studier i sykepleie - 5. eller 6. semester 
+SPA0502
+Spansk 2
+SPA1100
+Spansk språk 1
+SPA1104
+Spansk språk 2
+SPA1201
+Spansk språkferdighet 1
+SPA1202
+Spansk språk og litteratur
+SPA1301
+Spanskspråklig litteratur
+SPA1401
+Latinamerikansk kultur og historie
+SPA1402
+Spansk kultur og historie
+SPA2501
+Spanskspråklig kultur, historie og samfunn i det 20. og 21. århundret
+SPA2502
+Spanskspråklig samtidslitteratur
+SPA2503
+Fordypning i spansk språkvitenskap
+SPA2900
+Bacheloroppgave i spansk
+SPA6010
+Spansk språkferdighet og grammatikk
+SPL1004MED
+Medikamentregning
+SPL1004MEDD
+Medikamentregning
+SPL2012
+Klinisk sykepleie 2
+SPL3013
+Helse og samfunn 2
+SPL3903
+Bacheloroppgave i sykepleie
+SPO3900
+Thesis in Exercise Physiology
+SPR2010
+Business and Management English
+SPRÅK1200
+Fremmedspråk og samfunn
+SPRÅK2200
+Diakron lingvistikk: Hvordan språk endrer seg
+SPRÅK2400
+Fordypningsemne/selvstudium
+SPRÅK3001
+Forskningsmetoder i språkvitenskap
+SPRÅK3002
+Språkvitenskapelige teorier
+SPRÅK3100
+Sosiolingvistisk teori
+SPRÅK3200
+Semantikk og pragmatikk
+SPRÅK3210
+Lingvistisk teori og komparativ grammatikk
+SPRÅK3300
+Språk og kognisjon
+SPRÅK3501
+Vitenskapelig kommunikasjon for ingeniører
+SPRÅL3500
+Spesielt masteremne 1: Masteroppgaverelatert fordypningsemne
+SPRÅL3600
+Selvstudium - erstatningsemne for Eksperter i team
+SPRÅL3800
+Fritt emne/Selvstudium
+SS100116
+Samfunnsvitenskapelige emner I
+SS300115
+Samfunnsvitenskapelige emner II
+ST1101
+Sannsynlighetsregning og statistikk
+ST1201
+Statistiske metoder
+ST2304
+Statistisk modellering for biologer/bioteknologer
+ST6101
+Sannsynlighetsregning og statistikk
+ST6201
+Statistiske metoder
+SY200215
+Sykepleie til ulike pasientgrupper - 3. semester
+SY200315
+Sykepleie til ulike pasientgrupper - 4. semester
+SY300115
+Helsefremmende og forebyggende sykepleie
+SY300215
+Bacheloroppgave i sykepleie
+SY300417
+Bacheloroppgaven i sykepleie - global helse
+SY302310
+Advancing nursing practice
+SY302311
+Kirurgisk sykepleie
+SY302317
+Klinisk sykepleie for innreisende utvekslingsstudenter
+SYA1000
+Grunnleggende sykepleie
+SYA1001
+Anatomi, fysiologi og biokjemi
+SYA1002
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom
+SYA1003KOM
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom - praksisstudier
+SYA3000
+Medisinske og naturvitenskapelige emner
+SYA3001
+Medisinske og naturvitenskapelige emner - operasjon 
+SYA3004
+Fordypning i intensivsykepleie og intensivmedisin
+SYA3005
+Fordypning i operasjonssykepleie og kirurgi 
+SYA3009
+Perspektiv på kreftsykepleie og fagutvikling
+SYA3100
+Prosjektplan 
+SYA3101
+Medisinsk perspektiv i avansert klinisk sykepleie
+SYA3102
+Profesjonskvalifisering i klinisk sykepleie
+SYA3202
+Medansvar for utøvelsen av anestesisykepleie, kliniske studier
+SYA3232
+Medansvar for utøvelsen av operasjonssykepleie, kliniske studier
+SYA3252
+Avansert klinisk sykepleie til akutt og kritisk syke
+SYA3253
+Kvalitetsforbedring og pasientsikkerhet
+SYA3900
+Masteroppgave i klinisk sykepleie
+SYA6000
+Folkehelsearbeid
+SYA6001
+Helse, utvikling og kommunikasjon - barn, unge og familier
+SYA6011
+Internasjonal helsesykepleiefaglig tjenesteutøvelse
+SYG1000
+Grunnleggende sykepleie
+SYG1002
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom
+SYG1003KOM
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom - praksisstudier
+SYG3001
+Medisinske og naturvitenskapelige emner - operasjon 
+SYG3005
+Fordypning i operasjonssykepleie og kirurgi 
+SYG3010
+Etikk i klinisk sykepleie
+SYG3100
+Prosjektplan 
+SYG3101
+Medisinsk perspektiv i avansert klinisk sykepleie
+SYG3102
+Profesjonskvalifisering i klinisk sykepleie
+SYG3103
+Selvvalgt fordypningsemne i klinisk sykepleie
+SYG3106
+Pasientsikkerhet
+SYG3231
+Grunnleggende operasjonssykepleie, kliniske studier 
+SYG3232
+Medansvar for utøvelsen av operasjonssykepleie, kliniske studier
+SYG3233
+Kompetent utøver av operasjonssykepleie, kliniske studier 
+SYG3251
+Avansert klinisk sykepleie til personer med langvarige, kroniske og sammensatte lidelser
+SYG3252
+Avansert klinisk sykepleie til akutt og kritisk syke
+SYG3253
+Kvalitetsforbedring og pasientsikkerhet
+SYG3900
+Masteroppgave i klinisk sykepleie
+SYT1000
+Grunnleggende sykepleie
+SYT1001
+Anatomi, fysiologi og biokjemi
+SYT1002
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom
+SYT1003KOM
+Sykepleierens observasjon og vurdering av pasientens helse og sykdom - praksisstudier
+SYT3001
+Medisinske og naturvitenskapelige emner - operasjon 
+SYT3004
+Fordypning i intensivsykepleie og intensivmedisin
+SYT3009
+Perspektiv på kreftsykepleie og fagutvikling
+SYT3100
+Prosjektplan 
+SYT3221
+Grunnleggende intensivsykepleie, kliniske studier
+SYT3222
+Medansvar for utøvelsen av intensivsykepleie, kliniske studier
+SYT3223
+Kompetent utøver av intensivsykepleie, kliniske studier
+SYT3231
+Grunnleggende operasjonssykepleie, kliniske studier 
+SYT3232
+Medansvar for utøvelsen av operasjonssykepleie, kliniske studier
+SYT3241
+Medisinsk kreftbehandling og strålebehandling - kliniske praksisstudier
+SYT3242
+Rehabilitering og palliasjon - kliniske praksisstudier
+SYT3301
+Jordmorfag 1
+SYT3302
+Jordmorfag 2
+SYT3303
+Vitenskapelig fordypning i jordmorfaget
+SYT3304
+Praksisstudier ved helsestasjon/svangerskapsomsorgen
+SYT3305
+Praksisstudier: Grunnleggende jordmorfag ved føde- og barselavdelingen
+SYT3306
+Praksisstudier: Jordmorfag ved normale og avvikende forhold og kvinnehelse/gynekologi
+SYT3900
+Masteroppgave i klinisk sykepleie
+SYT6000
+Folkehelsearbeid
+SYT6001
+Helse, utvikling og kommunikasjon - barn, unge og familier
+SYT6003
+Faglig fordypning - prosjektplan
+SYT6010
+Helsesykepleiefaglig tjenesteutøvelse
+SYT6011
+Internasjonal helsesykepleiefaglig tjenesteutøvelse
+SYT6100
+Forskningsmetode
+SYT6101
+Kardiologi
+SYT6102
+Kardiologisk sykepleie
+SYT6200
+Avansert sykepleie
+SYT6201
+Medisinske og naturvitenskaplige tema
+SØK1000
+Innføring i samfunnsøkonomi
+SØK1001
+Matematikk for økonomer
+SØK1002
+Mikroøkonomisk analyse
+SØK1004
+Statistikk for økonomer
+SØK1005
+Økonometri
+SØK1011
+Markeder og markedssvikt
+SØK1012
+Makroøkonomisk analyse
+SØK1101
+Miljø- og ressursøkonomi
+SØK1152
+Økonomiske utfordringer for en ressursbasert økonomi
+SØK2005
+Finansmarkeder
+SØK2006
+Internasjonal Handel
+SØK2007
+Utviklingsøkonomi
+SØK2009
+Internasjonal makroøkonomi
+SØK2010
+Bank- og kredittmarkeder
+SØK2012
+Atferdsøkonomi
+SØK2013
+Bacheloroppgave i samfunnsøkonomi
+SØK2501
+Semesteroppgave i samfunnsøkonomi
+SØK2800
+Praksisopphold
+SØK3001
+Økonometri I
+SØK3004
+Videregående matematisk analyse
+SØK3006
+Valuta, olje og makroøkonomisk politikk
+SØK3008
+Insentiver, informasjon og arbeidskontrakter
+SØK3514
+Anvendt økonometri
+SØK3525
+Internasjonal økonomi
+SØK3800
+Eksperter i team - Kommune 3.0, samskapingskommune
+SØK3899
+Oppgave i samfunnsøkonomi
+SØK3900
+Masteroppgave i samfunnsøkonomi
+SØK3950
+Masteroppgave i samfunnsøkonomi
+SØK6301
+Ny teknologi og ny økonomi - samfunnsmessige virkninger
+SØK8614
+Anvendt økonometri
+SØK8617
+Åpen makroøkonomi
+SØK8623
+Økonomisk vekst og utvikling
+TALM3004
+Matematikk/Fysikk
+TBA4100
+Geoteknikk og geologi
+TBA4105
+Geoteknikk, beregningsmetoder
+TBA4116
+Geoteknikk, videregående kurs
+TBA4125
+BM4 Prosjektering
+TBA4127
+Prosjekteringsledelse
+TBA4128
+Prosjektledelse, videregående kurs
+TBA4130
+Produksjonsledelse i BA-prosjekt
+TBA4135
+Organisasjon og økonomi i BA-prosjekt 
+TBA4140
+Murkonstruksjoner
+TBA4150
+Anleggsteknikk
+TBA4151
+Anleggsteknikk, videregående kurs
+TBA4155
+Prosjektplanlegging og analyse
+TBA4157
+Prosjektbasert produksjon
+TBA4160
+Bygningsfysikk, grunnkurs
+TBA4165
+Bygningsteknikk
+TBA4166
+Bygningssimulering
+TBA4170
+Transformasjon og ny bruk av eksisterende bygninger
+TBA4175
+Brannteknikk
+TBA4176
+Bygg og eiendomsforvaltning, videregående kurs
+TBA4177
+Brannsikkerhet i byggverk, videregående kurs
+TBA4203
+Vegplanlegging
+TBA4204
+BM3 Transportinfrastruktur
+TBA4218
+Vegteknologi
+TBA4222
+Avansert jernbaneteknikk
+TBA4225
+Jernbaneteknikk, grunnkurs
+TBA4231
+Anvendt geomatikk
+TBA4232
+Geomatikk, videregående kurs
+TBA4236
+Teoretisk geomatikk
+TBA4240
+Geografisk informasjonsbehandling 1, grunnkurs
+TBA4245
+Geodesi
+TBA4250
+Geografisk informasjonsbehandling 2, grunnkurs
+TBA4251
+Programmering i geomatikk
+TBA4270
+Kystteknikk
+TBA4275
+Dynamisk respons på uregelmessige laster
+TBA4340
+Drift,vedlikehold og rehabilitering av veger
+TBA4345
+Bærekraftsutfordringer i transport
+TBA4400
+Innovasjon for en digitalisert bygg- og anleggsnæring
+TBA4405
+Digitalisering i byggeprosesser og bygd miljø
+TBA4410
+Utvikling av digitale regelsjekkere og kunnskapssystemer for BAE-næringen
+TBA4415
+Prosjektledelse og gjennomføringsmodeller for digitaliserte BAE-prosjekt
+TBA4420
+Digitalt ingeniørarbeid 
+TBA4530
+Prosjektledelse og anleggsteknikk, fordypningsprosjekt
+TBA4531
+Prosjektledelse, fordypningsprosjekt
+TBA4542
+Transport, fordypningsprosjekt
+TBA4561
+Geomatikk, fordypningsprosjekt
+TBA4600
+Forskerlinje, fordypningsprosjekt
+TBA4853
+Eksperter i team - Punktlig og effektiv jernbane
+TBA4856
+Eksperter i team - Innovative idrettsanlegg
+TBA4860
+Eksperter i team - Fra brukere til skapere, styrker innbyggerne for utviklingen av smarte og bærekraftige byer
+TBA4861
+Eksperter i team - Innovativ bytransport
+TBA4910
+Prosjektledelse, masteroppgave
+TBA4925
+Geomatikk, masteroppgave
+TBA4930
+Eiendomsledelse og forvaltning, masteroppgave
+TBA4935
+Anleggsteknikk, masteroppgave
+TBA4940
+Veg, masteroppgave
+TBA5100
+Teoretisk geoteknikk
+TBA5150
+Geohazards og risiko
+TBA5155
+Fundamentering og skråningsstabilitet
+TBA5200
+Project Planning and Analysis
+TBBY2002
+Konstruksjonslære
+TBBY2101
+Tradisjonelle stavkonstruksjoner
+TBBY3001
+Byggeprosess og Forvaltning
+TBBY3002
+Vernefilosofier 1
+TBBY3101
+Tradisjonsfaglig Fordypning 3
+TBI4110
+Økotoksikologi
+TBI4900
+Bioteknologi, masteroppgave
+TBT4107
+Biokjemi 2
+TBT4110
+Mikrobiologi
+TBT4125
+Næringsmiddelkjemi
+TBT4130
+Miljøbioteknologi
+TBT4135
+Biopolymerkjemi
+TBT4140
+Biokjemiteknikk
+TBT4165
+Systembiologi og biologiske nettverk
+TBT4170
+Bioteknologi
+TBT4506
+Biopolymere materialer og Usikkerhetsanalyse og forsøksplanlegging, fordypningsemne
+TBT4507
+Bioinformatikk og Usikkerhetsanalyse og forsøksplanlegging, fordypningsemne
+TBT4850
+Eksperter i team - Å skape fremtidens mat ved hjelp av biprodukter
+TBYG1001
+Ingeniørfaglig yrkesutøvelse og arbeidsmetoder
+TBYG1002
+Byggteknikk
+TBYG2001
+Geoteknikk og geologi
+TBYG3008
+Anleggsteknikk og ingeniørgeologi
+TBYG3009
+Husbyggingsteknikk 2
+TBYG3011
+Stål og trekonstruksjoner
+TBYG3012
+Veg, VA og arealplan
+TBYG3013
+Styrt praksis og prosjekt
+TBYG3016
+Bacheloroppgave Bygg
+TBYG3019
+Statikk og betong 2 
+TBYG3021
+Ingeniørfaglig systemtenkning
+TBYG3030
+Organisasjon og økonomi i BA-prosjekt 
+TDAT2004
+Datakommunikasjon med nettverksprogrammering
+TDAT3001
+Bacheloroppgave Dataingeniør
+TDAT3002
+Systemtenkning med økonomi
+TDAT3020
+Sikkerhet i programvare og nettverk
+TDAT3023
+3D-grafikk med prosjekt
+TDAT3024
+Matematikk og fysikk valgfag
+TDAT3025
+Anvendt maskinlæring med prosjekt
+TDMA4003
+Vitenskapelig metode
+TDMA4004
+Kunnskapsforvaltning
+TDMA4005
+Concurrent Design
+TDMA4006
+Bedriftstilpasset e-læring
+TDMA4007
+Implementasjon av samhandlingsløsninger
+TDMA4008
+Samhandlingsteknologi
+TDMA4009
+Prosjektledelse
+TDMA5001
+Samhandlingsledelse
+TDMA5002
+Markedsledelse og forretningsmodeller
+TDMA5004
+Planlegging av forskningsprosjekt
+TDMA5005
+Masteroppgave
+TDT4100
+Objektorientert programmering
+TDT4102
+Prosedyre- og objektorientert programmering
+TDT4109
+Informasjonsteknologi, grunnkurs
+TDT4110
+Informasjonsteknologi, grunnkurs
+TDT4113
+Datateknologi, programmeringsprosjekt
+TDT4117
+Informasjonsgjenfinning
+TDT4120
+Algoritmer og datastrukturer
+TDT4125
+Algoritmekonstruksjon
+TDT4127
+Programmering og numerikk
+TDT4136
+Introduksjon til kunstig intelligens 
+TDT4137
+Kognitive arkitekturer
+TDT4140
+Programvareutvikling
+TDT4145
+Datamodellering og databasesystemer
+TDT4150
+Avanserte databasesystemer
+TDT4165
+Programmeringsspråk
+TDT4171
+Metoder i kunstig intelligens
+TDT4175
+Informasjonssystemer
+TDT4186
+Operativsystemer
+TDT4195
+Grunnleggende visuell databehandling
+TDT4205
+Kompilatorteknikk
+TDT4213
+Kliniske informasjons- og kunnskapssystemer
+TDT4225
+Store, distribuerte datamengder
+TDT4230
+Grafikk og visualisering
+TDT4237
+Programvaresikkerhet
+TDT4240
+Programvarearkitektur
+TDT4242
+Avansert programvareutvikling
+TDT4245
+Samhandlingsteknologi og sosiale medier
+TDT4252
+Virksomhets-arkitektur og -innovasjon
+TDT4255
+Datamaskinkonstruksjon
+TDT4257
+Digital tjenesteinnovasjon
+TDT4258
+Maskinnær programmering
+TDT4260
+Datamaskinarkitektur
+TDT4290
+Kundestyrt prosjekt
+TDT4295
+Datamaskinprosjekt
+TDT4300
+Datavarehus og datagruvedrift
+TDT4305
+Big Data-arkitektur
+TDT4501
+Datateknologi, fordypningsprosjekt
+TDT4506
+Datateknologi, fordypningsemne
+TDT4850
+Eksperter i team - Software for Sustainable Development and Innovation
+TDT4860
+Eksperter i team - Digitale tvillinger
+TDT4900
+Datateknologi, masteroppgave
+TEGN1100
+Norsk tegnspråk 1
+TEGN1102
+Språk  multimodal kommunikasjon
+TEGN1103
+Norsk tegnspråk 2
+TEGN1104
+Døve i verden 2
+TEGN1105
+Tegnspråklingvistikk
+TEGN2000
+Norsk tegnspråk 3, med praksis
+TEGN2001
+Språk og kommunikasjon i teori og praksis 1
+TEGN2002
+Profesjonskunnskap og tolketeori 1
+TEGN2003
+Språk og kommunikasjon i teori og praksis 2
+TEGN2004
+Profesjonskunnskap og tolketeori 2
+TEGN2005
+Tolking med praksis 1
+TEGN2006
+Språk og kommunikasjon i teori og praksis 3
+TEGN2007
+Profesjonskunnskap og tolketeori 3
+TEGN2008
+Tolking med praksis 2
+TEGN2009
+Tolking med praksis 3
+TEGN2010
+Bacheloroppgave i norsk tegnspråk og/ eller tolking
+TEGN6002
+Innføring i norsk tegnspråk 3
+TEGN6003
+Innføring i norsk tegnspråk 4
+TEK1000
+Innføring i teknologi
+TEK1002
+Dataassistert design 
+TEK1312
+Materiallære
+TEK1313
+Idéutvikling og visualisering
+TEK1315
+Form og tredimensjonal modellutvikling
+TEK2001
+Elementmetoden
+TEK2012
+Materiallære II Plast og kompositt
+TEK2021
+Styrkeberegning
+TEK2071
+Utviklingsprosjekt, Læring i Bedrift (LIB)
+TEK2112
+Universell utforming I
+TEK2113
+Materiallære II - Plast og kompositt
+TEK2114
+Dataassistert design 1
+TEK2116
+Produksjonsmetoder 
+TEK2117
+Produktdesign - Forholdet mellom menneske, form og funksjon
+TEK2118
+Digital formutvikling
+TEK2119
+Produktutvikling for læringsfabrikk
+TEK2120
+Universell utforming og designmetodikk
+TEK3011
+Design av dynamisk påkjente konstruksjoner
+TEK3104
+Bærekraftig innovasjon i intraprenørskap
+TEK3105
+Entreprenørskap 
+TEK3108
+Utviklingsprosjekt, Læring i FoU prosjekt (LIFU)
+TEK3109
+EcoDesign 1
+TELE2003
+Signalbehandling
+TELE2004
+Anvendt elektronikk
+TELE2005
+Elektriske lavspentinstallasjoner
+TELE2007
+Kraftelektronikk og motordrifter
+TELE2011
+Anvendt instrumentering
+TELE3003
+Industriell automatisering
+TELE3011
+Ingeniørfaglig systemtenkning
+TELE3012
+Avanserte sensorsystemer
+TELE3014
+Apparat- og kontrollanlegg
+TEP4100
+Fluidmekanikk
+TEP4110
+Fluidmekanikk
+TEP4112
+Turbulente strømninger
+TEP4120
+Termodynamikk 1
+TEP4125
+Termodynamikk 2
+TEP4130
+Varme- og massetransport
+TEP4135
+Fluidmekanikk 2
+TEP4156
+Viskøse strømninger og grensesjikt
+TEP4165
+Numerisk varme- og strømningsteknikk
+TEP4170
+Varme- og forbrenningsteknikk
+TEP4175
+Design av en vindturbin
+TEP4185
+Naturgassteknologi
+TEP4195
+Turbomaskiner
+TEP4200
+Konstruksjon, drift og vedlikehold av hydrauliske strømningsmaskiner
+TEP4215
+Energiutnyttelse og prosessintegrasjon i industrielle anlegg
+TEP4220
+Forståelse og kvantifisering av miljøpåvirkninger på økosystemer
+TEP4223
+Livssyklusanalyse
+TEP4225
+Energi og miljø
+TEP4235
+Energibruk i bygninger
+TEP4245
+Klimateknikk
+TEP4255
+Varmepumpende prosesser og systemer
+TEP4280
+Introduksjon til numerisk strømningsberegning
+TEP4295
+Miljøanalyse og industriell økologi
+TEP4300
+Klimavern
+TEP4305
+Industriell økologi, seminar - kritisk gjennomgang og formidling av vitenskap
+TEP4315
+Inneklima
+TEP4560
+Energi og miljø, fordypningsprosjekt
+TEP4565
+Energibruk og energiplanlegging - Varmeenergi, fordypningsemne
+TEP4570
+Energiplanlegging og miljøanalyse, fordypningsprosjekt
+TEP4575
+Energiplanlegging og miljøanalyse, fordypningsemne
+TEP4851
+Eksperter i team - Smart energibruk
+TEP4853
+Eksperter i team - Vannkraft for fremtiden
+TET4110
+Elektriske maskiner og elektromagnetisk energiomforming
+TET4115
+Elektriske kraftsystemer
+TET4120
+Elektriske motordrifter
+TET4130
+Overspenninger
+TET4160
+Høyspenningsisolasjon
+TET4170
+Elektroinstallasjoner
+TET4180
+Stabilitet og regulering i elkraftsystemer
+TET4185
+Kraftmarkeder, ressurs og miljø
+TET4190
+Kraftelektronikk
+TET4195
+Høyspenningsanlegg
+TET4215
+Vern og kontrollanlegg i kraftsystemet
+TET4510
+Elektrisk energi, fordypningsprosjekt
+TET4520
+Elektrisk energiteknikk og energisystemer, fordypningsprosjekt
+TET4853
+Eksperter i team - Solar and Storage – Digital Electrical Energy for Emerging Countries and Future Power Systems
+TET4854
+Eksperter i team - Elektrifisering av norsk sokkel – grønn olje- og gassproduksjon
+TET4900
+Elektrisk energiteknikk og smarte nett, masteroppgave
+TET4905
+Energi og miljø, masteroppgave
+TET4910
+Elkraftteknikk, masteroppgave
+TET4915
+Energiplanlegging og miljøanalyse, masteroppgave
+TET4920
+Electric Power Systems, Master&#x27;s Thesis
+TET5500
+Elkraftteknikk, fordypningsprosjekt
+TF201307
+Drift og vedlikehold av skip
+TFE4101
+Krets- og digitalteknikk
+TFE4120
+Elektromagnetisme
+TFE4130
+Bølgeforplantning
+TFE4141
+Design av digitale system 1
+TFE4146
+Halvlederkomponenter
+TFE4152
+Design av integrerte kretser
+TFE4166
+Fotonikk II
+TFE4168
+Avansert nanoelektronikk
+TFE4169
+Nanoelektronikk
+TFE4171
+Design av digitale system 2
+TFE4172
+Grunnlag for faststoffelektronikk
+TFE4187
+Analog CMOS 1
+TFE4202
+Sensorsystemer - design 1
+TFE4204
+Sensorsystemer - design 2
+TFE4205
+Studentdefinert innovasjonsprosjekt
+TFE4208
+Innvevde systemer designprosjekt
+TFE4850
+Eksperter i team - Romteknologi - Vil du se på jordkloden, eller dyrke grønnsaker på Mars?
+TFE4852
+Eksperter i team - Bærekraftig IoT
+TFE4930
+Electronic Systems Design, masteroppgave
+TFE4940
+Elektronisk systemdesign og innovasjon, masteroppgave
+TFNE2001
+Termodynamikk
+TFNE2004
+Vindenergi
+TFOR0101
+Matematikk
+TFOR0102
+Fysikk
+TFOR0103
+Kommunikasjon og norsk
+TFOR0104
+Teknologi og samfunn
+TFOR0106
+Matematikk
+TFOR0107
+Fysikk
+TFY4104
+Fysikk
+TFY4106
+Fysikk
+TFY4107
+Fysikk
+TFY4115
+Fysikk
+TFY4125
+Fysikk 
+TFY4165
+Termisk fysikk
+TFY4190
+Instrumentering
+TFY4195
+Optikk
+TFY4205
+Kvantemekanikk II
+TFY4215
+Innføring i kvantefysikk
+TFY4220
+Faste stoffers fysikk
+TFY4225
+Kjerne- og strålingsfysikk
+TFY4230
+Statistisk fysikk
+TFY4235
+Numerisk fysikk
+TFY4240
+Elektromagnetisk teori
+TFY4255
+Materialfysikk
+TFY4265
+Biofysiske mikroteknikker
+TFY4275
+Klassisk transportteori
+TFY4280
+Signalanalyse
+TFY4300
+Energi- og miljøfysikk
+TFY4305
+Ikkelineær dynamikk
+TFY4310
+Molekylær biofysikk
+TFY4315
+Strålingsbiofysikk
+TFY4330
+Nanoverktøy
+TFY4335
+Bionanovitenskap
+TFY4340
+Nanofysikk
+TFY4345
+Klassisk mekanikk
+TFY4350
+Nanoteknologi, introduksjon
+TFY4500
+Biofysikk, fordypningsprosjekt
+TFY4505
+Biofysikk, fordypningsemne
+TFY4510
+Fysikk, fordypningsprosjekt
+TFY4515
+Fysikk, fordypningsemne
+TFY4520
+Nanoteknologi, fordypningsprosjekt 
+TFY4525
+Bionanoteknologi, fordypningsemne
+TFY4530
+Solcellesystemer og materialer, fordypningsprosjekt
+TFY4550
+Fysikk, prosjekt
+TFY4560
+Fysikk, prosjekt
+TFY4561
+Fysikk, prosjekt
+TFY4851
+Eksperter i team - Aluminium for en lettere verden
+TFY4905
+Nanoteknologi, masteroppgave
+TFY4910
+Biofysikk, masteroppgave
+TGB4112
+Norges geologi og georessurser
+TGB4115
+Mineralforekomstgeologi
+TGB4120
+Malmforekomstmodellering
+TGB4130
+Petrologi 
+TGB4135
+Bassenganalyse
+TGB4160
+Petroleumsgeologi
+TGB4165
+Sedimentologi og stratigrafi
+TGB4170
+Diagenese/reservoarkvalitet
+TGB4190
+Ingeniørgeologi - Berg, videregående kurs
+TGB4200
+Ingeniørgeologi - Løsmasser, videregående kurs
+TGB4205
+Hydrogeologi
+TGB4210
+Bergmekanikk og geoteknikk, grunnkurs
+TGB4212
+Bergmekanikk, videregående kurs
+TGB4216
+Mineralressursforvaltning, grunnleggende kurs
+TGB4227
+Mineralproduksjon, grunnkurs
+TGB4240
+Prosessmineralogi
+TGB4246
+Gruvedrift, videregående kurs
+TGB4250
+Produksjon av tilslagsmaterialer
+TGB4255
+Mineralressursforvaltning, videregående kurs
+TGB4260
+Numerisk analyse for bergteknikk
+TGB4265
+Strukturgeologi, videregående kurs
+TGB4270
+Miljøaspekter ved mineralproduksjon
+TGB4280
+Geofysisk utforskning av naturressurser
+TGB4286
+Petrofysiske teknikker i eksperimentell geofysikk
+TGB4290
+Skredprosesser
+TGB4300
+Oppredning, videregående kurs
+TGB4575
+Ingeniørgeologi, fordypningsemne
+TGB4580
+Mineralproduksjon og teknisk ressursgeologi, fordypningsprosjekt
+TGB4585
+Mineralproduksjon og teknisk ressursgeologi, fordypningsemne
+TGB4855
+Eksperter i team - Femten somre og syv vintre i bakken - energilagring
+TGB4950
+Mineralproduksjon og teknisk ressursgeologi, masteroppgave
+TGB5110
+Ingeniørgeologi og tunnelbyggeteknikk, grunnkurs
+TIF410
+Prosjektfinansiering
+TIØ4101
+Organisasjonsteori og selskapsrett
+TIØ4105
+Industriell økonomisk styring
+TIØ4118
+Industriell økonomisk analyse
+TIØ4120
+Operasjonsanalyse, grunnkurs
+TIØ4126
+Optimering og beslutningsstøtte for teknisk-økonomisk planlegging
+TIØ4130
+Optimeringsmetoder med teknisk-økonomiske anvendelser
+TIØ4136
+IKT økonomi - Planlegging og Økonomi av IKT tjenester
+TIØ4140
+Prosjektfinans og -analyse
+TIØ4145
+Finansstyring for foretak
+TIØ4146
+Finans for teknisk-naturvitenskapelige studenter
+TIØ4150
+Industriell optimering og beslutningsstøtte
+TIØ4161
+Prosjekt- og personalledelse
+TIØ4165
+Markedsføringsledelse for teknologibedrifter
+TIØ4175
+Innkjøps- og logistikkledelse
+TIØ4180
+Innovasjonsledelse og strategi
+TIØ4186
+Arbeidsmiljø
+TIØ4195
+Miljøledelse og bedriftsstrategi
+TIØ4200
+Sikkerhetsledelse
+TIØ4203
+Sikkerhetsstyring i bygg- og anleggsprosjekter
+TIØ4205
+Metoder og verktøy i sikkerhetsstyring
+TIØ4215
+Kontraktsrett og kontraktsforhandlinger
+TIØ4235
+Industriell markedsføring og internasjonal handel
+TIØ4252
+Teknologiledelse
+TIØ4253
+Teknologiledelse for arkitektur- og designfag
+TIØ4265
+Strategisk ledelse
+TIØ4276
+Endringsledelse 
+TIØ4285
+Produksjons- og nettverksøkonomi
+TIØ4295
+Bedriftsøkonomi
+TIØ4300
+Miljøkunnskap, økosystemtjenester og bærekraft
+TIØ4317
+Empiriske og kvantitative metoder i finans
+TIØ4330
+Idésøk og markedsundersøkelser
+TIØ4345
+Ledelse av bedriftsrelasjoner og -nettverk
+TIØ4351
+Yrkeshygiene
+TIØ4370
+Entreprenørielle muligheter og analyse
+TIØ4547
+Strategisk endringsledelse, fordypningsemne
+TIØ4567
+Strategi, innovasjon og internasjonal forretningsutvikling, fordypningsemne
+TIØ4851
+Eksperter i team - Kommersialisering av teknologi
+TIØ4853
+Eksperter i team - Grønn verdiskapning og samfunnsansvar 
+TIØ4855
+Eksperter i team - Renewable Energy Management
+TIØ4856
+Bærekraftig innovasjon i industriklynge
+TIØ4857
+Eksperter i team - Bidrar NTNU til bærekraft? Hvordan eller hva må endres?
+TIØ4859
+Eksperter i team - Innovasjon for en bedre verden
+TIØ5200
+Prosjektorganisasjoner
+TK8103
+Ulineære systemer VK
+TK8111
+System og reguleringsteori
+TK8117
+Multivariat dataanalyse - videregående emner
+TKJ4130
+Organisk syntese, laboratorium
+TKJ4150
+Organisk syntese I
+TKJ4162
+Fysikalsk kjemi: Kjemisk termodynamikk
+TKJ4170
+Kvantekjemi
+TKJ4175
+Kjemometri
+TKJ4200
+Irreversibel termodynamikk
+TKJ4205
+Molekylmodellering
+TKJ4215
+Statistisk termodynamikk i kjemi og biologi
+TKJ4510
+Anvendt teoretisk kjemi, fordypningsprosjekt
+TKJ4520
+Organisk kjemi, fordypningsprosjekt
+TKJ4530
+Nanoteknologi, fordypningsprosjekt
+TKJ4540
+Analytisk kjemi, fordypningsprosjekt
+TKJ4900
+Kjemi, masteroppgave
+TKJ4905
+Nanoteknologi, masteroppgave
+TKJE1002
+Generell kjemi
+TKJE1006
+Generell kjemi
+TKJE1007
+Organisk kjemi og biomolekyler 1
+TKJE2002
+Fysikalsk kjemi
+TKJE2003
+Kjemisk analyse 1
+TKJE2004
+Biokjemi/mikrobiologi
+TKJE2005
+Bioteknologi 1
+TKJE2006
+Kjemiteknikk
+TKJE3004
+Stoffseparasjon og prosesskjemi
+TKJE3007
+Ingeniørfaglig systemtenking
+TKJE3008
+Introduksjon til olje- og gassindustrien
+TKJE3010
+Kromatografi med fordypning
+TKP4100
+Strømning og varmetransport
+TKP4105
+Separasjonsteknikk
+TKP4107
+Kjemiteknisk termodynamikk
+TKP4110
+Kjemisk reaksjonsteknikk
+TKP4115
+Overflate- og kolloidkjemi
+TKP4120
+Prosessteknikk
+TKP4130
+Polymerkjemi 
+TKP4135
+Kjemisk prosess-system teknikk
+TKP4140
+Prosessregulering
+TKP4145
+Reaktorteknologi
+TKP4150
+Industriell kjemi og raffinering
+TKP4155
+Reaksjonskinetikk og katalyse
+TKP4160
+Transportprosesser
+TKP4165
+Prosessutforming
+TKP4170
+Prosjektering av prosessanlegg
+TKP4171
+Prosjektering av prosessanlegg
+TKP4180
+Biodrivstoff og bioraffinering
+TKP4190
+Fabrikasjon og anvendelse av nanomaterialer
+TKP4195
+Bio-system teknologi
+TKP4515
+Katalyse, fordypningsemne 
+TKP4525
+Kolloid- og polymerkjemi, fordypningsemne
+TKP4535
+Miljø- og reaktorteknologi, fordypningsemne
+TKP4555
+Prosess-systemteknikk, fordypningsemne
+TKP4580
+Kjemisk prosessteknologi, fordypningsprosjekt
+TKP4581
+Kjemisk prosessteknologi, fordypningsprosjekt
+TKP4850
+Eksperter i team - Biofuels - a Solution or a Problem?
+TKP4852
+Eksperter i team - Bærekraftig prosessindustri
+TKT4102
+Dynamikk
+TKT4108
+Konstruksjonsdynamikk 2
+TKT4116
+Mekanikk 1
+TKT4122
+Mekanikk 2
+TKT4123
+Mekanikk 2
+TKT4126
+Mekanikk
+TKT4134
+Mekanikk 4
+TKT4135
+Materialmekanikk
+TKT4140
+Numeriske beregninger
+TKT4145
+Elementmetoden i ingeniørvitenskap
+TKT4170
+Stålkonstruksjoner 1
+TKT4175
+Betongkonstruksjoner 1
+TKT4180
+Konstruksjonsmekanikk - Beregningsmetoder
+TKT4201
+Konstruksjonsdynamikk
+TKT4211
+Trekonstruksjoner 1
+TKT4215
+Betongteknologi 1
+TKT4540
+Nanoteknologi, fordypningsprosjekt
+TKT4851
+Eksperter i team - Betonginnovasjon
+TKT4854
+Eksperter i team - Nanomekanikk
+TKT4930
+Nanoteknologi, masteroppgave
+TKT4950
+Konstruksjonsteknikk, masteroppgave
+TLOG1001
+Transportlogistikk, fabrikkplanlegging, og miljø
+TLOG2007
+Prosjektledelse
+TLOG2008
+Lean produksjon og kvalitetsstyring
+TLOG2009
+Operasjonsanalyse og simulering i logistikk
+TLOG2010
+Driftslogistikk og risikostyring
+TLOG2011
+Logistikkteknologi og digitalisering
+TLOG3010
+Ledelse av integrerte verdikjeder
+TMA4100
+Matematikk 1
+TMA4101
+Matematikk 1
+TMA4105
+Matematikk 2
+TMA4106
+Matematikk 2
+TMA4110
+Matematikk 3
+TMA4115
+Matematikk 3
+TMA4120
+Matematikk 4K
+TMA4125
+Matematikk 4N
+TMA4130
+Matematikk 4N
+TMA4135
+Matematikk 4D
+TMA4145
+Lineære metoder
+TMA4150
+Algebra 
+TMA4160
+Kryptografi
+TMA4165
+Differensialligninger og dynamiske systemer
+TMA4170
+Fourieranalyse
+TMA4175
+Kompleks analyse
+TMA4183
+Optimering 2
+TMA4185
+Kodeteori
+TMA4190
+Introduksjon til topologi
+TMA4192
+Differensialtopologi
+TMA4195
+Matematisk modellering
+TMA4205
+Numerisk lineær algebra
+TMA4212
+Numerisk løsning av differensialligninger med differansemetoder
+TMA4215
+Numerisk matematikk
+TMA4220
+Numerisk løsning av partielle differensialligninger med elementmetoden
+TMA4230
+Funksjonalanalyse
+TMA4240
+Statistikk
+TMA4245
+Statistikk
+TMA4250
+Romlig statistikk
+TMA4255
+Anvendt statistikk
+TMA4265
+Stokastisk modellering
+TMA4267
+Lineære statistiske modeller
+TMA4268
+Statistisk læring
+TMA4275
+Levetidsanalyse
+TMA4285
+Tidsrekker
+TMA4295
+Statistisk inferens
+TMA4300
+Beregningskrevende statistiske metoder
+TMA4305
+Partielle differensialligninger
+TMA4320
+Introduksjon til vitenskapelige beregninger
+TMA4851
+Eksperter i team - Dataoverflod - Hva kan vi lære fra en masse data?
+TMA4852
+Eksperter i team - Global oppvarming 
+TMAK1002
+Grunnleggende materialteknologi 
+TMAK2003
+Korrosjon
+TMAK2006
+Materialteknologi 2
+TMAK2007
+Varme og massetransport
+TMAK2008
+Materialteknologi 3
+TMAK3004
+Materialteknologi 4
+TMAS2001
+Vedlikehold og driftssikkerhet
+TMAS2008
+Produksjonsteknikk
+TMAS2009
+Konstruksjonsteknikk 2
+TMAS2012
+Sanitær og husbygging
+TMAS2013
+Varme- og kjøleteknikk
+TMAS3001
+Bacheloroppgave maskin
+TMAS3002
+Ingeniørfaglig systemtenking
+TMAS3003
+VVS prosjektering
+TMAS3004
+Sammenføyning og sveiseteknikk
+TMAS3006
+Prosjektering  av rørsystem
+TMAT1002
+Generell kjemi
+TMAT1003
+Matematikk
+TMAT1010
+Prosessteknologi
+TMAT1012
+Intromat med sensorikk
+TMAT2002
+Ernæring
+TMAT2004
+Statistikk
+TMAT2005
+Produktutvikling og sensorisk analyse - brygging av håndverksøl
+TMAT201P
+Praksisstudier
+TMAT3001
+Matmikrobiologi
+TMAT3002
+Matteknologi
+TMAT3003
+Mattrygghet og kvalitetsledelse
+TMAT3004
+Bacheloroppgave
+TMAT3006
+Grunnleggende bedriftsøkonomi og innføring i organisasjonsteori
+TMAT4850
+Eksperter i team - The Future of Your Meal
+TMET410
+Kvalitativ og kvantitativ metode
+TMM4100
+Materialteknikk 
+TMM4112
+Maskindeler
+TMM4115
+Produktmodellering
+TMM4121
+Produktutvikling 
+TMM4135
+Dimensjonering basert på elementmetoden, grunnkurs
+TMM4140
+Materialers mekaniske oppførsel
+TMM4150
+Maskinkonstruksjon og mekatronikk
+TMM4151
+Produkt- og materialtesting
+TMM4155
+Anvendelse av elementmetoden i maskinkonstruksjon
+TMM4160
+Bruddmekanikk
+TMM4167
+Ikke-destruktive teknikker og overvåking av strukturell levetid
+TMM4170
+Korrosjon
+TMM4175
+Plastkompositter
+TMM4182
+Forming og støping av metaller
+TMM4195
+Dimensjonering mot utmatting
+TMM4205
+Tribologi og overflateteknikk
+TMM4220
+Innovasjon ved Design Thinking
+TMM4245
+Fuzzy Front End
+TMM4250
+Avansert produktsimulering
+TMM4270
+Automatisering i ingeniørarbeid, introduksjon
+TMM4275
+Automatisering i ingeniørarbeid, prosjekt
+TMM4280
+Avansert produktutvikling 
+TMM4285
+Livsløpsytelse for aluminiumsprodukter
+TMM4400
+Produktutvikling, prosjekt
+TMM4940
+Nanoteknologi, masteroppgave
+TMM4960
+Produktutvikling og materialer, masteroppgave
+TMMT4001
+Bærekraftig matproduksjon
+TMMT4004
+Anvendt matmikrobiologi og bioteknologi
+TMMT4006
+Trygg matproduksjon
+TMMT4007
+Risikostyring og mattrygghet
+TMMT5001
+Rammebetingelser for matindustrien
+TMMT5002
+Produksjonseffektivitet, innovasjon og produktutvikling
+TMMT5004
+Masteroppgave i mat og teknologi
+TMR4105
+Marin teknikk - Grunnlag
+TMR4115
+Prosjekteringsmetoder
+TMR4130
+Risikoanalyse og sikkerhetsledelse i maritim transport
+TMR4135
+Prosjekteringsmetoder 2: Spesialfartøy
+TMR4137
+Bærekraftig utnyttelse av marine ressurser
+TMR4141
+Havbrukskonstruksjoner
+TMR4150
+Fartøyprosjektering
+TMR4167
+Marin teknikk  - Konstruksjoner
+TMR4170
+Marine konstruksjoner
+TMR4182
+Marin dynamikk
+TMR4190
+Elementmetoden anvendt i konstruksjonsanalyse
+TMR4195
+Havkonstruksjoner
+TMR4200
+Utmatting og brudd i marine konstruksjoner
+TMR4205
+Knekking og sammenbrudd av marine konstruksjoner i stål og aluminium
+TMR4215
+Sjøbelastninger
+TMR4217
+Hydrodynamikk for hurtiggående fartøy
+TMR4220
+Skipshydrodynamikk
+TMR4225
+Marine operasjoner
+TMR4230
+Oseanografi
+TMR4235
+Sjøbelastningsstatistikk
+TMR4240
+Marine reguleringssystemer I
+TMR4243
+Marine reguleringssystemer II
+TMR4247
+Marin teknikk  - Hydrodynamikk
+TMR4254
+Prosjektering av marine systemer
+TMR4260
+Driftsteknikk - sikkerhet og vedlikehold
+TMR4275
+Modellering, simulering og analyse av mekatroniske  system
+TMR4290
+Maritime elektriske kraft- og propulsjonssystemer
+TMR4300
+Eksperimentell og numerisk hydrodynamikk
+TMR4305
+Statisk og dynamisk analyse av marine konstruksjoner
+TMR4325
+Ingeniørvitenskap og IKT, introduksjon
+TMR4330
+Marint maskineri design
+TMR4335
+Marin teknikk - Propulsjonssystemer, sikkerhet og miljø
+TMR4340
+Marin CFD
+TMR4345
+Marin datalab
+TMR4405
+Minor i havbruk - seminar
+TMR4450
+Sustainable Maritime Technology
+TMR4600
+Forskerlinje, fordypningsprosjekt
+TMR4850
+Eksperter i team - Havromsteknologi
+TMR4853
+Eksperter i team - Havbruk - Teknologi på biologiens premisser
+TMT4106
+Kjemi
+TMT4112
+Kjemi
+TMT4115
+Generell kjemi 
+TMT4122
+Generell og organisk kjemi, laboratoriekurs
+TMT4130
+Uorganisk kjemi
+TMT4145
+Keramisk materialvitenskap
+TMT4155
+Heterogene likevekter og fasediagram
+TMT4166
+Eksperimentell material- og elektrokjemi
+TMT4171
+Innføring i materialvitenskap
+TMT4178
+Anvendt materialteknologi
+TMT4185
+Materialteknologi 
+TMT4208
+Strømning og varmeoverføring, videregående kurs
+TMT4210
+Material- og prosessmodellering
+TMT4222
+Metallenes mekaniske egenskaper
+TMT4240
+Metallenes mikrostruktur og egenskaper
+TMT4242
+Stål offshore
+TMT4245
+Funksjonelle materialer
+TMT4252
+Elektrokjemi
+TMT4253
+Elektrokjemisk prosess- og energiteknologi
+TMT4255
+Korrosjon og korrosjonsbeskyttelse
+TMT4260
+Modellering av fasetransformasjoner 
+TMT4266
+Metallforming - mikrostruktur og krystallplastisitet
+TMT4301
+Materialkarakterisering
+TMT4306
+Metallproduksjon - ferrolegeringer, jern og stål
+TMT4320
+Nanomaterialer
+TMT4322
+Solceller og fotovoltaiske nanostrukturer
+TMT4330
+Ressurser, energi og miljø
+TMT4335
+Karbonmaterialteknologi
+TMT4340
+Materialer og bærekraftig utvikling
+TMT4345
+Materialfremstilling
+TMT4445
+Avanserte funksjonelle materialer
+TMT4515
+Kjemiske metoder for syntese og karakterisering av nanomaterialer, fordypningsemne
+TMT4520
+Solcellesystemer og materialer, fordypningsprosjekt
+TMT4850
+Eksperter i team - A Bright, Strong and Light Future with Materials
+TMT4852
+Eksperter i team - Materials Surfaces – Surface Materials
+TMT4900
+Materialkjemi og energiteknologi, masteroppgave
+TMT4905
+Materialteknologi, masteroppgave
+TMT4910
+Nanoteknologi, masteroppgave
+TMT4915
+Solcellesystemer og materialer, masteroppgave
+TMT4920
+Materialteknologi, masteroppgave
+TN101319
+Mekanikk og fasthetslære
+TN101709
+Navigasjon 2 - navigasjonssystemer
+TN101811
+Navigasjon 1 - Sjøveisregler
+TN101812
+Navigasjon 1 - Terrestrisk
+TN101813
+Navigasjon 1 - Simulator
+TN101815
+Navigasjon 1 - Astronomisk navigasjon
+TN202011
+Lasting, lossing og stuing av last
+TN202811
+Maritim engelsk - språk og kommunikasjon
+TN202908
+Havmiljø
+TN203511
+Skipsteknikk
+TN203611-001
+Navigasjon 3-Seilas og Manøvrering (skriftlig)
+TN203611-002
+Navigasjon 3-Seilas og Manøvrering (simulator)
+TN300115
+Medisinsk behandling
+TN301312
+Maritim kommunikasjon
+TN301804
+DP grunnkurs
+TN302112
+Posisjons og survey system
+TN302409
+Hovedprosjekt
+TN302812
+Drift av ombordbaserte datanettverk
+TN303012
+Navigasjon 4
+TN303212
+Hovedprosjekt
+TN303514
+Offshore Shiphandling
+TPD4100
+Design 1 - Introduksjon
+TPD4102
+Design 2 - Komposisjon
+TPD4105
+Informasjonsteknologi for formgivning og kommunikasjon
+TPD4111
+Estetikk 1: Komposisjon og rom 
+TPD4112
+Estetikk 2: Komposisjon og rytme 
+TPD4113
+Estetikk 3: Kompleks komposisjon
+TPD4114
+Visuell formidling
+TPD4121
+Design 3 - Bruk
+TPD4123
+Mekatronikk for designere
+TPD4126
+Prototyping av interaktive media
+TPD4127
+Design 4 - Produksjon og materialer
+TPD4129
+Design 5 - System
+TPD4134
+Brukergrensesnittdesign
+TPD4142
+Design Thinking
+TPD4144
+Design 6 -  Industriprosjekt
+TPD4153
+Design av strukturell emballasje
+TPD4156
+Design 7 - Tjenestedesign
+TPD4166
+Design 8 - Strategi
+TPD4167
+Informasjonsvisualisering
+TPD4168
+Spilldesign
+TPD4169
+Design for industrialisering
+TPD4185
+Formgivning i tre
+TPD4190
+Designprosjekt
+TPD4195
+Designstudier
+TPD4200
+Bærekraftig design
+TPD4500
+Design 9, fordypningsprosjekt
+TPD4505
+Designteori, fordypningsemne
+TPD4850
+Eksperter i team - Trivsel på ny campus
+TPD4852
+Eksperter i team - Designing in Urban Natures
+TPD4900
+Industriell design, masteroppgave
+TPG4105
+Petroleumsteknologi, grunnkurs
+TPG4112
+Geomekanikk og strømning i porøse medier
+TPG4115
+Bestemmelse av reservoaregenskaper ved laboratoriemålinger og brønntesting
+TPG4120
+Mineral-, ingeniør- og miljøgeofysikk
+TPG4125
+Seismisk bølgeforplantning
+TPG4130
+Seismisk tolkning
+TPG4135
+Produksjonsteknologi - Feltprosessering og -systemer
+TPG4145
+Reservoarfluider og strømning
+TPG4150
+Reservoarutvinningsteknikk
+TPG4160
+Reservoarsimulering
+TPG4162
+3D visualisering av petroleumsdata
+TPG4170
+Reservoarseismikk
+TPG4185
+Formasjonsmekanikk 
+TPG4200
+Undervannsteknologi
+TPG4215
+Boreteknologi  2 
+TPG4230
+Feltutbygging og drift
+TPG4242
+Boreteknologi, videregående kurs 2 - Brønnsikring og -stabilitet
+TPG4245
+Produksjonsbrønner
+TPG4560
+Petroleumsteknologi, fordypningsprosjekt
+TPG4565
+Petroleumsteknologi, fordypningsemne
+TPG4850
+Eksperter i team - VR-landsbyen
+TPG4851
+Eksperter i team - Haltenbanken Village
+TPG4920
+Petroleumsteknologi, masteroppgave
+TPG4925
+Petroleumsgeofag, masteroppgave
+TPK4100
+Produksjonsledelse
+TPK4110
+Kvalitets- og prestasjonsfokusert ledelse
+TPK4115
+Praktisk prosjektledelse
+TPK4120
+Industriell sikkerhet og pålitelighet
+TPK4125
+Mekatronikk
+TPK4126
+Undervannskontrollsystemer
+TPK4131
+Design av industrielle logistikksystem
+TPK4135
+Produksjonslogistikk
+TPK4140
+Driftssikkerhet, vedlikeholdsstyring
+TPK4141
+Innovasjon, design og produksjon 1
+TPK4142
+Innovasjon, design og produksjon 2
+TPK4160
+Verdikjedestyring
+TPK4161
+Verdikjedeanalyse
+TPK4162
+Bærekraftig og teknologisk produksjon og logistikk
+TPK4164
+Skipsbygging og kundespesifikk produksjon
+TPK4165
+ERP og PLM systemer
+TPK4170
+Robotteknikk
+TPK4171
+Avansert industriell robotteknikk
+TPK4180
+Produksjonsstrategi
+TPK4185
+Industriell systemdesign
+TPK4186
+Avanserte verktøy for Performance Engineering
+TPK4190
+Produksjonsteknologi
+TPK4195
+Verkstedteknisk måleteknikk
+TPK4200
+Verdiskaping og bærekraftig forretning gjennom digital transformasjon (DIGTRANS)
+TPK4420
+Fleksibilitet i prosjekter
+TPK4430
+Produksjonsledelse og logistikk
+TPK4440
+Maskinering og additiv tilvirkning
+TPK4450
+Datadrevet prognose og  prediktivt vedlikehold
+TPK4852
+Eksperter i team - Hydrogen i transport for en sikker og bærekraftig framtid 
+TPK4920
+Prosjekt- og kvalitetsledelse, masteroppgave
+TPK4930
+Produksjonsledelse, masteroppgave
+TPK4940
+Produksjonsteknologi, masteroppgave
+TPK4950
+Sikkerhet, pålitelighet og vedlikehold, masteroppgave
+TPK4960
+Robotteknikk og automatisering, masteroppgave
+TPK5100
+Praktisk prosjektledelse
+TPK5115
+Risikostyring i prosjekter
+TPK5120
+Grunnleggende modellutvikling
+TPK5160
+Risikoanalyse
+TPK5165
+Pålitelighetsstyring og dataanalyse
+TPK5170
+Design og pålitelighetsvurdering av digitaliserte sikkerhetssystemer
+TR100310
+Matematikk 1N
+TR100419
+Matematikk 2N
+TS100214
+Prosjektledelse I
+TS100316
+Sjøtransport
+TS100419
+Sjøforsikring og avtale/kontraktsrett
+TS200214
+Maritime innkjøp 
+TS200314
+Bærekraftig maritim logistikk 
+TS200416
+Risikohåndtering
+TS200516
+Teori og metode
+TS200617
+Budsjettering og kalkyle
+TS300514
+Prosjektledelse III
+TS300616
+HRM
+TS300717
+Strategi
+TS300819
+Digital shipping
+TS301111
+Operasjon av avanserte fartøy
+TS500213
+Integrerte operasjoner II: Risikohåndtering
+TS500713
+MSc thesis, professional master
+TS500915
+Project Management
+TS501115
+Scientific theory and methods
+TS501318
+Profesjonsutøvelse og organisasjon
+TS501418
+Operasjonsledelse og fleksibilitet
+TS8001
+Maritime Systems Design and Methods
+TSOL410
+Teknologibasert forretningsutvikling
+TSOL425
+Teamledelse og teknologi
+TSOL550
+Negotiations
+TT3010
+Audioteknologi og romakustikk
+TT8108
+Doktorgradsseminar i signalbehandling
+TT8111
+Signal- og estimeringsteori
+TT8112
+Informasjonsteori, koding og kompresjon
+TT8302
+Romakustikk
+TT8303
+Numeriske metoder i akustikk
+TT8307
+Teoretisk akustikk
+TT8308
+Doktorgradsseminar i akustikk
+TTK4100
+Kybernetikk, introduksjon
+TTK4101
+Instrumentering og måleteknikk
+TTK4105
+Reguleringsteknikk
+TTK4115
+Lineær systemteori
+TTK4130
+Modellering og simulering
+TTK4135
+Optimalisering og regulering
+TTK4147
+Sanntidssystemer
+TTK4150
+Ulineære systemer
+TTK4155
+Industrielle og innbygde datasystemers konstruksjon
+TTK4175
+Instrumenteringssystemer
+TTK4190
+Fartøystyring
+TTK4210
+Avansert regulering av industrielle prosesser
+TTK4215
+Adaptiv regulering
+TTK4225
+Systemteori, grunnkurs
+TTK4230
+Automatiseringsteknikk
+TTK4235
+Tilpassede datasystemer
+TTK4240
+Industriell elektroteknikk
+TTK4250
+Sensorfusjon
+TTK4255
+Robotsyn
+TTK4260
+Innføring i multivariat datamodellering
+TTK4265
+Optisk fjernmåling
+TTK4550
+Teknisk kybernetikk, fordypningsprosjekt
+TTK4551
+Teknisk kybernetikk, fordypningsprosjekt
+TTK4555
+Teknisk kybernetikk, fordypningsemne
+TTK4850
+Eksperter i team - Automatisering og samfunnet
+TTK4851
+Eksperter i team - Autoferge
+TTK4852
+Eksperter i team - Maskinlæring
+TTK4900
+Teknisk kybernetikk, masteroppgave
+TTM4100
+Kommunikasjon - Tjenester og nett
+TTM4105
+Aksess- og transportnett
+TTM4110
+Pålitelighet og ytelse med simulering
+TTM4115
+Design av kommuniserende systemer
+TTM4128
+Nett- og tjenesteadministrasjon
+TTM4133
+Mobile nett og tjenester
+TTM4135
+Anvendt kryptografi og nettverksikkerhet
+TTM4158
+Pålitelighets- og ytelsesdesign
+TTM4160
+Design av cyber-fysiske systemer
+TTM4165
+Digital økonomi
+TTM4175
+Introduksjon til kommunikasjonsteknologi og digital sikkerhet
+TTM4180
+Nettverkshåndtering
+TTM4185
+Sikkerhet og robusthet i IKT system
+TTM4190
+Kommunikasjonsteknologi for SmartGrid
+TTM4195
+Blokkjede-teknologier og kryptovalutaer
+TTM4200
+Datanettverk
+TTM4502
+Kommunikasjonsteknologi, fordypningsprosjekt
+TTM4517
+Avanserte tema innen nett og kommunikasjonstjenester - Nettsystemer, fordypningsemne 
+TTM4536
+Etisk hacking - Informasjonssikkerhet, fordypningsemne
+TTM4548
+Digital forretningsvirksomhet, juss og regulering, fordypningsemne
+TTM4850
+Eksperter i team - Framtidens brukeropplevelser i en hverdag preget av digitalisering
+TTM4905
+Kommunikasjonsteknologi, masteroppgave
+TTT4120
+Digital signalbehandling
+TTT4130
+Digital kommunikasjon
+TTT4135
+Multimedia - signalbehandling
+TTT4170
+Audioteknologi
+TTT4175
+Marin akustikk
+TTT4180
+Teknisk akustikk
+TTT4197
+Musikkakustikk og -teknologi
+TTT4201
+Radiosystemdesign og RF/Mikrobølge måleteknikk
+TTT4203
+Innføring i analog og digital elektronikk
+TTT4215
+Antenneteknikk
+TTT4234
+Romteknologi I
+TTT4235
+Romteknologi II
+TTT4250
+Akustisk måleteknikk
+TTT4255
+Elektronisk systemdesign, grunnkurs
+TTT4270
+Elektronisk systemdesign, prosjekt
+TTT4280
+Sensorer og instrumentering
+TTT4285
+Akustikk i bygget miljø
+TTT4850
+Eksperter i team - Lyd i hverdagen - Helsefremmende eller skadelig?
+TTT4851
+Eksperter i team - Radio waves – perceived or real health threat?
+TVB4105
+Geodata for byggeprosesser
+TVB4110
+Digital bygningsinformasjon
+TVB4500
+Digitale byggeprosesser, fordypningsprosjekt
+TVB4505
+Digitale byggeprosesser, fordypningsemne
+TVB4900
+Digitale byggeprosesser, masteroppgave
+TVM4101
+BM2 Vann og miljø
+TVM4105
+Hydrologi
+TVM4106
+Hydrologisk modellering
+TVM4125
+Vannforsynings- og avløpsteknikk, grunnkurs
+TVM4130
+Urbane vannsystemer
+TVM4141
+Vannforsynings- og avløpssystemer, videregående kurs
+TVM4174
+Hydroinformatikk for smarte vannsystemer
+TVM4177
+Mikrobiologi og miljø
+TVM4510
+Vannforsynings- og avløpsteknikk, fordypningsprosjekt
+TVM4905
+Vannforsynings- og avløpsteknikk, masteroppgave
+TVM5135
+Vannkraftplanlegging
+TVM5171
+Modellering av vannressurser
+TYSK0503
+Tysk i tekst og tale
+TYSK1003
+Språkferdighet 1
+TYSK1101
+Tysk grammatikk 1
+TYSK1102
+Tysk grammatikk 2
+TYSK1305
+Språkferdighet 2
+TYSK1401
+Tysk litteratur og kultur 1
+TYSK1402
+Tysk litteratur og kultur 2
+TYSK2101
+Tysk grammatikk 3
+TYSK2301
+Språkferdighet 3
+TYSK2401
+Tyskland og Europa
+TYSK2404
+Fleksibelt fordypningsemne
+TYSK2900
+Bacheloroppgave i tysk
+TYSK3302
+Oversettelse
+TYSK3401
+Spesialiseringsemne
+TYSK3700
+Felles seminaremne i tyskspråklig litteratur 
+TYSK3900
+Masteroppgave i tysk
+TYSK3901
+Masteroppgave i tysk
+TØL1011
+Ingeniørfaglig systememne
+TØL3903
+Bacheloroppgave CERN
+TØL4007
+Product Development
+TØL4009
+Zero Defect Manufacturing
+TØL4010
+Sustainability Assessment
+TØL4012
+Sustainable Manufacturing Technology
+TØL4013
+Industry 4.0
+TØL4014
+Sustainable Manufacturing Systems
+TØL4015
+Project work
+TØL4018
+Renewable Energy Technology
+TØL4020
+Introduction to Modelling and Simulation for Sustainable Manufacturing
+TØL4025
+Eksperter i team - Sustainable Factory of the Future
+TØL4082
+Project Work for Exchange Students
+TØL4204
+Flexible Automation and Artificial Intelligence
+TØL4902
+Master&#x27;s Thesis-Sustainable Manufacturing
+TØS410
+Økonomistyring i teknologibedrifter
+UL6000
+Videreutdanning i ultralyddiagnostikk for jordmødre
+VB6000
+Introduksjon til landmåling og landmålingsinstrumenter
+VB6001
+Landmålingsarbeider for bygg og anlegg
+VB6002
+Dronefotogrammetri I
+VB6101
+Bygningsfysikk
+VB6102
+Materiallære for bygg
+VB6103
+Mekanikk
+VB6104
+Fysikk/kjemi
+VB6105
+Matematiske metoder 2A
+VB6106
+Universell utforming for svaksynte
+VB6107
+Universell utforming i servicenæringen
+VB6108
+Konstruksjonslære
+VB6111
+Introduksjon til ingeniørfag geomatikk
+VB6112
+Modellering og bruk av nasjonale geodata
+VB6113
+Geografisk datafangst
+VB6114
+Prosjektgjennomføringsmodell etter ISO19650
+VB6115
+Introduksjon til Maskinlæring og Semantisk Web for bygg anlegg
+VB6116
+Introduksjon til AR, VR og XR for bygg- og anlegg
+VB6117
+Byggteknikk
+VB8000
+Bærekraftig byggeri med digital prosess
+VB8001
+Sustainable Manufacturing Summer School
+VB8005
+Digital tvilling for bærekraftig vareproduksjon
+VET1001
+Vernepleieren som helsepersonell og profesjonsutøver
+VET1002
+Psykologi og pedagogikk
+VET1003
+Miljøterapeutisk arbeid, kommunikasjon og samhandling
+VET1004
+Praksis 1 - Hverdagsliv og samhandling
+VET1005
+Menneskets anatomi og fysiologi
+VIU8402
+Introduksjon til palliativ omsorg
+VIU8412
+Sykdomsutvikling og symptomlindring innen palliativ omsorg
+VIU8422
+Møte med alvorlig syke,døende og deres familier: etikk, kommunikasjon og relasjoner
+VIU8432
+Kunnskapsutvikling og fordypning
+VL3000
+Vilkår for læring i arbeidsliv og samfunn
+VL3010
+Styring, kompetanse og politikk
+VL3011
+Endring, utvikling og innovasjon i organisasjoner
+VL3012
+Tilrettelegging og organisering av læring for voksne
+VL3013
+Vitenskapelig skriving og design med selvvalgt fordypning
+VL3014
+Tverrfaglige perspektiver på arbeidsliv og samfunn
+VL3900
+Masteroppgave i voksnes læring
+VLR1000
+Valg, refleksjon og læring
+VLR1001
+Voksnes læring i et utdanningspolitisk perspektiv
+VLR1002
+Voksnes læring: mangfold og inkludering
+VLR1003
+Grunnleggende perspektiver i rådgivning
+VLR1004
+Karriere og livsløp
+VLR1005
+Rådgivning i et helhetlig  gruppeperspektiv
+VLR1006
+Læring og endring i arbeidslivet
+VLR2900
+Bacheloroppgave i rådgivning og voksnes læring
+VLR3008
+Fordypning i forskningsmetode knyttet til rådgivningsvitenskap og voksnes læring 
+VM8105
+Hydrologi, avansert kurs
+VM8202
+Overvannshåndtering
+VPH3012
+Veiledet praksis i kommunal sykepleietjeneste
+VPK2002
+Veiledet praksis i kirurgisk sykepleie
+VPK2002D
+Veiledet praksis i kirurgisk sykepleie
+VPK2012
+Veiledet praksis i kirurgisk sykepleie
+VPK2012D
+Veiledet praksis i kirurgisk sykepleie
+VPK3002
+Veiledet praksis i kirurgisk sykepleie 
+VPK3002D
+Veiledet praksis i kirurgisk sykepleie
+VPM2002
+Veiledet praksis i medisinsk sykepleie 
+VPM2002D
+Veiledet praksis i medisinsk sykepleie
+VPM2012
+Veiledet praksis i medisinsk sykepleie 
+VPM2012D
+Veiledet praksis i medisinsk sykepleie 
+VPM3002
+Veiledet praksis i medisinsk sykepleie 
+VPM3002D
+Veiledet praksis i medisinsk sykepleie 
+VPP2012D
+Veiledet praksis i psykiatrisk sykepleie 
+VPP3002
+Veiledet praksis i psykiatrisk sykepleie 
+VPS1002D
+Veiledet praksis i grunnleggende sykepleie i kommunal heldøgns omsorg 
+YFL1001
+Ledelse av læringsprosesser
+YFL2001
+Veiledning og instruksjon
+YFL2002
+Tilpassa opplæring og vurdering
+YFL2212
+Fagbasert DAK
+YFL2227
+Lean Produksjon og Kvalitetsstyring
+YFL2900
+Bacheloroppgave
+YFL3303
+Ungdom og helse
+YFL4303
+Profesjonsfag, pedagogikk og yrkesdidaktikk: Skolen i samfunnet
+YFL4306
+Pedagogisk og yrkesfaglig praksisopplæring 1
+YFL4307
+Pedagogisk og yrkesfaglig praksisopplæring 2
+YFL4308
+Pedagogisk og yrkesfaglig praksisopplæring 3
+YFL4311
+Profesjonsfag - Yrkesdidaktikk 
+YFL8102
+Mat og helse - matkjemi og ernæring
+YFL8106
+Drikkelære og sensorikk
+YFL8107
+Grunnleggende kjemi og matematikk
+YFL8201
+Konserveringsteknologi
+YFL8203
+Bransjekunnskap
+YFL8207
+Trygg mat - Kvalitetsstyring og lovverk
+YFL8301
+Mat og helse - helse og matkultur
+YFL8304
+Matmikrobiologi
+YFL8305
+Videregående bransjekunnskap
+YFLE1002
+Elektrisitetslære 2
+YFLE2002
+Elektriske maskiner
+YFLF1001
+Matematikk
+YFLF1002
+Innføring i studie- og arbeidsmetoder
+YFLF1005
+Bransjekunnskap
+YFLF1006
+Fysikk
+YFLF2001
+Materiallære og HMS
+YFLF2002
+Effektiv energibruk
+YFLH1001
+Anatomi og fysiologi
+YFLH1002
+Kommunikasjon og samhandling 1
+YFLH1003
+Helsefremmende arbeid 1
+YFLH1004
+Ernæringslære
+YFLH1005
+Yrkesutøving 1
+YFLH2001
+Kommunikasjon og samhandling 2
+YFLH2002
+Kultur og mangfold
+YFLH2004
+Fordypningsoppgave
+YFLH2005
+Yrkesutøving 2
+YFLT1001
+Fagbasert DAK
+YFLT2001
+Fluidteknikk
+YFLT2002
+El-lære
+YFLT2004
+Sammenføyningsteknikk 
+YFLT2005
+Automatisering
+YR6009
+Yrkesfaglig fordypning - yrkesrelevant opplæring, del 2 for yrkesfaglærere
+YR6011
+Konstruksjonsforståelse
+YR6012
+Utviklingstrender i bygg- og anleggsbransjen
+YR6013
+Rehabilitering og fornying
+YR6016
+Tverrfaglige tema for yrkesfaglærere
+YV100817
+Kommunikasjon og norsk
+ØK8000
+Vitenskapsteori og etikk
+ØKO1001
+Ledelse
+ØS410
+Strategisk økonomistyring
+ØS420
+Perspektiver på økonomistyring
