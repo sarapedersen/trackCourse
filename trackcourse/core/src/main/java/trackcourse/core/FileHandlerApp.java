@@ -38,10 +38,15 @@ public class FileHandlerApp {
   }
 
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException {
+    String data = "";
     for (Subject sub : subs) {
       ObjectMapper objectMapper = new ObjectMapper();
       objectMapper.writeValue(new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
+      String subString = objectMapper.writeValueAsString(sub);
+      data += subString + "\n";
     }
+
+    TrackcourseController.writeData(data);
 
   }
 
