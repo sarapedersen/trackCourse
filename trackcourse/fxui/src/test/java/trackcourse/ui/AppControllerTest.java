@@ -1,5 +1,6 @@
 package trackcourse.ui;
 
+import static org.junit.jupiter.api.Assertions.assertNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.io.File;
@@ -14,10 +15,13 @@ import java.util.Scanner;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import org.hamcrest.core.IsNull;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.testfx.api.FxAssert;
+import org.testfx.api.FxRobotContext;
+import org.testfx.api.FxRobotException;
 import org.testfx.framework.junit5.ApplicationTest;
 import org.testfx.matcher.control.ListViewMatchers;
 
@@ -26,7 +30,6 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
@@ -41,8 +44,6 @@ public class AppControllerTest extends ApplicationTest {
     @FXML Slider diffSlider;
     @FXML Slider timeSlider;
     @FXML Slider happySlider;
-    @FXML ListView nameList;
-    @FXML ListView averageList;
     @FXML Button submitButton;
     @FXML Button saveButton;
 
@@ -100,27 +101,29 @@ public class AppControllerTest extends ApplicationTest {
     @Test 
     public void testUpdate(){
         clickOn("#loadButton"); 
-
         clickOn("#nameInput").write("TDT4100");
         controller.diffSlider.setValue(8);
         controller.timeSlider.setValue(8);
         controller.happySlider.setValue(8);
+        clickOn("#submitButton");
+        clickOn("#saveButton");
 
         FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
     }
 
     @Test
     public void testLoad() throws JsonProcessingException, IOException{
-        controller.onLoad();
-        subjects = controller.getSubjects();
-        Assertions.assertEquals(subjects.size(), 1);
+        clickOn("#loadButton");
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
+
     }
 
+   
     @Test
     public void testIncorrectSub(){
         clickOn("#nameInput").write("ABC1234");
-        Boolean visible = submitButton.isVisible(); 
-        assertTrue(!visible);
+        Button btn = submitButton;
+        assertNull(btn);
 
     }
 
