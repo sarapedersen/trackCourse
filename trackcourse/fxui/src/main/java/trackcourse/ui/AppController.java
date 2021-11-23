@@ -91,6 +91,10 @@ public class AppController{
     @FXML
     void onDetails() throws IOException {
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+        if (selected==null){
+            System.out.println("Select a course first");
+            return;
+        }
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
         
