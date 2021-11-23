@@ -3,92 +3,105 @@ package trackcourse.core;
 import java.io.IOException;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import trackcourse.core.Subject;
 
 public class SubjectTest {
+    private Subject testSubject;
+    private String testCode = "TDT4105";
+    private String testName = "ITGK";
+
+    
+    @BeforeEach
+    public void setup() throws IOException {
+        testSubject = new Subject(testCode);
+        testSubject.setFullName(testName);
+    }
 
     @Test
     public void testConstructor() throws IOException {
-        Subject sub = new Subject("TDT4100");
-        Assertions.assertEquals(sub.getCourseCode(), "TDT4100");
-        Assertions.assertEquals(sub.getDifficulty(), 0.0);
-        Assertions.assertEquals(sub.getEntertainment(), 0.0);
-        Assertions.assertEquals(sub.getTimeconsumption(), 0.0);
-        Assertions.assertEquals(sub.getNumDifficulty(), 0);
-        Assertions.assertEquals(sub.getNumEntertainment(), 0);
-        Assertions.assertEquals(sub.getNumTimeconsumption(), 0);
+        testSubject = new Subject("TMA4100");
+        Assertions.assertEquals(testSubject.getCourseCode(), "TMA4100");
+        Assertions.assertEquals(testSubject.getDifficulty(), 0.0);
+        Assertions.assertEquals(testSubject.getEntertainment(), 0.0);
+        Assertions.assertEquals(testSubject.getTimeconsumption(), 0.0);
+        Assertions.assertEquals(testSubject.getNumDifficulty(), 0);
+        Assertions.assertEquals(testSubject.getNumEntertainment(), 0);
+        Assertions.assertEquals(testSubject.getNumTimeconsumption(), 0);
     }
     
+    @Test
+    public void testSetCourseCode(){
+        testSubject.setCourseCode("IT2805");
+        Assertions.assertFalse(testSubject.getCourseCode() == testCode);
+        Assertions.assertEquals(testSubject.getCourseCode(), "IT2805");
+    }
+        
+    // public void testUpdateFunctions() throws IOException {
+    // Subject sub = new Subject("Math");
+    // Assertions.assertEquals(sub.getCourseCode(), "Math");
+    // sub.updateDifficulty(5);
+    // Assertions.assertEquals(sub.getDifficulty(), 5);
+    // sub.updateDifficulty(6);
+    // Assertions.assertFalse(sub.getDifficulty() == 5);
+    // sub.updateTimeconsumption(3);
+    // Assertions.assertEquals(sub.getTimeconsumption(), 3);
+    // sub.updateEntertainment(3);
+    // Assertions.assertEquals(sub.getEntertainment(), 3);
+    
+    // }
+
+    @Test
+    public void testSetFullName(){
+        testSubject.setFullName("Matematikk 1");
+        Assertions.assertFalse(testSubject.getFullName() == testName);
+        Assertions.assertEquals(testSubject.getFullName(), "Matematikk 1");
+        
+    }
     
     @Test
-    public void testUpdateFunctions() throws IOException {
-    Subject sub = new Subject("Math");
-    Assertions.assertEquals(sub.getCourseCode(), "Math");
-    sub.updateDifficulty(5);
-    Assertions.assertEquals(sub.getDifficulty(), 5);
-    sub.updateDifficulty(6);
-    Assertions.assertFalse(sub.getDifficulty() == 5);
-    sub.updateTimeconsumption(3);
-    Assertions.assertEquals(sub.getTimeconsumption(), 3);
-    sub.updateEntertainment(3);
-    Assertions.assertEquals(sub.getEntertainment(), 3);
+    public void testUpdateFunctions() {
+        testSubject.updateDifficulty(5);
+        Assertions.assertEquals(testSubject.getDifficulty(), 5);
+        testSubject.updateDifficulty(6);
+        Assertions.assertFalse(testSubject.getDifficulty() == 5);
+        testSubject.updateTimeconsumption(3);
+        Assertions.assertEquals(testSubject.getTimeconsumption(), 3);
+        testSubject.updateEntertainment(3);
+        Assertions.assertEquals(testSubject.getEntertainment(), 3);
     
     }
 
-    
-
     @Test
-    public void testSetName() throws IOException{
-
-        Subject sub = new Subject("Math");
-        sub.setCourseCode("ALGDAT");
-        Assertions.assertFalse(sub.getCourseCode() == "Math");
-        Assertions.assertEquals(sub.getCourseCode(), "ALGDAT");
+    public void testSetDiff(){
+        testSubject.setDifficulty(3);
+        Assertions.assertEquals(testSubject.getDifficulty(), 3);
         
     }
 
     @Test
-    public void testSetDiff() throws IOException{
-
-        Subject sub = new Subject("Math");
-        sub.setDifficulty(3);
-        Assertions.assertEquals(sub.getDifficulty(), 3);
-        
-    }
-
-    @Test
-    public void testSetTime() throws IOException{
-
-        Subject sub = new Subject("Math");
-        sub.setTimeconsumption(5);
-        Assertions.assertEquals(sub.getTimeconsumption(), 5);
+    public void testSetTime(){
+        testSubject.setTimeconsumption(5);
+        Assertions.assertEquals(testSubject.getTimeconsumption(), 5);
 
     }
 
     @Test
-    public void testSetEnt() throws IOException{
-
-        Subject sub = new Subject("Math");
-        sub.setEntertainment(9);
-        Assertions.assertEquals(sub.getEntertainment(), 9);
+    public void testSetEnt(){
+        testSubject.setEntertainment(9);
+        Assertions.assertEquals(testSubject.getEntertainment(), 9);
 
     }
 
     @Test
-    public void testAverage() throws IOException{
-        Subject sub = new Subject("IT1901");
-    
-        sub.updateDifficulty(16);
-        sub.updateTimeconsumption(15);
-        sub.updateEntertainment(20);
-        Assertions.assertEquals(sub.average(), 17);
+    public void testAverage(){
+        testSubject.updateDifficulty(16);
+        testSubject.updateTimeconsumption(15);
+        testSubject.updateEntertainment(20);
+        Assertions.assertEquals(testSubject.average(), 17);
 
     }
-
-
-    
-
 }
 

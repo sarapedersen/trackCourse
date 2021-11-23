@@ -77,15 +77,22 @@ public class AppController{
         nameInput.setText(nameList.getItems().toString());*/
     }
 
+    public void setSubjects(Collection<Subject> subs){
+        this.subjects = subs;
+    }
+
+    public Collection<Subject> getSubjects() {
+        return this.subjects;
+    }
     /** Returns an ImageIcon, or null if the path was invalid. */
     protected ImageIcon createImageIcon(String path) {
-    java.net.URL imgURL = getClass().getResource(path);
-    if (imgURL != null) {
-        return new ImageIcon(imgURL);
-    } else {
-        System.err.println("Couldn't find file: " + path);
-        return null;
-    }
+        java.net.URL imgURL = getClass().getResource(path);
+        if (imgURL != null) {
+            return new ImageIcon(imgURL);
+        } else {
+            System.err.println("Couldn't find file: " + path);
+            return null;
+        }
     }
 
     @FXML
