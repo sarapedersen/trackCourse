@@ -8,9 +8,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class AppTest extends ApplicationTest{
+public class AppTest extends ApplicationTest {
 
-    private AppController controller;
+  private AppController controller;
 
   @Override
   public void start(final Stage stage) throws Exception {

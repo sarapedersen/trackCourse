@@ -13,13 +13,11 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-<<<<<<< HEAD
+
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-=======
-import java.net.http.HttpRequest;
->>>>>>> ae790410d307bfc457f4b1bba395ea11493e0847
+
 import java.net.http.HttpRequest.BodyPublishers;
 import java.text.DecimalFormat;
 
@@ -63,40 +61,14 @@ public class AppController {
         this.subjects = subs;
     }
 
-<<<<<<< HEAD
     @FXML 
     void onSave() throws JsonProcessingException, IOException, InterruptedException {
 
             FileHandlerApp saver = new FileHandlerApp(subjects); 
             saver.deleteCurrentFiles();    
             saver.writeToJson(subjects);  
-
-            URI uri = null;
-=======
-    @FXML
-    void onSave() throws JsonProcessingException, IOException {
-
-        FileHandlerApp saver = new FileHandlerApp(subjects);
-        saver.deleteCurrentFiles();
-        saver.writeToJson(subjects);
-
-        URI uri = null;
->>>>>>> ae790410d307bfc457f4b1bba395ea11493e0847
-        try {
-            uri = new URI("http://localhost:8080/test");
-        } catch (URISyntaxException e) {
-            System.out.println(e.getMessage());
         }
-
-        HttpRequest request = HttpRequest.newBuilder(uri).header("Accept", "application/json")
-                .header("Content-Type", "application/json").POST(BodyPublishers.ofString("HelloWorld")).build();
-<<<<<<< HEAD
-        HttpClient.newBuilder().build().send(request,
-        HttpResponse.BodyHandlers.ofString());
-=======
-
->>>>>>> ae790410d307bfc457f4b1bba395ea11493e0847
-    }
+    
 
     
 
@@ -167,6 +139,14 @@ public class AppController {
         // Addomg the average score to the list view
         averageList.setItems(subjectAverage);
 
+    }
+
+    @FXML
+    void onDetails() {
+    }
+
+    @FXML
+    void subjectSelected() {
     }
 
 }
