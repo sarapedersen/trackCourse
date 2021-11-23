@@ -107,7 +107,7 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#submitButton");
         clickOn("#saveButton");
 
-        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 11.5")));
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 11,5")));
     }
 
     @Test
