@@ -14,6 +14,7 @@ import javafx.collections.FXCollections;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.text.DecimalFormat;
 
 import javafx.scene.Scene;
@@ -32,60 +33,71 @@ import trackcourse.core.Subject;
 import trackcourse.core.CourseList;
 import trackcourse.core.FileHandlerApp;
 
-public class AppController{
+public class AppController {
 
     private Collection<Subject> subjects = new ArrayList<>();
     DecimalFormat df = new DecimalFormat("##.#");
 
-    
-    //elements for main stage
-    @FXML TextField nameInput;
-    @FXML Slider diffSlider;
-    @FXML Slider timeSlider;
-    @FXML Slider happySlider;
-    @FXML ListView nameList;
-    @FXML ListView averageList;
-    @FXML Label courseError, preview, txtDescription;
-    @FXML Button submitButton;
-    @FXML ListView subjectListView;
-
-
+    // elements for main stage
+    @FXML
+    TextField nameInput;
+    @FXML
+    Slider diffSlider;
+    @FXML
+    Slider timeSlider;
+    @FXML
+    Slider happySlider;
+    @FXML
+    ListView nameList;
+    @FXML
+    ListView averageList;
+    @FXML
+    Label courseError, preview, txtDescription;
+    @FXML
+    Button submitButton;
+    @FXML
+    ListView subjectListView;
 
     // elements for details stage
-    @FXML Pane detailsPane;
-    @FXML Pane sliderPane;
-    @FXML Label txtCourseCode;
-    @FXML Label detailsDiff, detailsTime, detailsAverage, detailsJoy;
-    @FXML Button btnCloseDetails;
-    
-
+    @FXML
+    Pane detailsPane;
+    @FXML
+    Pane sliderPane;
+    @FXML
+    Label txtCourseCode;
+    @FXML
+    Label detailsDiff, detailsTime, detailsAverage, detailsJoy;
+    @FXML
+    Button btnCloseDetails;
 
     @FXML
-    void subjectSelected(){
-        //String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
+    void subjectSelected() {
+        // String selected = (String)
+        // subjectListView.getSelectionModel().getSelectedItem();
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
         nameInput.setText(subject.getCourseCode());
         try {
-			validate();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-        /*subjectDetails
-        nameInput.setText(nameList.getItems().toString());*/
+            validate();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        /*
+         * subjectDetails nameInput.setText(nameList.getItems().toString());
+         */
     }
 
     /** Returns an ImageIcon, or null if the path was invalid. */
     protected ImageIcon createImageIcon(String path) {
-    java.net.URL imgURL = getClass().getResource(path);
-    if (imgURL != null) {
-        return new ImageIcon(imgURL);
-    } else {
-        System.err.println("Couldn't find file: " + path);
-        return null;
-    }
+        java.net.URL imgURL = getClass().getResource(path);
+        if (imgURL != null) {
+            return new ImageIcon(imgURL);
+        } else {
+            System.err.println("Couldn't find file: " + path);
+            return null;
+        }
     }
 
     @FXML
@@ -93,35 +105,35 @@ public class AppController{
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
         String[] splitted = selected.split("\\s+");
         Subject subject = subjectDetails(splitted[0]);
-        
-        //hides background panes
+
+        // hides background panes
         detailsPane.setVisible(true);
         sliderPane.setVisible(false);
         subjectListView.setVisible(false);
         txtDescription.setVisible(false);
 
-
-        //fills in subject details 
+        // fills in subject details
         txtCourseCode.setText(subject.getCourseCode());
         detailsDiff.setText(df.format(subject.getDifficulty()));
         detailsTime.setText(df.format(subject.getTimeconsumption()));
         detailsJoy.setText(df.format(subject.getEntertainment()));
         detailsAverage.setText(df.format(subject.average()));
 
-        /*Stage detailsStage = new Stage();
+        /*
+         * Stage detailsStage = new Stage();
+         * 
+         * 
+         * detailsStage.setTitle(subject.getCourseCode()); detailsStage.setScene(new
+         * Scene(FXMLLoader.load(App.class.getResource("DetailsContainer.fxml"))));
+         * detailsStage.getIcons().add(new Image("https://i.imgur.com/BDdmb8n.png"));
+         * detailsStage.show();
+         * 
+         * detailsDiff.setText(df.format(subject.getDifficulty()));
+         * detailsTime.setText(df.format(subject.getTimeconsumption()));
+         * detailsJoy.setText(df.format(subject.getEntertainment()));
+         * detailsAverage.setText(df.format(subject.average()));
+         */
 
-        
-        detailsStage.setTitle(subject.getCourseCode());
-        detailsStage.setScene(new Scene(FXMLLoader.load(App.class.getResource("DetailsContainer.fxml"))));
-        detailsStage.getIcons().add(new Image("https://i.imgur.com/BDdmb8n.png"));
-        detailsStage.show();
-
-        detailsDiff.setText(df.format(subject.getDifficulty()));
-        detailsTime.setText(df.format(subject.getTimeconsumption()));
-        detailsJoy.setText(df.format(subject.getEntertainment()));
-        detailsAverage.setText(df.format(subject.average()));*/
-
-        
     }
 
     @FXML
@@ -132,12 +144,12 @@ public class AppController{
         txtDescription.setVisible(true);
     }
 
-    @FXML 
-    void onSave() throws JsonProcessingException, IOException {
+    @FXML
+    void onSave() throws JsonProcessingException, IOException, URISyntaxException {
 
-            FileHandlerApp saver = new FileHandlerApp(subjects); 
-            saver.deleteCurrentFiles();    
-            saver.writeToJson(subjects);  
+        FileHandlerApp saver = new FileHandlerApp(subjects);
+        saver.deleteCurrentFiles();
+        saver.writeToJson(subjects);
     }
 
     @FXML
@@ -147,7 +159,7 @@ public class AppController{
         sortSubjects();
         updateLists();
         System.out.println(subjects);
-           
+
     }
 
     @FXML
@@ -156,23 +168,21 @@ public class AppController{
             courseError.setText("");
             preview.setText(CourseList.getFullName(nameInput.getText().toUpperCase()));
             submitButton.setVisible(true);
-        }
-        else {
+        } else {
             courseError.setText("*");
             preview.setText("");
             submitButton.setVisible(false);
-            //System.out.println(CourseList.getFullName(nameInput.getText()));
+            // System.out.println(CourseList.getFullName(nameInput.getText()));
 
         }
 
     }
 
-
     @FXML
     void onReset() {
 
         subjects.clear();
-        updateLists();    
+        updateLists();
     }
 
     public void sortSubjects() {
@@ -194,9 +204,9 @@ public class AppController{
         }
         this.subjects = sortedList;
     }
-    
+
     @FXML
-    void submit() throws IOException{
+    void submit() throws IOException {
         // Checks if the subject already have been submitted or loaded
         Subject sub = null;
         for (Subject subject : subjects) {
@@ -211,16 +221,13 @@ public class AppController{
             subjects.add(sub);
         }
 
-        
-
-    
         // Updates the parameters
         sub.updateDifficulty((int) diffSlider.getValue());
         sub.updateEntertainment((int) happySlider.getValue());
         sub.updateTimeconsumption((int) timeSlider.getValue());
 
         sortSubjects();
-        
+
         // Updates the list views
         updateLists();
         System.out.println(subjects);
@@ -228,18 +235,18 @@ public class AppController{
     }
 
     @FXML
-    void updateLists(){
+    void updateLists() {
 
-        // Creating empty FXCollection.obserableArrayLists for the Names and the average score
+        // Creating empty FXCollection.obserableArrayLists for the Names and the average
+        // score
         ObservableList<String> subjects4ListView = FXCollections.observableArrayList();
 
-        
         // Adding the name and the corresponding average score to the lists
         for (Subject subject : subjects) {
-            
+
             subjects4ListView.add(subject.getCourseCode() + " // " + String.valueOf(df.format(subject.average())));
         }
-       
+
         // Adding the names to the list view
         subjectListView.setItems(subjects4ListView);
 
@@ -254,6 +261,6 @@ public class AppController{
             }
         }
         return subject;
-    } 
+    }
 
 }

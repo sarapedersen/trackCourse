@@ -13,6 +13,11 @@
 
 
     <dependencies>
+        <dependency>
+            <groupId>prosjekt</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
         <!-- junit testing with jupiter -->
         <dependency>
