@@ -52,9 +52,26 @@ public class FileHandlerApp {
       objectMapper.writeValue(new FileOutputStream("../core/src/json/" + sub.getCourseCode() + ".json"), sub);
     }
 
-    System.out.println("trying to post to server...");
-    Post("Saved");
+    System.out.println("trying to get to server...");
+    System.out.println(Get());
     System.out.println("done sending.");
+  }
+
+  public String Get() throws URISyntaxException {
+    URI newUri = new URI("http://localhost:8080/data");
+    String data = null;
+    if (data == null) {
+      try {
+        final HttpRequest req = HttpRequest.newBuilder(newUri).header("Accept", "application/json").GET().build();
+        final HttpResponse<String> res = HttpClient.newBuilder().build().send(req,
+            HttpResponse.BodyHandlers.ofString());
+        ObjectMapper objectMapper = new ObjectMapper();
+        data = objectMapper.readValue(res.body(), String.class);
+      } catch (IOException | InterruptedException e) {
+        throw new RuntimeException(e);
+      }
+    }
+    return data;
   }
 
   public boolean Post(String str) throws URISyntaxException {
