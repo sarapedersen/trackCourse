@@ -1,0 +1,120 @@
+@startuml
+package core <<Rectangle>> {
+class Subject {
+fullName: String
+courseCode: String
+ratings: Map<String, Double>
+difficulty: Collection<Integer>
+timeConsumption: Collection<Integer>
+entertainment: Collection<Integer>
+__
+Subject(courseCode)
+Subject()
+..getters and setters..
+getFullName(): String
+setFullName(fullName): void
+getCourseCode(): String
+setCourseCode(courseCode): void
+getDifficulty(): double
+setDifficulty(diff): void
+getTimeconsumption(): double
+setTimeconsumption(time): void
+getEntertainment(): double
+setEntertainment(entertainment): void
+getNumDifficulty(): double
+setNumDifficulty(numDiff): void
+getNumTimeconsumption(): double
+setNumTimeconsumption(numTime): void
+getNumEntertainment(): double
+setNumEntertainment(numEntertainment): void
+getDiffRatings(): Collection<Integer>
+getTimeRatings(): Collection<Integer>
+getEntRatings(): Collection<Integer>
+setDiffRatings(diffRatings): void
+setTimeRatings(timeRatings): void
+setEntRatings(entRatings): void
+..updates..
+updateDifficulty(grade): void
+updateTimeconsumption(grade): void
+updateEntertainment(grade): void
+average(): double
+}
+
+class CourseList {
+courseList: Map<String, String>
+__
+validate(course): boolean
+..getters and setters..
+getFullName(key): String
+..
+updateMap(): void
+}
+
+class FileHandlerApp {
+subjects: Collection<Subject>
+__
+FileHandlerApp(Collection<Subject>)
+FileHandlerApp()
+..getters and setters..
+setSubjects(subs): void
+..
+writeToJson(subs): void
+readFromJson(): Collection<Subject>
+deleteCurrentFiles(): void
+}
+}
+
+package fxui <<Rectangle>> {
+class App {
+__
+start(primaryStage): void
+main(args): void
+}
+
+class AppController {
+nameInput: TextField
+diffSlider: Slider
+timeSlider: Slider
+happySlider: Slider
+nameList: ListView
+averageList: ListView
+courseError: Label
+preview: Label
+submitButton: Button
+subjectListView: ListView
+__
+subjectSelected(): void
+onDetails(): void
+onSave(): void
+onLoad(): void
+validate(): void
+onReset(): void
+sortSubjects(): void
+submit(): void
+updateLists(): void
+subjectDetails(name): Subject
+}
+}
+
+package springserver <<Rectangle>> {
+class TrackcourseApplication {
+__
+main(args): void
+}
+
+class TrackcourseController {
+CONTROLLER_PATH: String
+__
+}
+}
+
+App --> AppController
+App --> TrackcourseApplication 
+
+TrackcourseApplication --> TrackcourseController 
+
+AppController --> FileHandlerApp
+AppController --> CourseList
+
+FileHandlerApp --> Subject
+@enduml
