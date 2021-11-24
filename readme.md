@@ -61,7 +61,7 @@ AppController er klassen vi bruker for å koble logikken til brukergrensesnittet
 - sortSubjects er en metode vi bruker for å sortere fagene etter høyeste gjennomsnittsvurdering. Metoden oppretter en ny liste og legger til hvert objekt med hensyn på gjennomsnittsvurdering. 
 Siden metoden bruker en dobbel for-løkke kan kjøretiden bli lang hvis appen inneholder mange fag. Siden vi jobber på en mindre skala valgte vi å ikke implementere en mer avansert sorteringsalgoritme.
 sortSubjects blir kalt på hver gang brukeren trykker på submit eller save knappen i appen. Vi valgte å ikke kjøre algoritmen på load-knappen siden listen allerede skal være sortert.
-- updateLists: //Vet ikke helt hva denne metoden gjør
+- updateLists initialiserer først en tom observableArrayList, før den går gjennom listen med Subjects. For hvert fag lager den til en string på formatet; "fagkode // gjennomsnittsvurdering", og legger det til observableArrayList-en. Etter den har loopen gjennom alle fagene, setter den listen til ListViewet på brukergrensesnittet. Grunnen til at vi konverterer fra vår vanlige ArrayList til observableArrayList, er for at den kan skrives ut til ListViewet i brukergrensesnittet, og gir oss itillegg muligheten til å formatere cellene på en brukervennelig måte.
 
 test: test-mappen tester grensesnittet til appen vår.
 AppTest tester om appen greier å opprette en kontroller og å kjøre den.
