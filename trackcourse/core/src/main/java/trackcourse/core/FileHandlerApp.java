@@ -11,6 +11,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Scanner;
 
+import javax.swing.event.SwingPropertyChangeSupport;
+
 import java.io.FileOutputStream;
 import java.util.Collection;
 
@@ -36,9 +38,10 @@ public class FileHandlerApp {
 
   private Collection<Subject> subjects = new ArrayList<>();
 
+
   public FileHandlerApp(Collection<Subject> subs) {
     this.subjects = subs;
-  }
+    }
 
   public FileHandlerApp() {
 
@@ -60,16 +63,13 @@ public class FileHandlerApp {
     String data = null;
 
     if (data == null) {
-      System.out.println("DEtte er før try");
       try {
         final HttpRequest req = HttpRequest.newBuilder(newUri).header("Accept", "application/json").GET().build();
         final HttpResponse<String> res = HttpClient.newBuilder().build().send(req,
             HttpResponse.BodyHandlers.ofString());
-        ObjectMapper objectMapper = new ObjectMapper();
-        data = objectMapper.readValue(res.body(), String.class);
+        data = res.body();
         //konverter string av data til collection her
         String[] subjectsInArray = StingSplitter(data);
-        System.out.println("subjectsInArray");
         for (String subString : subjectsInArray) {
           System.out.println(subString);
           ObjectMapper objectMapper2 = new ObjectMapper();
@@ -77,13 +77,9 @@ public class FileHandlerApp {
           subjects.add(sub);
         }
       } catch (IOException | InterruptedException e) {
-        System.out.println("runtime exception");
-        throw new RuntimeException(e);
+        throw new RuntimeException("Server not running");
       }
     }
-
-    
-    System.out.println(subjects);
     return subjects;
   }
 
@@ -102,12 +98,18 @@ public class FileHandlerApp {
       }
       return false;
     } catch (IOException | InterruptedException e) {
-      System.out.println("Http request failed");
-      throw new RuntimeException(e);
+      throw new RuntimeException("Server not running");
     }
 
   }
 
+  /**
+   * Converts the whole string from rest server til array filled with the subjects in string format
+   *
+   * @param loongboooi string to convert
+   * @return betterbois, array of strings
+   *
+   */
   public String[] StingSplitter(String loongboooi) {
     String[] shorterboois = loongboooi.split("}");
     String[] betterbois = new String[shorterboois.length - 1];
