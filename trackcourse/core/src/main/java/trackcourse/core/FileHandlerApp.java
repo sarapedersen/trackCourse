@@ -42,9 +42,6 @@ public class FileHandlerApp {
 
   }
 
-  public void setSubjects(Collection<Subject> subs) {
-    this.subjects = subs;
-  }
 
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException, URISyntaxException {
     for (Subject sub : subs) {
