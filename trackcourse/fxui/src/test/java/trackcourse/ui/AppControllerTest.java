@@ -104,29 +104,48 @@ public class AppControllerTest extends ApplicationTest {
         clickOn("#saveButton"); 
     }
 
-    //JUnit tester kjøres i tilfeldig rekkefølge, kan derfor bli problematisk å gjøre det slik
-    //da vi ikke har noe garanti for hva som kjøres først og dermed heller ingen garanti for 
-    // hvilken avg. score som ligger i JSON fila... litta case
+    
 
-    // @Test 
-    // public void testUpdate(){
-    //     clickOn("#loadButton"); 
-    //     clickOn("#nameInput").write("TDT4100");
-    //     controller.diffSlider.setValue(8);
-    //     controller.timeSlider.setValue(8);
-    //     controller.happySlider.setValue(8);
-    //     clickOn("#submitButton");
-    //     clickOn("#saveButton");
+    @Test 
+    public void testUpdate(){
+        controller.onReset();
+        clickOn("#saveButton");
 
-    //     FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
-    // }
+        clickOn("#nameInput").write("TDT4100");
+        controller.diffSlider.setValue(8);
+        controller.timeSlider.setValue(8);
+        controller.happySlider.setValue(8);
+        clickOn("#submitButton");
 
-    // @Test
-    // public void testLoad() throws JsonProcessingException, IOException{
-    //     clickOn("#loadButton");
-    //     FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 8")));
 
-    // }
+        controller.diffSlider.setValue(6);
+        controller.timeSlider.setValue(6);
+        controller.happySlider.setValue(6);
+        clickOn("#submitButton");
+
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 7")));
+
+
+    }
+
+    @Test
+    public void testLoad() throws JsonProcessingException, IOException{
+        controller.onReset();
+        clickOn("#saveButton");
+
+        clickOn("#nameInput").write("TDT4100");
+        controller.diffSlider.setValue(8);
+        controller.timeSlider.setValue(8);
+        controller.happySlider.setValue(8);
+        clickOn("#submitButton");
+        clickOn("#saveButton");
+
+        clickOn("#loadButton");
+        FxAssert.verifyThat("#subjectListView", ListViewMatchers.hasListCell(("TDT4100 // 8")));
+
+    }
+
 
    
     @Test
