@@ -1,17 +1,19 @@
 package trackcourse.core;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import trackcourse.core.Subject;
-
 public class SubjectTest {
     private Subject testSubject;
     private String testCode = "TDT4105";
     private String testName = "ITGK";
+
+    private Collection<Integer> integers = new ArrayList<>();
 
     
     @BeforeEach
@@ -39,19 +41,11 @@ public class SubjectTest {
         Assertions.assertEquals(testSubject.getCourseCode(), "IT2805");
     }
         
-    // public void testUpdateFunctions() throws IOException {
-    // Subject sub = new Subject("Math");
-    // Assertions.assertEquals(sub.getCourseCode(), "Math");
-    // sub.updateDifficulty(5);
-    // Assertions.assertEquals(sub.getDifficulty(), 5);
-    // sub.updateDifficulty(6);
-    // Assertions.assertFalse(sub.getDifficulty() == 5);
-    // sub.updateTimeconsumption(3);
-    // Assertions.assertEquals(sub.getTimeconsumption(), 3);
-    // sub.updateEntertainment(3);
-    // Assertions.assertEquals(sub.getEntertainment(), 3);
-    
-    // }
+    @Test
+    public void testSubjectEmptyContructor(){
+        Subject sub = new Subject();
+        Assertions.assertNotNull(sub);
+    }
 
     @Test
     public void testSetFullName(){
@@ -71,6 +65,26 @@ public class SubjectTest {
         Assertions.assertEquals(testSubject.getTimeconsumption(), 3);
         testSubject.updateEntertainment(3);
         Assertions.assertEquals(testSubject.getEntertainment(), 3);
+
+        
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateDifficulty(-5);
+        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateDifficulty(25);
+        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateTimeconsumption(-5);
+        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateTimeconsumption(25);
+        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateEntertainment(-5);
+        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            testSubject.updateEntertainment(25);
+        });
     
     }
 
@@ -93,6 +107,46 @@ public class SubjectTest {
         testSubject.setEntertainment(9);
         Assertions.assertEquals(testSubject.getEntertainment(), 9);
 
+    }
+
+    @Test
+    public void testSetNumDiff(){
+        testSubject.setNumDifficulty(4.0);
+        Assertions.assertEquals(testSubject.getNumDifficulty(), 4.0);
+    }
+
+    @Test
+    public void testSetNumTime(){
+        testSubject.setNumTimeconsumption(4.0);
+        Assertions.assertEquals(testSubject.getNumTimeconsumption(), 4.0);
+    }
+
+    @Test
+    public void testSetNumEntertainment(){
+        testSubject.setNumEntertainment(4.0);
+        Assertions.assertEquals(testSubject.getNumEntertainment(), 4.0);
+    }
+
+    @Test
+    public void testSetDiffRatings(){
+        integers.add(5);
+        integers.add(5);
+        integers.add(6);
+        
+        testSubject.setDiffRatings(integers);
+        Assertions.assertEquals(testSubject.getDiffRatings(), integers);
+    }
+
+    @Test
+    public void testSetTimeRatings(){
+        testSubject.setTimeRatings(integers);
+        Assertions.assertEquals(testSubject.getTimeRatings(), integers);
+    }
+
+    @Test
+    public void testSetEntRatings(){
+        testSubject.setEntRatings(integers);
+        Assertions.assertEquals(testSubject.getEntRatings(), integers);
     }
 
     @Test
