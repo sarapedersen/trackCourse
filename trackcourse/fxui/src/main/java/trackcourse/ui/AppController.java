@@ -107,6 +107,7 @@ public class AppController {
 
     @FXML
     void onClose() {
+        // closes the details pane
         detailsPane.setVisible(false);
         sliderPane.setVisible(true);
         subjectListView.setVisible(true);
@@ -115,7 +116,6 @@ public class AppController {
 
     @FXML
     void onSave() throws JsonProcessingException, IOException, URISyntaxException {
-
         FileHandlerApp saver = new FileHandlerApp(subjects);
         saver.deleteCurrentFiles();
         saver.Post(subjects);
@@ -149,10 +149,10 @@ public class AppController {
 
     @FXML
     void onReset() {
-
         subjects.clear();
         updateLists();
     }
+    
 
     public void sortSubjects() {
         ArrayList<Subject> sortedList = new ArrayList<>();
