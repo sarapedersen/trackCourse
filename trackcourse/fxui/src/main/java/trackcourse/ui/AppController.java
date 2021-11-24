@@ -160,13 +160,14 @@ public class AppController {
 
         FileHandlerApp saver = new FileHandlerApp(subjects);
         saver.deleteCurrentFiles();
-        saver.writeToJson(subjects);
+        saver.Post(subjects);
+        
     }
 
     @FXML
-    void onLoad() throws FileNotFoundException, IOException {
+    void onLoad() throws FileNotFoundException, IOException, URISyntaxException {
         FileHandlerApp loader = new FileHandlerApp();
-        subjects = loader.readFromJson();
+        subjects = loader.Get();
         sortSubjects();
         updateLists();
         System.out.println(subjects);

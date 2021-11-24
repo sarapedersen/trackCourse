@@ -65,8 +65,10 @@ public class AppControllerTest extends ApplicationTest {
         controller.setSubjects(subjects);
         Assertions.assertEquals(controller.getSubjects(), subjects);
     }
+
     
     //UI tests
+
     @Test
     public void testAddSubject() {
         clickOn("#nameInput").write("TDT4100");
@@ -101,6 +103,10 @@ public class AppControllerTest extends ApplicationTest {
 
         clickOn("#saveButton"); 
     }
+
+    //JUnit tester kjøres i tilfeldig rekkefølge, kan derfor bli problematisk å gjøre det slik
+    //da vi ikke har noe garanti for hva som kjøres først og dermed heller ingen garanti for 
+    // hvilken avg. score som ligger i JSON fila... litta case
 
     // @Test 
     // public void testUpdate(){
@@ -144,72 +150,4 @@ public class AppControllerTest extends ApplicationTest {
 
         clickOn("#detailsButton");
     }
-
-   /*
-    @BeforeEach
-    public void init() throws IOException{
-        sub = new Subject("TDT4100");
-        subjects = new ArrayList<>();
-        subjects.add(sub);
-        presaved_subs = new ArrayList<>();
-        controller.setSubjects(subjects);
-    }
-
-    @Test
-    public void testSubject() throws IOException {
-
-        subjects.add(sub);
-
-        Assertions.assertNotNull(subjects);
-        Assertions.assertEquals(subjects.size(), 1);
-
-        
-    }
-
-
-
-    @Test
-    public void testValidation() throws IOException {
-
-        nameInput.setText("TDT4100");
-        controller.submit();
-        subjects.add(sub);
-
-        Assertions.assertNotNull(subjects);
-        Assertions.assertEquals(subjects.size(), 1);
-
-    }
-
-
-    //Test save function without overwriting the subjects thats already saved
-    @Test
-    public void testSave() throws Exception{
-     subjects.add(sub);
-     sub.updateDifficulty(15);
-     sub.updateTimeconsumption(15);
-     sub.updateEntertainment(15);
-          
-        controller.setSubjects(subjects);
-        controller.onSave();
-
-        File file = new File("./json/ALGDAT.json");
-        ObjectMapper objectMapper = new ObjectMapper();
-        Subject testSub = objectMapper.readValue(file, Subject.class);
-        String jsonString = "{\"name\":\"ALGDAT\",\"difficulty\":15.0,\"timeconsumption\":15.0,\"entertainment\":15.0,\"numTimeconsumption\":1.0,\"numEntertainment\":1.0,\"numDifficulty\":1.0,\"diffRatings\":[15],\"timeRatings\":[15],\"entRatings\":[15]}";
-        Subject testSub2 = objectMapper.readValue(jsonString, Subject.class);
-    
-        Assertions.assertEquals(testSub, testSub2); 
-
-    }
-
-
-
-
-    public static String readFileAsString(String file)throws Exception
-    {
-        return new String(Files.readAllBytes(Paths.get(file)));
-    }*/
-
-
-
 }
