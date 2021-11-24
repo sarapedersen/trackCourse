@@ -1,38 +1,21 @@
 package trackcourse.core;
 
-import java.io.FileWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.lang.reflect.Array;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
+import java.net.http.HttpRequest.BodyPublishers;
+import java.net.http.HttpResponse;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Scanner;
-
-import javax.swing.event.SwingPropertyChangeSupport;
-
-import java.io.FileOutputStream;
 import java.util.Collection;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.assertj.core.internal.Paths;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpRequest.BodyPublishers;
-import java.net.http.HttpResponse;
 
 public class FileHandlerApp {
 
@@ -47,7 +30,8 @@ public class FileHandlerApp {
 
   }
 
-
+  // Takes in a collection of subs as the parameter and converts each to a own Json file
+  // adds files  to the Json-folder
   public void writeToJson(Collection<Subject> subs) throws JsonProcessingException, IOException, URISyntaxException {
     for (Subject sub : subs) {
       ObjectMapper objectMapper = new ObjectMapper();
@@ -118,6 +102,10 @@ public class FileHandlerApp {
     return betterbois;
   }
 
+  // Method for loading the saved subjects
+  // goes through json-folder, file for file using a for-loop
+  // reads json-file, creates instance of the subject and adds it to the collection of subjects
+  // returns the list of subjects
   public Collection<Subject> readFromJson() throws FileNotFoundException, IOException {
 
     File f = new File("../core/src/json");
@@ -133,17 +121,14 @@ public class FileHandlerApp {
   }
 
 
+  // deletes all the files in the json-folder
+  // used in order not to show duplicate subjects
   public void deleteCurrentFiles() {
     File f = new File("../core/src/json");
     File filesList[] = f.listFiles();
     for (File file : filesList) {
       if (!file.isDirectory()) {
-        boolean success = file.delete();
-        if (success) {
-          System.out.println("File deleted.");
-        } else {
-          System.out.println("File could not be deleted.");
-        }
+        file.delete();
       }
     }
   }

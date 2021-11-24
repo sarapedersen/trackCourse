@@ -156,6 +156,12 @@ public class AppControllerTest extends ApplicationTest {
 
     }
 
+    @Test
+    public void testNonSelectedOnDetails(){
+        clickOn("#detailsButton");
+        FxAssert.verifyThat("#detailsPane", NodeMatchers.isInvisible()); 
+    }
+
     public void openDetailsPane() {
         clickOn("#nameInput").write("TDT4100");
         clickOn("#submitButton");
