@@ -79,7 +79,9 @@ I tillegg tester den input-feltet og submit-knappen fungerer slik de skal i test
 
 main: main-mappen i springserver inneholder 2 klasser; TrackcourseApplication og TrackcourseController. Vi
 bruker Spring rammeverket, spesifikt Spring Boot, for å bygge opp rest serveren vår.
+
 TrackcourseApplication: initialiserer en SpringApplication som vi setter til serverport 8080
+
 TrackcourseController: inneholder to metoder getData() og setData():
 - getData() lytter etter GET-requester, og returnerer all data i rest serveren
 - setData() lytter etter POST-requester, og returnerer "true" etter dataen er posten til rest serveren
