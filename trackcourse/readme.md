@@ -1,4 +1,4 @@
-# Fagevaluering #
+# Trackcourse - en fagevalueringsapp #
 
 Vi har laget en applikasjon som er som gir brukeren mulighet til å vurdere ulike fag ved NTNU. For å gi en detaljert beskrivelse av hvert fag har vi valgt å implementere tre variabler: 
 - "Difficulty" er den første og er et mål på hvor vanskelig selve faget er. Variabelen omfavner både øvingsopplegget og eksamen.
