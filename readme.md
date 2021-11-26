@@ -91,7 +91,7 @@ TrackcourseController: inneholder to metoder getData() og setData():
 
 ## Hvordan kjøre testene for Trackcourse
 Testene blir skippet som default, og dette kan endres i den ytterste pom-filen (parentpom)
-1. Rest serveren må være oppe for at testene skal kjøre, så stegene over for dette
+1. Rest serveren må være oppe for at testene skal kjøre, så følg stegene over for dette
 2. Gå til den ytterste pom-filen og bytt ut "<skipTests>true</skipTests>" til <skipTests>false</skipTests> på linje 15
 3. Hvis du allerede har kjørt "mvn clean install" i "trackcourse" mappen, kan du skrive "mvn test" for å kjøre testene
 4. Hvis prosjektet ikke er bygget kan du nå kjøre kommandoen "mvn clean install", da vil prosjektet bygges og testene vil kjøre
