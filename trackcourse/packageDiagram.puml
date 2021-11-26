@@ -1,0 +1,21 @@
+@startuml
+package "fxui" #EEEEEE {
+class App
+class AppController
+}
+
+package "springserver" #EEEEEE {
+class TrackcourseApplication
+class TrackcourseController
+}
+
+package "core" #EEEEEE {
+class CourseList
+class FileHandlerApp
+class Subject
+}
+
+fxui --|> springserver
+fxui --|> core
+
+@enduml
