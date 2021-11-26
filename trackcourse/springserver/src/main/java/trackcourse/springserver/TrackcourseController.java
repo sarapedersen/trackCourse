@@ -8,10 +8,7 @@ import java.util.Collection;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -27,9 +24,9 @@ public class TrackcourseController {
   public static final String CONTROLLER_PATH = "/data";
 
   /**
-   * Gets the servers' VisitLog.
+   * Gets the servers' data.
    *
-   * @return the visit log
+   * @return the data in server in a String
    * @throws IOException
    * @throws FileNotFoundException
    */
@@ -47,10 +44,10 @@ public class TrackcourseController {
   }
 
   /**
-   * Adds a visit to the servers' VisitLog.
+   * Adds the data to the server
    *
-   * @param visit visit to add
-   * @return true after adding visit
+   * @param subs the collection of subs it posts to the server
+   * @return true after adding subs
    * @throws URISyntaxException
    * @throws IOException
    * @throws JsonProcessingException
@@ -58,7 +55,6 @@ public class TrackcourseController {
   @PostMapping
   protected boolean setData(@RequestBody Collection<Subject> subs)
       throws JsonProcessingException, IOException, URISyntaxException {
-    System.out.println(subs);
 
     FileHandlerApp a = new FileHandlerApp();
     a.writeToJson(subs);
@@ -69,28 +65,3 @@ public class TrackcourseController {
 
 }
 
-/*
- * import java.io.IOException;
- * 
- * import org.springframework.web.bind.annotation.GetMapping; import
- * org.springframework.web.bind.annotation.PostMapping; import
- * org.springframework.web.bind.annotation.PutMapping; import
- * org.springframework.web.bind.annotation.RequestBody; import
- * org.springframework.web.bind.annotation.RequestMapping; import
- * org.springframework.web.bind.annotation.RequestParam; import
- * org.springframework.web.bind.annotation.ResponseBody; import
- * org.springframework.web.bind.annotation.RestController;
- * 
- * @RestController
- * 
- * @RequestMapping("/data") public class TrackcourseController {
- * 
- * @PostMapping public static String Post(String json) {
- * System.out.println("posting..."); return json; }
- * 
- * @PostMapping protected boolean addVisit(@RequestBody Visit visit) {
- * visitLogService.addVisit(visit); return true; }
- * 
- * }
- * 
- */
