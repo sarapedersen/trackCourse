@@ -1,11 +1,14 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.stud.ntnu.no/#https://gitlab.stud.idi.ntnu.no/it1901/groups-2021/gr2184/gr2184)
 
+#Trackcourse
+<br>
+
 Prosjektet vårt består av tre hovedmoduler: 
 - core
 - fxui
 - springserver
 
-##core:
+## core:
 
 I core-mappen ligger logikken til appen vår. I rotnivå har vi en pom.xml fil som implementerer jacoco og Jackson slik at det kan brukes i modulen
 core mappen består hovedsakelig av tre deler:
@@ -46,7 +49,7 @@ CourseListTest består av 3 tester og tester om validate-metoden til CourseList 
 
 SubjectTest implementerer ganske basis tester, og bruker assertFalse, Equals og True for å verifisere. Eneste ulempen med denne metoden er at det fort kan bli rotete for oss hvis vi skal skrive mange tester til en større app, men foreløpig er det ikke et problem.
 
-##fxui:
+## fxui:
 
 fxui-mappen vår består av to hovedmoduler: main og test.
 
@@ -72,7 +75,7 @@ AppTest tester om appen greier å opprette en kontroller og å kjøre den.
 AppControllerTest inneholder en test som sjekker om AppController kjører konstruktøren på riktig måte.
 I tillegg tester den input-feltet og submit-knappen fungerer slik de skal i testValidation-metoden.
 
-##springserver: 
+## springserver: 
 
 main: main-mappen i springserver inneholder 2 klasser; TrackcourseApplication og TrackcourseController. Vi
 bruker Spring rammeverket, spesifikt Spring Boot, for å bygge opp rest serveren vår.
