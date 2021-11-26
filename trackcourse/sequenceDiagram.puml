@@ -36,7 +36,5 @@ end box
 FileHandlerApp -> AppController : *returns true*
 deactivate FileHandlerApp
 deactivate AppController
-AppController -> GUI : updateOverview()
 deactivate AppController
-GUI -> user : Done
 @enduml
