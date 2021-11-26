@@ -1,37 +1,26 @@
 package trackcourse.ui;
 
-import java.util.Collection;
-
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
-
-import com.fasterxml.jackson.core.JsonProcessingException;
-
-import java.util.ArrayList;
-import javafx.collections.ObservableList;
-import javafx.collections.FXCollections;
-
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.Collection;
 
-import javafx.scene.Scene;
+import com.fasterxml.jackson.core.JsonProcessingException;
+
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.scene.control.Dialog;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
-import javafx.scene.image.Image;
 import javafx.scene.layout.Pane;
-import javafx.stage.Stage;
-import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
-import trackcourse.core.Subject;
 import trackcourse.core.CourseList;
 import trackcourse.core.FileHandlerApp;
+import trackcourse.core.Subject;
 
 public class AppController {
 
