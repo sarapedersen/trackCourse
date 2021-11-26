@@ -50,7 +50,7 @@ public class FileHandlerApp {
             HttpResponse.BodyHandlers.ofString());
         data = res.body();
         //konverter string av data til collection her
-        String[] subjectsInArray = StingSplitter(data);
+        String[] subjectsInArray = StringSplitter(data);
         for (String subString : subjectsInArray) {
           System.out.println(subString);
           ObjectMapper objectMapper2 = new ObjectMapper();
@@ -91,7 +91,7 @@ public class FileHandlerApp {
    * @return betterbois, array of strings
    *
    */
-  public String[] StingSplitter(String loongboooi) {
+  public String[] StringSplitter(String loongboooi) {
     String[] shorterboois = loongboooi.split("}");
     String[] betterbois = new String[shorterboois.length - 1];
 
@@ -120,17 +120,5 @@ public class FileHandlerApp {
 
   }
 
-
-  // deletes all the files in the json-folder
-  // used in order not to show duplicate subjects
-  public void deleteCurrentFiles() {
-    File f = new File("../core/src/json");
-    File filesList[] = f.listFiles();
-    for (File file : filesList) {
-      if (!file.isDirectory()) {
-        file.delete();
-      }
-    }
-  }
 
 }

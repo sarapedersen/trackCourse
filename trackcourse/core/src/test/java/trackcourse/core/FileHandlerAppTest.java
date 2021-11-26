@@ -57,29 +57,6 @@ public class FileHandlerAppTest {
         }
     }
 
-    @Test
-    public void testDeleteCurrentFiles(){
-
-        FileHandlerApp handler = new FileHandlerApp();
-        handler.deleteCurrentFiles();
-
-        File file = new File("../core/src/json");
-        assertTrue(checkIfDirectoryIsEmpty(file)); 
-
-    }
-
-    public Boolean checkIfDirectoryIsEmpty(File file) {
-        if (file.isDirectory()) {
-            if (file.list().length>0) {
-                return false;
-            } else {
-                return true;
-            }
-        } else {
-            System.out.println("Path is not a directory!");
-            return false;
-        }
-    }
     
 
     
