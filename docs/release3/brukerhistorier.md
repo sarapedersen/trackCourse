@@ -20,3 +20,14 @@ For å tilfredstille brukerens krav, har vi innført et inndatapanel hvor bruker
 - En save knapp for å lagre dataen. 
 - En load knapp for å hente inn siste data.
 - Det skal også være mulig å klikke på et fag i listen og dermed få opp dette faget i inndatapanelet, slik at det blir enda lettere å legge inn flere tilbakemeldinger.
+
+## **Se detaljer for rangering av faget  (brukerhistorie 3)** 
+Jeg som stud.ass ved NTNU øsnker jeg å friske opp kunnskapen min i et gammelt fag jeg skal hjelpe nye studenter i. Jeg ønsker at rangeringen av et fag jeg har vurdert skal kunne tas opp igjen og leses i sin helhet, med alle rangeringene jeg har lagt inn i faget. 
+
+For å tilfredsstille brukerens krav, har vi implementert on "detaljer" knapp. Her kan bruker trykke på et tidligere rangert fag, og få full oversikt over alle rangeringselementene, og deres tilhørende rangeringer, samt et gjennomsnitt av alle disse. 
+
+### Krav til funksjonalitet:
+-Et eller flere fag må være rangert og lagret i listview. 
+-Mulighet til å trykke på et gitt allerede rangert fag og markere det. 
+-En "details" knapp som henter tilhørende data lagret for et fag, og viser en tekstpanelt tekstpanel med utdata som fremviser oversikten over rangeringene til det gitte faget. 
+-En "close details" knapp som lar bruker lukke oversikten, og fortsette videre rangering.
