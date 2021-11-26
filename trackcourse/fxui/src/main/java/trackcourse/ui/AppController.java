@@ -116,8 +116,7 @@ public class AppController {
 
     @FXML
     void onSave() throws JsonProcessingException, IOException, URISyntaxException {
-        FileHandlerApp saver = new FileHandlerApp(subjects);
-        saver.deleteCurrentFiles();
+        FileHandlerApp saver = new FileHandlerApp();
         saver.Post(subjects);
         
     }
@@ -128,7 +127,6 @@ public class AppController {
         subjects = loader.Get();
         sortSubjects();
         updateLists();
-        System.out.println(subjects);
 
     }
 
