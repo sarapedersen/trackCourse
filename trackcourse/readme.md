@@ -23,7 +23,7 @@ Save knappen lagrer alle fagene i listen til databasen i JSON format. Hvert fag 
 Når brukeren trykker på load lastes alle fagene som tidligere har blitt vurdert opp fra databasen. 
 Eventuelle fag som brukeren har lagt inn før load blir aktivert blir værende. Listen blir i tillegg sortert slik at fag som ikke har blitt lagret til databasen står på riktig plass i listviewet. 
 
-![picture](https://imgur.com/a/VfBMtbD)
+![picture](https://i.imgur.com/ola0XCz.png)
 
 Til slutt har vi en "details" knapp som kun fungerer når et fag er valgt fra listviewet. Når brukeren trykker på knappen åpnes et pop-up vindu med detaljer om faget.
 Detaljene som vises er:
