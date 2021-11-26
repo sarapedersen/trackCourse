@@ -14,6 +14,7 @@ core mappen består hovedsakelig av tre deler:
 
 - json: Mappen står for den lokale lagringen av appen. Her oppretter hvert "subject" som blir lagret sin egne JSON fil hvor objektet lagres. Vi lagrer dermed kun et objekt per JSON fil.
 - main: Main-mappen står for hoveddelen av logikken vår og inneholder tre klasser: FileHandlerApp, Subject og CourseList.
+- test: test-mappen inneholder testene for klassene i main-mappen
 
 CourseList: //Casper
 
