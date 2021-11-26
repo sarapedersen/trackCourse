@@ -18,13 +18,13 @@ core mappen består hovedsakelig av tre deler:
 CourseList: //Casper
 
 Subject-klassen inneholder seks variabler: FullName, courseCode, ratings, difficulty, timeconsumption og entertainment. Fullname er navnet til faget, mens courseCode er fagkoden og brukes som primærnøkkel for å hente ut riktig fag fra databasen vår.
-ratings er en hashMap som har oversikt over gjennomsnittsvurderingen til hver av de ulike variablene. I tillegg har "ratings" oversikt over hvor mange ganger en variabel har blitt vurdert. 
-Når man kaller på en update funksjon multipliseres gjennomsnittet til variabelen med antall ganger variabelen har blitt vurdert. Så legges den nye vurderingen til summen, antall vurderinger økes med en, før man igjen regner ut gjennomsnittet og lagrer det i "ratings".
-Grunnen til at vi valgte et HashMap til å finne gjennomsnittet istedenfor å iterere gjennom en liste var for å senke kjøretiden til applikasjonen. 
+- ratings er en hashMap som har oversikt over gjennomsnittsvurderingen til hver av de ulike variablene. I tillegg har "ratings" oversikt over hvor mange ganger en variabel har blitt vurdert. 
+- Når man kaller på en update funksjon multipliseres gjennomsnittet til variabelen med antall ganger variabelen har blitt vurdert. Så legges den nye vurderingen til summen, antall vurderinger økes med en, før man igjen regner ut gjennomsnittet og lagrer det i "ratings".
+- Grunnen til at vi valgte et HashMap til å finne gjennomsnittet istedenfor å iterere gjennom en liste var for å senke kjøretiden til applikasjonen. 
 I dette faget får vi neppe store nok datamengder til at kjøretid blir relevant, men vi har hvertfall implementert logikk som støtter store datamengder.
-Vi har i tillegg til HashMapet valgt å implementere tre Arrays som holder oversikt over hver enkelt vurdering. Arraysene kan brukes til å holde oversikt over hver enkelt vurdering slik at man kan for eksempel analysere om det er stor variasjon i vurderingene, eller om det holder seg rundt gjennomsnittet.
-Appen vår støtter ikke en slik analyse, så den må utføres i terminalen. Arraysene er mest ment for å gi utviklerene en måte å analysere resultatene på.
-I tillegg til set-ere og get-ere har Subject-klassen en "average" funksjon som returnerer det samlede gjennomsnittet til alle variablene ved hjelp av enkel addisjon og divisjon.
+- Vi har i tillegg til HashMapet valgt å implementere tre Arrays som holder oversikt over hver enkelt vurdering. Arraysene kan brukes til å holde oversikt over hver enkelt vurdering slik at man kan for eksempel analysere om det er stor variasjon i vurderingene, eller om det holder seg rundt gjennomsnittet.
+- Appen vår støtter ikke en slik analyse, så den må utføres i terminalen. Arraysene er mest ment for å gi utviklerene en måte å analysere resultatene på.
+- I tillegg til set-ere og get-ere har Subject-klassen en "average" funksjon som returnerer det samlede gjennomsnittet til alle variablene ved hjelp av enkel addisjon og divisjon.
 
 FileHandlerApp-klassen er klassen vi bruker til å lagre Subject-objektene til JSON fil.
 klassen bruker Jackson-grensesnittet til å lagre hvert objekt som en egen JSON fil. 
@@ -34,7 +34,7 @@ klassen bruker Jackson-grensesnittet til å lagre hvert objekt som en egen JSON 
 - metoden Get() sender en GET-request til rest serveren, som henter en String bestående av subjects som er lagret i serveren i JSON-format, som lagres lokalt i "data"-stringen. Videre konverteres "data"-stringen til subjects ved bruk av ObjectMapper som adder hvert subjects til en Collection av subjects, som returneres etter at alle subjects er konvertert.
 - metoden Post(Collection<Subject> subs) sender en POST-request til rest serveren. Den tar inn en Collection av subjects og konverterer det til en String ved bruk av ObjectMapper sin writeValueAsString-metode. Videre sender den POST-requesten til serveren.
 
-I tillegg har vi en txt-fil som inneholder alle fagene NTNU har oppført på nettsiden sin. //Casper noe å tilføye?
+I tillegg har vi en txt-fil som inneholder alle fagene NTNU har oppført på nettsiden sin.
 
 - test: Test-mappen står for testene til core-mappen. "test" inneholder to test-klasser: FileHandlerAppTest og SubjectTest. 
 Vi har i tillegg implementert jacoco i prosjektet vårt i pom.xml filene for å sørge for at vi har tilstrekkelig dekning med testene våre.
