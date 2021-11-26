@@ -85,6 +85,17 @@ TrackcourseController: inneholder to metoder getData() og setData():
 - setData() lytter etter POST-requester, og returnerer "true" etter dataen er posten til rest serveren
 
 ## Hvordan kjøre Trackcourse
-1. Gå til mappen "springserver", og kjør kommando "mvn clean install", deretter "mvn spring-boot:run"
-2. Åpne en ny terminal og kom deg til hovedmappen; "trackcourse", og kjør deretter kommandoen "mvn clean install"
-3. I samme terminal gå til mappen "fxui" og kjør: "mvn javafx:run"
+1. Gå til mappen "trackcourse", og kjør kommando "mvn clean install"
+2. Gå til mappen "springserver", og kjør kommando "mvn spring-boot:run"
+2. Åpne en ny terminal og kom deg til hovedmappen; "trackcourse/fxui", og kjør deretter kommandoen "mvn javafx:run"
+
+## Hvordan kjøre testene for Trackcourse
+Testene blir skippet som default, og dette kan endres i den ytterste pom-filen (parentpom)
+1. Rest serveren må være oppe for at testene skal kjøre, så stegene over for dette
+2. Gå til den ytterste pom-filen og bytt ut "<skipTests>true</skipTests>" til <skipTests>false</skipTests> på linje 15
+3. Hvis du allerede har kjørt "mvn clean install" i "trackcourse" mappen, kan du skrive "mvn test" for å kjøre testene
+4. Hvis prosjektet ikke er bygget kan du nå kjøre kommandoen "mvn clean install", da vil prosjektet bygges og testene vil kjøre
+5. Etter testene har kjørt, kan du finne Jacoco reporten under target/site/jacoco
+
+
+
