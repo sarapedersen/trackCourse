@@ -5,7 +5,7 @@ Vi har laget en applikasjon som er som gir brukeren mulighet til å vurdere ulik
 - "Timeconsumption" er den andre variabelen og er et mål på hvor mye tid som kreves for å fullføre øvingsopplegget, og hvor mye tid brukeren må/måtte legge inn for å få karakteren C.
 - "Joy" er den siste variabelen og måler hvor morsomt brukeeren syntes faget var. "Joy" er den mest subjektive variabelen vi har og derfor den mest upålielige, men vi valgte å inkludere variabelen siden scoren vil gjevne seg ut når vi får inn mange nok vurderinger. I tillegg er "joy" kanskje den viktigste variabelen når studenter skal velge fag.
 
-![picture](https://imgur.com/oaPPx1A)
+![picture]([img]https://i.imgur.com/oaPPx1A.png[/img])
 
 Bildet over viser et bilde av appen vår sin startside. På venstre siden ser vi et listview med oversikt over alle fagene vi har lagt inn fra tidligere etterfulgt av gjennomsnittet til alle vurderingene til faget. Fagene er sortert etter gjennomsnittsvurdering hvor høyest score står øverst. Kun tidligere vurderte fag kommer opp på listen. 
 Gjennomsnittet regnes ut ved at vi har et HashMap med en gjennomsnittsvurdering for hver av de tre variablene for hvert fag. Vi henter ut gjennomsnittsvurderingene og bruker de til å finne gjennomsnittsvurderingen for faget.
