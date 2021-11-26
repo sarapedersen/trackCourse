@@ -1,0 +1,42 @@
+@startuml
+title Sequence Diagram
+
+skinparam Sequence {
+BoxBorderColor #d1d1d1
+}
+
+autonumber
+
+Actor user
+box "GUI" #f0ede6
+user -> GUI : "presses save"
+
+GUI -> AppController : onSave() *pushed*
+activate AppController
+end box
+
+box "core" #ffffff
+AppController -> FileHandlerApp : onSave()
+activate AppController
+activate FileHandlerApp
+FileHandlerApp -> FileHandlerApp : FileHandlerApp()
+activate FileHandlerApp
+end box
+
+box "springserver" #f0ede6
+FileHandlerApp -> server : send HTTP request of Post to /localhost:8080/data 
+alt posts data to server
+server -> FileHandlerApp : *returns true*
+else throws RuntimeException
+server -> FileHandlerApp : *returns false*
+end
+deactivate FileHandlerApp
+end box
+
+FileHandlerApp -> AppController : *returns true*
+deactivate FileHandlerApp
+deactivate AppController
+AppController -> GUI : updateOverview()
+deactivate AppController
+GUI -> user : Done
+@enduml
