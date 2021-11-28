@@ -1,13 +1,14 @@
 package trackcourse.core;
 
 import java.io.IOException;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
-
 import java.util.HashMap;
 
 public class Subject {
+
     private String fullName;
     private String courseCode;
     private final Map<String, Double> ratings = new HashMap<>();
@@ -35,100 +36,101 @@ public class Subject {
     public String getFullName() {
         return fullName;
     }
-
     public void setFullName(String fullName) {
         this.fullName = fullName;
     }
+
 
     public String getCourseCode() {
         return this.courseCode;
     }
     public void setCourseCode(String courseCode){
         this.courseCode = courseCode;
-
     }
+
 
     public double getDifficulty() {
         return ratings.get("difficulty");
     }
-
     public void setDifficulty(double diff) {
         ratings.put("difficulty", diff);
     }
 
+
     public double getTimeconsumption() {
         return ratings.get("timeconsumption");
     }
-
     public void setTimeconsumption(double time) {
         ratings.put("timeconsumption", time);
     }
 
+
     public double getEntertainment() {
         return ratings.get("entertainment");
     }
-
     public void setEntertainment(double entertainment) {
         ratings.put("entertainment", entertainment);
     }
 
+
     public double getNumDifficulty() {
         return ratings.get("numDifficulty");
     }
-
     public void setNumDifficulty(double numDiff) {
         ratings.put("numDifficulty", numDiff);
     }
 
+
     public double getNumTimeconsumption() {
         return ratings.get("numTimeconsumption");
     }
-
     public void setNumTimeconsumption(double numTime) {
         ratings.put("numTimeconsumption", numTime);
     }
 
+
     public double getNumEntertainment() {
         return ratings.get("numEntertainment");
     }
-
     public void setNumEntertainment(double numEntertainment) {
         ratings.put("numEntertainment", numEntertainment);
     }
+
 
     public Collection<Integer> getDiffRatings() {
         Collection<Integer> returnDiff = new ArrayList<>();
         returnDiff.addAll(difficulty);
         return returnDiff;
     }
+    public void setDiffRatings(Collection<Integer> diffRatings) {
+        difficulty.clear();
+        difficulty.addAll(diffRatings);
+    }
+
+
+    public Collection<Integer> getEntRatings() {
+        Collection<Integer> returnRating = new ArrayList<>();
+        returnRating.addAll(entertainment);
+        return returnRating;
+    }
+    public void setEntRatings(Collection<Integer> entRatings) {
+        entertainment.clear();
+        entertainment.addAll(entRatings);
+    }
+
+    
 
     public Collection<Integer> getTimeRatings() {
         Collection<Integer> returnTime = new ArrayList<>();
         returnTime.addAll(timeconsumption);
         return returnTime;
     }
-
-    public Collection<Integer> getEntRatings() {
-        Collection<Integer> returnRating = new ArrayList<>();
-        returnRating.addAll(entertainment);
-        return returnRating;
-
-    }
-
-    public void setDiffRatings(Collection<Integer> diffRatings) {
-        difficulty.clear();
-        difficulty.addAll(diffRatings);
-    }
-
     public void setTimeRatings(Collection<Integer> timeRatings) {
         timeconsumption.clear();
         timeconsumption.addAll(timeRatings);
     }
 
-    public void setEntRatings(Collection<Integer> entRatings) {
-        entertainment.clear();
-        entertainment.addAll(entRatings);
-    }
+    
 
     public void updateDifficulty(int grade) {
         if (grade < 1 || grade > 20) {
@@ -141,6 +143,7 @@ public class Subject {
         ratings.put("numDifficulty", num + 1);
     }
 
+
     public void updateTimeconsumption(int grade) {
         if (grade < 1 || grade > 20) {
             throw new IllegalArgumentException("not valid input");
@@ -152,6 +155,7 @@ public class Subject {
         ratings.put("numTimeconsumption", num + 1);
     }
 
+
     public void updateEntertainment(int grade) {
         if (grade < 1 || grade > 20) {
             throw new IllegalArgumentException("not valid input");
@@ -162,6 +166,7 @@ public class Subject {
         ratings.put("entertainment", ((ent * num) + grade) / (num + 1));
         ratings.put("numEntertainment", num + 1);
     }
+
 
     public double average() {
         return ((ratings.get("difficulty") + ratings.get("timeconsumption") + ratings.get("entertainment")) / 3);

@@ -3,13 +3,16 @@ package trackcourse.ui;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
 import java.io.IOException;
+
 import java.util.ArrayList;
 import java.util.Collection;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
 import org.testfx.api.FxAssert;
 import org.testfx.framework.junit5.ApplicationTest;
 import org.testfx.matcher.base.NodeMatchers;

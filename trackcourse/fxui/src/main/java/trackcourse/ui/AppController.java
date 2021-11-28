@@ -45,6 +45,7 @@ public class AppController {
     @FXML Label detailsDiff, detailsTime, detailsAverage, detailsJoy;
     @FXML Button btnCloseDetails;
 
+
     @FXML
     void subjectSelected() {
         String selected = (String) subjectListView.getSelectionModel().getSelectedItem();
@@ -56,13 +57,12 @@ public class AppController {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
+
 
     public void setSubjects(Collection<Subject> subs){
         this.subjects = subs;
     }
-
     public Collection<Subject> getSubjects() {
         return this.subjects;
     }
@@ -90,9 +90,8 @@ public class AppController {
         detailsTime.setText(df.format(subject.getTimeconsumption()));
         detailsJoy.setText(df.format(subject.getEntertainment()));
         detailsAverage.setText(df.format(subject.average()));
-
-
     }
+
 
     @FXML
     void onClose() {
@@ -103,12 +102,13 @@ public class AppController {
         txtDescription.setVisible(true);
     }
 
+
     @FXML
     void onSave() throws JsonProcessingException, IOException, URISyntaxException {
         FileHandlerApp saver = new FileHandlerApp();
         saver.Post(subjects);
-        
     }
+
 
     @FXML
     void onLoad() throws FileNotFoundException, IOException, URISyntaxException {
@@ -116,8 +116,8 @@ public class AppController {
         subjects = loader.Get();
         sortSubjects();
         updateLists();
-
     }
+
 
     @FXML
     void validate() throws IOException {
@@ -129,10 +129,10 @@ public class AppController {
             courseError.setText("*");
             preview.setText("");
             submitButton.setVisible(false);
-
         }
-
     }
+
+
 
     @FXML
     void onReset() {
@@ -161,6 +161,7 @@ public class AppController {
         this.subjects = sortedList;
     }
 
+
     @FXML
     void submit() throws IOException {
         // Checks if the subject already have been submitted or loaded
@@ -187,8 +188,8 @@ public class AppController {
         // Updates the list views
         updateLists();
         System.out.println(subjects);
-
     }
+
 
     @FXML
     void updateLists() {
@@ -208,6 +209,7 @@ public class AppController {
 
     }
 
+    // Return the subject selected by the User
     public Subject subjectDetails(String name) {
         Subject subject = null;
         for (Subject sub : subjects) {

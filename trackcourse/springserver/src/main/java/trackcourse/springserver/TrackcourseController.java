@@ -59,7 +59,7 @@ public class TrackcourseController {
     FileHandlerApp a = new FileHandlerApp();
     a.writeToJson(subs);
 
-    System.out.println("Post posted!");
+    System.out.println("POST request posted!");
     return true;
   }
 

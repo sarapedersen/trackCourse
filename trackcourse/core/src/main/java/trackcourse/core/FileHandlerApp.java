@@ -4,12 +4,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpRequest.BodyPublishers;
 import java.net.http.HttpResponse;
+
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -20,7 +22,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class FileHandlerApp {
 
   private Collection<Subject> subjects = new ArrayList<>();
-
 
   public FileHandlerApp(Collection<Subject> subs) {
     this.subjects = subs;
@@ -39,6 +40,7 @@ public class FileHandlerApp {
     }
   }
 
+  // Get request to REST-server
   public Collection<Subject> Get() throws URISyntaxException, JsonMappingException, JsonProcessingException {
     URI newUri = new URI("http://localhost:8080/data");
     String data = null;
@@ -52,7 +54,6 @@ public class FileHandlerApp {
         //konverter string av data til collection her
         String[] subjectsInArray = StringSplitter(data);
         for (String subString : subjectsInArray) {
-          System.out.println(subString);
           ObjectMapper objectMapper2 = new ObjectMapper();
           Subject sub = objectMapper2.readValue(subString, Subject.class);
           subjects.add(sub);
@@ -64,6 +65,8 @@ public class FileHandlerApp {
     return subjects;
   }
 
+
+  // POST-request to REST-server
   public boolean Post(Collection<Subject> subs) throws URISyntaxException, JsonProcessingException {
     URI newUri = new URI("http://localhost:8080/data");
     ObjectMapper objectMapper = new ObjectMapper();
@@ -74,7 +77,7 @@ public class FileHandlerApp {
       final HttpResponse<String> res = HttpClient.newBuilder().build().send(req, HttpResponse.BodyHandlers.ofString());
       Boolean successfullyAdded = objectMapper.readValue(res.body(), Boolean.class);
       if (successfullyAdded != null && successfullyAdded) {
-        System.out.println("Sucsesfullt posted colectrion of subjects 🙂");
+        System.out.println("Successfully posted collection of Subjects to server");
         return true;
       }
       return false;
@@ -95,10 +98,9 @@ public class FileHandlerApp {
     String[] shorterboois = loongboooi.split("}");
     String[] betterbois = new String[shorterboois.length - 1];
 
-    for (int i = 0; i < betterbois.length; i++) {
-      betterbois[i] = shorterboois[i].substring(1) + "}";
-    }
-
+      for (int i = 0; i < betterbois.length; i++) {
+        betterbois[i] = shorterboois[i].substring(1) + "}";
+      }
     return betterbois;
   }
 
@@ -110,14 +112,13 @@ public class FileHandlerApp {
 
     File f = new File("../core/src/json");
     File filesList[] = f.listFiles();
-    for (File file : filesList) {
-      ObjectMapper objectMapper = new ObjectMapper();
-      Subject sub = objectMapper.readValue(file, Subject.class);
-      subjects.add(sub);
-    }
 
+      for (File file : filesList) {
+        ObjectMapper objectMapper = new ObjectMapper();
+        Subject sub = objectMapper.readValue(file, Subject.class);
+        subjects.add(sub);
+      }
     return subjects;
-
   }
 
 
