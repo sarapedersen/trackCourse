@@ -32,8 +32,3 @@ Detaljene som vises er:
 - "Average joy"
 - "Average overall"
 - "Navn på fag"
-
-//Bilde UML beskrivelse av prosjektet.
-
-Bildet over viser en oversikt over hvordan prosjektet henger sammen.
-//TODO:
