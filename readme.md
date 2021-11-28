@@ -88,7 +88,7 @@ TrackcourseController: inneholder to metoder getData() og setData():
 - setData() lytter etter POST-requester, og returnerer "true" etter dataen er posten til rest serveren
 
 Sekvensdiagram:
-![](https://imgur.com/a/ZYM8f2m)
+![(https://imgur.com/a/ZYM8f2m)]
 
 Pakkediagram:
 
