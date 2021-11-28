@@ -16,8 +16,12 @@ core mappen består hovedsakelig av tre deler:
 - main: Main-mappen står for hoveddelen av logikken vår og inneholder tre klasser: FileHandlerApp, Subject og CourseList.
 - test: test-mappen inneholder testene for klassene i main-mappen
 
-CourseList: //Casper
-- I tillegg har vi en txt-fil som inneholder alle fagene NTNU har oppført på nettsiden sin.
+CourseList-klassen inneholder en hashmap over alle fagene NTNU tilbyr og deres respektive fagkoder. 
+- Dersom hashmappen er tom når en prøver å hente noe fra den, vil den oppdateres/initialiseres. Dette gjøres via updateMap().
+- updateMap() iterer igjennom en tekstfil som inneholder alle fagnavnene med deres fagkoder, og setter dem i hashmappen.
+- Tekstfilen ble generert av et python script som iterererte over kildekoden til ntnus hjemmeside, da vi ikke fant en liste som inneholdt denne dataen noe sted fra før.
+- Ellers er det en getter som henter ut fagnavnet fra en fagkode, og en validate() som sjekker om en fagkode faktisk eksisterer. 
+
 
 Subject-klassen inneholder seks variabler: FullName, courseCode, ratings, difficulty, timeconsumption og entertainment. Fullname er navnet til faget, mens courseCode er fagkoden og brukes som primærnøkkel for å hente ut riktig fag fra databasen vår.
 - ratings er en hashMap som har oversikt over gjennomsnittsvurderingen til hver av de ulike variablene. I tillegg har "ratings" oversikt over hvor mange ganger en variabel har blitt vurdert. 
