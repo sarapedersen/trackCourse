@@ -87,8 +87,9 @@ TrackcourseController: inneholder to metoder getData() og setData():
 - getData() lytter etter GET-requester, og returnerer all data i rest serveren
 - setData() lytter etter POST-requester, og returnerer "true" etter dataen er posten til rest serveren
 
-![Sekvensdiagram
-](https://imgur.com/7AdmMoQ.png)
+Klassediagram:
+
+![](https://imgur.com/7AdmMoQ.png)
 
 Pakkediagram:
 
