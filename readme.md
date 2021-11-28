@@ -17,6 +17,7 @@ core mappen består hovedsakelig av tre deler:
 - test: test-mappen inneholder testene for klassene i main-mappen
 
 CourseList: //Casper
+- I tillegg har vi en txt-fil som inneholder alle fagene NTNU har oppført på nettsiden sin.
 
 Subject-klassen inneholder seks variabler: FullName, courseCode, ratings, difficulty, timeconsumption og entertainment. Fullname er navnet til faget, mens courseCode er fagkoden og brukes som primærnøkkel for å hente ut riktig fag fra databasen vår.
 - ratings er en hashMap som har oversikt over gjennomsnittsvurderingen til hver av de ulike variablene. I tillegg har "ratings" oversikt over hvor mange ganger en variabel har blitt vurdert. 
@@ -35,9 +36,9 @@ klassen bruker Jackson-grensesnittet til å lagre hvert objekt som en egen JSON 
 - metoden Get() sender en GET-request til rest serveren, som henter en String bestående av subjects som er lagret i serveren i JSON-format, som lagres lokalt i "data"-stringen. Videre konverteres "data"-stringen til subjects ved bruk av ObjectMapper som adder hvert subjects til en Collection av subjects, som returneres etter at alle subjects er konvertert.
 - metoden Post(Collection<Subject> subs) sender en POST-request til rest serveren. Den tar inn en Collection av subjects og konverterer det til en String ved bruk av ObjectMapper sin writeValueAsString-metode. Videre sender den POST-requesten til serveren.
 
-I tillegg har vi en txt-fil som inneholder alle fagene NTNU har oppført på nettsiden sin.
 
-- test: Test-mappen står for testene til core-mappen. "test" inneholder to test-klasser: FileHandlerAppTest og SubjectTest. 
+
+- test: Test-mappen står for testene til core-mappen. "test" inneholder tre test-klasser: FileHandlerAppTest, SubjectTest og CourseListTest. 
 Vi har i tillegg implementert jacoco i prosjektet vårt i pom.xml filene for å sørge for at vi har tilstrekkelig dekning med testene våre.
 Testene er skrevet med standard Junit testframework siden vi føler det er et grensesnitt vi har godt kjennskap til.
 
@@ -47,7 +48,7 @@ FileHandlerAppTest består av 3 tester:
 
 CourseListTest består av 3 tester og tester om validate-metoden til CourseList fungerer og om den henter ut riktig fagnavn gitt en fagkode.
 
-SubjectTest implementerer ganske basis tester, og bruker assertFalse, Equals og True for å verifisere. Eneste ulempen med denne metoden er at det fort kan bli rotete for oss hvis vi skal skrive mange tester til en større app, men foreløpig er det ikke et problem.
+SubjectTest implementerer ganske basis tester, og bruker assertFalse, Equals og True for å verifisere. 
 
 ## fxui:
 
