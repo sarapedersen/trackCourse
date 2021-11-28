@@ -87,6 +87,16 @@ TrackcourseController: inneholder to metoder getData() og setData():
 - getData() lytter etter GET-requester, og returnerer all data i rest serveren
 - setData() lytter etter POST-requester, og returnerer "true" etter dataen er posten til rest serveren
 
+Sekvensdiagram:
+![](https://imgur.com/a/ZYM8f2m)
+
+Pakkediagram:
+
+
+Klassediagram:
+
+
+
 ## Hvordan kjøre Trackcourse
 1. Gå til mappen "trackcourse", og kjør kommando "mvn clean install"
 2. Gå til mappen "springserver", og kjør kommando "mvn spring-boot:run"
