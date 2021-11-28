@@ -93,10 +93,11 @@ Klassediagram:
 
 Pakkediagram:
 
+![](https://imgur.com/1PD5BhX.png)
 
-Klassediagram:
+Sekvensdiagram:
 
-
+![](https://imgur.com/Iy5Txdz.png)
 
 ## Hvordan kjøre Trackcourse
 1. Gå til mappen "trackcourse", og kjør kommando "mvn clean install"
